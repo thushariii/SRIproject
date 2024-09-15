@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Sulfamethoxazole drug stress upregulates antioxidant immunomodulatory metabolites in Escherichia coli.",
+        "Journal Name": "Nature microbiology",
+        "PMID": "32719505",
+        "PMC": "PMC7581551",
+        "DOI": "10.1038/s41564-020-0763-4",
+        "Release Date": "27-07-2020",
+        "Abstract": "Escherichia coli is an important model organism in microbiology and a prominent member of the human microbiota",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin-10\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "Interleukin-10"
+    }
+]

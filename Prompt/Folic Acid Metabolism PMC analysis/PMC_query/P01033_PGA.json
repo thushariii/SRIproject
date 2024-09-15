@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Extracellular vesicles from bone marrow mesenchymal stem/stromal cells transport tumor regulatory microRNA, proteins, and metabolites.",
+        "Journal Name": "Oncotarget",
+        "PMID": "25669974",
+        "PMC": "PMC4467126",
+        "DOI": "10.18632/oncotarget.3211",
+        "Release Date": "--",
+        "Abstract": "Human mesenchymal stem/stromal cells (hMSCs) have been shown to support breast cancer cell proliferation and metastasis, partly through their secretome. hMSCs have a remarkable ability to survive for long periods under stress, and their secretome is tumor supportive. In this study, we have characterized the cargo of extracellular vesicular (EV) fraction (that is in the size range of 40-150nm) of serum deprived hMSCs (SD-MSCs). Next Generation Sequencing assays were used to identify small RNA secreted in the EVs, which indicated presence of tumor supportive miRNA. Further assays demonstrated the role of miRNA-21 and 34a as tumor supportive miRNAs. Next, proteomic assays revealed the presence of ≈150 different proteins, most of which are known tumor supportive factors such as PDGFR-β, TIMP-1, and TIMP-2. Lipidomic assays verified presence of bioactive lipids such as sphingomyelin. Furthermore, metabolite assays identified the presence of lactic acid and glutamic acid in EVs. The co-injection xenograft assays using MCF-7 breast cancer cells demonstrated the tumor supportive function of these EVs. To our knowledge this is the first comprehensive -omics based study that characterized the complex cargo of extracellular vesicles secreted by hMSCs and their role in supporting breast cancers.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TIMP-1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "TIMP-1"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Steric and electronic control over the reactivity of a thiolate-ligated Fe(II) complex with dioxygen and superoxide: reversible mu-oxo dimer formation.",
+        "Journal Name": "Inorganic chemistry",
+        "PMID": "15554633",
+        "PMC": "PMC4485619",
+        "DOI": "10.1021/ic0491884",
+        "Release Date": "--",
+        "Abstract": "The reactivity between a thiolate-ligated five-coordinate complex [FeII(SMe2N4(tren))]+ (1) and dioxygen is examined in order to determine if O2 activation, resembling that of the metalloenzyme cytochrome P450, can be promoted even when O2 binds cis, as opposed to trans, to a thiolate. Previous work in our group showed that [FeII(SMe2N4(tren))]+ (1) reacts readily with superoxide (O2-) in the presence of a proton source to afford H2O2 via an Fe(III)-OOH intermediate, thus providing a biomimetic model for the metalloenzyme superoxide reductase (SOR). Addition of O2 to 1 affords binuclear mu-oxo-bridged [FeIII(SMe2N4(tren))]2(mu2-O)(PF6)2.3MeCN (3). At low temperatures, in protic solvents, an intermediate is detected, the details of which will be the subject of a separate paper. Although the thiolate ligand does not appear to perturb the metrical parameters of the unsupported mu-oxo bridge (Fe-O= 1.807(8) A, and Fe-O-Fe= 155.3(5) degrees fall in the usual range), it decreases the magnetic coupling between the irons (J=-28 cm(-1)) and creates a rather basic oxo site. Protonation of this oxo using strong (HBF4, HCl) or weak (HOAc, NH4PF6, LutNHCl) acids results in bridge cleavage to cleanly afford the corresponding monomeric anion-ligated (OAc- (6), or Cl- (7)) or solvent-ligated (MeCN (4)) derivatives. Addition of OH- converts [FeIII(SMe2N4(tren))(MeCN2+ (4) back to mu-oxo 3. Thus, mu-oxo bridge cleavage is reversible. The protonated mu-hydroxo-bridged intermediate is not observed. In an attempt to prevent mu-oxo dimer formation, and facilitate the observation of O2-bound intermediates, a bulkier tertiary amine ligand, tren-Et4= N-(2-amino-ethyl)-N-(2-diethylamino-ethyl)-N',N'-diethyl-ethane-1,2-diamine, and the corresponding [FeII(SMe2N4(tren-Et4))]+ (5) complex was synthesized and structurally characterized. Steric repulsive interactions create unusually long FeII-N(3,4) amine bonds in 5 (mean distance=2.219(1) A). The [(tren-Et4)N4SMe2]1- ligand is unable to accommodate iron in the +3 oxidation state, and consequently, in contrast to most thiolate-ligated Fe(II) complexes, [FeII(SMe2N4(tren-Et4))]+ (5) does not readily react with O2. Oxidation of 5 is irreversible, and the potential (Epa=+410 mV (vs SCE)) is anodically shifted relative to 1 (E1/2=-100 mV (vs SCE)).",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"EPA\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "EPA"
+    }
+]

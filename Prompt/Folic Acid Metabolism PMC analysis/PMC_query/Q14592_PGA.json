@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Severe anemia caused by dominant mutations in Krüppel-like factor 1 (KLF1).",
+        "Journal Name": "Mutation research. Reviews in mutation research",
+        "PMID": "33339573",
+        "PMC": "PMC10199782",
+        "DOI": "10.1016/j.mrrev.2020.108336",
+        "Release Date": "09-10-2020",
+        "Abstract": "The etiology and severity of anemia, a common blood disorder, are diverse. Dominant mutations in Krüppel-like factor 1 (KLF1/EKLF) underlie the molecular basis for some of them. KLF1 is a zinc finger transcription factor that plays an essential role in red blood cell proliferation and differentiation. Mutations have been identified in the KLF1 gene that cause hematologic diseases. Two of these alter one allele but generate an extreme phenotype: the mouse Nan mutation (E339D) leads to hemolytic neonatal anemia with hereditary spherocytosis, and the human CDA mutation (E325K) causes congenital dyserythropoietic anemia (CDA) type IV. These modify functionally important amino acids in the zinc finger DNA-binding domain at positions involved in direct interactions with regulatory elements of KLF1's target genes. Although the two dominant mutations alter the same evolutionarily conserved glutamic acid residue, the substitutions are not equivalent and lead to divergent consequences for the molecular mechanisms underlying activity of these mutants, particularly in recognition and interaction with their unique binding sites. Consequently, the properties of the protein are transformed such that it acquires novel dominant characteristics whose effects may not be limited to the erythroid compartment. KLF1 mutants cause loss-of-function/haploinsufficiency effects on some KLF1 wild-type target genes, while at the same time gain-of-function effects activate ectopic sites and neomorphic gene expression. Such anomalies not only lead to intrinsic red cell problems, but also to expression of non-erythroid genes that systemically disturb organ development. This review highlights recent molecular, biochemical, and genetic studies of KLF1 mutants, particularly the dramatic consequences that come from just a single amino acid change. The study of these variants provides an important contribution to the overall understanding of the DNA-protein interface of the zinc finger subtype of transcription factors, and the potential clinical consequences of what might appear to be a minor change in sequence.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    }
+]

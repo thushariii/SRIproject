@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Chidamide Inhibits Glioma Cells by Increasing Oxidative Stress via the miRNA-338-5p Regulation of Hedgehog Signaling.",
+        "Journal Name": "Oxidative medicine and cellular longevity",
+        "PMID": "32256960",
+        "PMC": "PMC7086450",
+        "DOI": "10.1155/2020/7126976",
+        "Release Date": "11-03-2020",
+        "Abstract": "Chidamide has a broad spectrum of antitumor activity but its function on glioma remains unknown. The increase of reactive oxygen species (ROS) and reactive nitrogen species (RNS) may control glioma risk by promoting its apoptosis and necrosis. Hedgehog pathway is crucial to glioma cell proliferation and controls ROS production. We aimed to explore the effects of chidamide on the levels of miR-338-5p (glioma cell inhibitor), which may regulate Hedgehog signaling, resulting in the changes of RNS.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"MMP-2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "MMP-2"
+    }
+]

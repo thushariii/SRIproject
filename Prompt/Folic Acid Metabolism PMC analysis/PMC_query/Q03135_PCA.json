@@ -1,0 +1,86 @@
+[
+    {
+        "Title": "Pre-clinical proof-of-concept of anti-fibrotic activity of caveolin-1 scaffolding domain peptide LTI-03 in",
+        "Journal Name": "bioRxiv : the preprint server for biology",
+        "PMID": "38712072",
+        "PMC": "PMC11071419",
+        "DOI": "10.1101/2024.04.24.589970",
+        "Release Date": "28-04-2024",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    },
+    {
+        "Title": "The anti-neoplastic effects of metformin modulate the acquired phenotype of fibroblast cells in the breast cancer-normal fibroblast co-culture system.",
+        "Journal Name": "Oncology research",
+        "PMID": "38361760",
+        "PMC": "PMC10865743",
+        "DOI": "10.32604/or.2023.043926",
+        "Release Date": "06-02-2024",
+        "Abstract": "Intracellular communications between breast cancer and fibroblast cells were reported to be involved in cancer proliferation, growth, and therapy resistance. The hallmarks of cancer-fibroblast interactions, consisting of caveolin 1 (Cav1) and mono-carboxylate transporter 4 (MCT4) (metabolic coupling markers), along with IL-6, TGFβ, and lactate secretion, are considered robust biomarkers predicting recurrence and metastasis. In order to promote a novel phenotype in normal fibroblasts, we predicted that breast cancer cells could be able to cause loss of Cav1 and increase of MCT4, as well as elevate IL-6 and TGFβ in nearby normal fibroblasts. We created a co-culture model using breast cancer (4T1) and normal fibroblast (NIH3T3) cell lines cultured under specific experimental conditions in order to directly test our theory. Moreover, we show that long-term co-culture of breast cancer cells and normal fibroblasts promotes loss of Cav1 and gain of MCT4 in adjacent fibroblasts and increase lactate secretion. These results were validated using the monoculture of each group separately as a control. In this system, we show that metformin inhibits IL-6 and TGFβ secretion and re-expresses Cav1 in both cells. However, MCT4 and lactate stayed high after treatment with metformin. In conclusion, our work shows that co-culture with breast cancer cells may cause significant alterations in the phenotype and secretion of normal fibroblasts. Metformin, however, may change this state and affect fibroblasts' acquired phenotypes. Moreover, mitochondrial inhibition by metformin after 8 days of treatment, significantly hinders tumor growth in mouse model of breast cancer.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    },
+    {
+        "Title": "Pre-clinical proof-of-concept of anti-fibrotic activity of caveolin-1 scaffolding domain peptide LTI-03 in",
+        "Journal Name": "bioRxiv : the preprint server for biology",
+        "PMID": "38712072",
+        "PMC": "PMC11071419",
+        "DOI": "10.1101/2024.04.24.589970",
+        "Release Date": "28-04-2024",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    },
+    {
+        "Title": "The anti-neoplastic effects of metformin modulate the acquired phenotype of fibroblast cells in the breast cancer-normal fibroblast co-culture system.",
+        "Journal Name": "Oncology research",
+        "PMID": "38361760",
+        "PMC": "PMC10865743",
+        "DOI": "10.32604/or.2023.043926",
+        "Release Date": "06-02-2024",
+        "Abstract": "Intracellular communications between breast cancer and fibroblast cells were reported to be involved in cancer proliferation, growth, and therapy resistance. The hallmarks of cancer-fibroblast interactions, consisting of caveolin 1 (Cav1) and mono-carboxylate transporter 4 (MCT4) (metabolic coupling markers), along with IL-6, TGFβ, and lactate secretion, are considered robust biomarkers predicting recurrence and metastasis. In order to promote a novel phenotype in normal fibroblasts, we predicted that breast cancer cells could be able to cause loss of Cav1 and increase of MCT4, as well as elevate IL-6 and TGFβ in nearby normal fibroblasts. We created a co-culture model using breast cancer (4T1) and normal fibroblast (NIH3T3) cell lines cultured under specific experimental conditions in order to directly test our theory. Moreover, we show that long-term co-culture of breast cancer cells and normal fibroblasts promotes loss of Cav1 and gain of MCT4 in adjacent fibroblasts and increase lactate secretion. These results were validated using the monoculture of each group separately as a control. In this system, we show that metformin inhibits IL-6 and TGFβ secretion and re-expresses Cav1 in both cells. However, MCT4 and lactate stayed high after treatment with metformin. In conclusion, our work shows that co-culture with breast cancer cells may cause significant alterations in the phenotype and secretion of normal fibroblasts. Metformin, however, may change this state and affect fibroblasts' acquired phenotypes. Moreover, mitochondrial inhibition by metformin after 8 days of treatment, significantly hinders tumor growth in mouse model of breast cancer.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    },
+    {
+        "Title": "Pre-clinical proof-of-concept of anti-fibrotic activity of caveolin-1 scaffolding domain peptide LTI-03 in",
+        "Journal Name": "bioRxiv : the preprint server for biology",
+        "PMID": "38712072",
+        "PMC": "PMC11071419",
+        "DOI": "10.1101/2024.04.24.589970",
+        "Release Date": "28-04-2024",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    },
+    {
+        "Title": "The anti-neoplastic effects of metformin modulate the acquired phenotype of fibroblast cells in the breast cancer-normal fibroblast co-culture system.",
+        "Journal Name": "Oncology research",
+        "PMID": "38361760",
+        "PMC": "PMC10865743",
+        "DOI": "10.32604/or.2023.043926",
+        "Release Date": "06-02-2024",
+        "Abstract": "Intracellular communications between breast cancer and fibroblast cells were reported to be involved in cancer proliferation, growth, and therapy resistance. The hallmarks of cancer-fibroblast interactions, consisting of caveolin 1 (Cav1) and mono-carboxylate transporter 4 (MCT4) (metabolic coupling markers), along with IL-6, TGFβ, and lactate secretion, are considered robust biomarkers predicting recurrence and metastasis. In order to promote a novel phenotype in normal fibroblasts, we predicted that breast cancer cells could be able to cause loss of Cav1 and increase of MCT4, as well as elevate IL-6 and TGFβ in nearby normal fibroblasts. We created a co-culture model using breast cancer (4T1) and normal fibroblast (NIH3T3) cell lines cultured under specific experimental conditions in order to directly test our theory. Moreover, we show that long-term co-culture of breast cancer cells and normal fibroblasts promotes loss of Cav1 and gain of MCT4 in adjacent fibroblasts and increase lactate secretion. These results were validated using the monoculture of each group separately as a control. In this system, we show that metformin inhibits IL-6 and TGFβ secretion and re-expresses Cav1 in both cells. However, MCT4 and lactate stayed high after treatment with metformin. In conclusion, our work shows that co-culture with breast cancer cells may cause significant alterations in the phenotype and secretion of normal fibroblasts. Metformin, however, may change this state and affect fibroblasts' acquired phenotypes. Moreover, mitochondrial inhibition by metformin after 8 days of treatment, significantly hinders tumor growth in mouse model of breast cancer.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    },
+    {
+        "Title": "Guiding bar motif of thioredoxin reductase 1 modulates enzymatic activity and inhibitor binding by communicating with the co-factor FAD and regulating the flexible C-terminal redox motif.",
+        "Journal Name": "Redox biology",
+        "PMID": "38277963",
+        "PMC": "PMC10840350",
+        "DOI": "10.1016/j.redox.2024.103050",
+        "Release Date": "18-01-2024",
+        "Abstract": "Thioredoxin reductase (TXNRD) is a selenoprotein that plays a crucial role in cellular antioxidant defense. Previously, a distinctive guiding bar motif was identified in TXNRD1, which influences the transfer of electrons. In this study, utilizing single amino acid substitution and Excitation-Emission Matrix (EEM) fluorescence spectrum analysis, we discovered that the guiding bar communicates with the FAD and modulates the electron flow of the enzyme. Differential Scanning Fluorimetry (DSF) analysis demonstrated that the aromatic amino acid in guiding bar is a stabilizer for TXNRD1. Kinetic analysis revealed that the guiding bar is vital for the disulfide reductase activity but hinders the selenocysteine-independent reduction activity of TXNRD1. Meanwhile, the guiding bar shields the selenocysteine residue of TXNRD1 from the attack of electrophilic reagents. We also found that the inhibition of TXNRD1 by caveolin-1 scaffolding domain (CSD) peptides and compound LCS3 did not bind to the guiding bar motif. In summary, the obtained results highlight new aspects of the guiding bar that restrict the flexibility of the C-terminal redox motif and govern the transition from antioxidant to pro-oxidant.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caveolin-1\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Caveolin-1"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Protein kinase Cmu plays an essential role in hypertonicity-induced heat shock protein 70 expression.",
+        "Journal Name": "Experimental & molecular medicine",
+        "PMID": "19116445",
+        "PMC": "PMC2679349",
+        "DOI": "10.3858/emm.2008.40.6.596",
+        "Release Date": "--",
+        "Abstract": "Heat shock protein 70 (HSP70), which evidences important functions as a molecular chaperone and anti-apoptotic molecule, is substantially induced in cells exposed to a variety of stresses, including hypertonic stress, heavy metals, heat shock, and oxidative stress, and prevents cellular damage under these conditions. However, the molecular mechanism underlying the induction of HSP70 in response to hypertonicity has been characterized to a far lesser extent. In this study, we have investigated the cellular signaling pathway of HSP70 induction under hypertonic conditions. Initially, we applied a variety of kinase inhibitors to NIH3T3 cells that had been exposed to hypertonicity. The induction of HSP70 was suppressed specifically by treatment with protein kinase C (PKC) inhibitors (Gö6976 and GF109203X). As hypertonicity dramatically increased the phosphorylation of PKCmu, we then evaluated the role of PKCmu in hypertonicity-induced HSP70 expression and cell viability. The depletion of PKCmu with siRNA or the inhibition of PKCmu activity with inhibitors resulted in a reduction in HSP70 induction and cell viability. Tonicity-responsive enhancer binding protein (TonEBP), a transcription factor for hypertonicity-induced HSP70 expression, was translocated rapidly into the nucleus and was modified gradually in the nucleus under hypertonic conditions. When we administered treatment with PKC inhibitors, the mobility shift of TonEBP was affected in the nucleus. However, PKCmu evidenced no subcellular co-localization with TonEBP during hypertonic exposure. From our results, we have concluded that PKCmu performs a critical function in hypertonicity-induced HSP70 induction, and finally cellular protection, via the indirect regulation of TonEBP modification.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Tonicity-responsive enhancer-binding protein\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Tonicity-responsive enhancer-binding protein"
+    }
+]

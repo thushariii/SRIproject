@@ -1,0 +1,63 @@
+[
+    {
+        "Title": "Feasibility of [",
+        "Journal Name": "Tomography (Ann Arbor, Mich.)",
+        "PMID": "36961000",
+        "PMC": "PMC10037609",
+        "DOI": "10.3390/tomography9020041",
+        "Release Date": "24-02-2023",
+        "Abstract": "Early response assessment is critical for personalizing cancer therapy. Emerging therapeutic regimens with encouraging results in the wild-type (WT)",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Epidermal growth factor receptor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Epidermal growth factor receptor"
+    },
+    {
+        "Title": "Feasibility of [",
+        "Journal Name": "Tomography (Ann Arbor, Mich.)",
+        "PMID": "36961000",
+        "PMC": "PMC10037609",
+        "DOI": "10.3390/tomography9020041",
+        "Release Date": "24-02-2023",
+        "Abstract": "Early response assessment is critical for personalizing cancer therapy. Emerging therapeutic regimens with encouraging results in the wild-type (WT)",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"epidermal growth factor receptor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "epidermal growth factor receptor"
+    },
+
+    {
+        "Title": "Feasibility of [",
+        "Journal Name": "Tomography (Ann Arbor, Mich.)",
+        "PMID": "36961000",
+        "PMC": "PMC10037609",
+        "DOI": "10.3390/tomography9020041",
+        "Release Date": "24-02-2023",
+        "Abstract": "Early response assessment is critical for personalizing cancer therapy. Emerging therapeutic regimens with encouraging results in the wild-type (WT)",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERBB\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "ERBB"
+    },
+    {
+        "Title": "Accumulation of aspartic acid421- and glutamic acid391-cleaved tau in neurofibrillary tangles correlates with progression in Alzheimer disease.",
+        "Journal Name": "Journal of neuropathology and experimental neurology",
+        "PMID": "18431250",
+        "PMC": "PMC4699801",
+        "DOI": "10.1097/NEN.0b013e31817275c7",
+        "Release Date": "--",
+        "Abstract": "Truncations of tau protein at aspartic acid421 (D421) and glutamic acid391 (E391) residues are associated with neurofibrillary tangles (NFTs) in the brains of Alzheimer disease (AD) patients. Using immunohistochemistry with antibodies to D421- and E391-truncated tau (Tau-C3 and MN423, respectively), we correlated the presence of NFTs composed of these truncated tau proteins with clinical and neuropathologic parameters in 17 AD and 23 non-AD control brains. The densities of NFTs composed of D421- or E391-truncated tau correlated with clinical dementia index and Braak staging in AD. Glutamic acid391 tau truncation was prominent in the entorhinal cortex, whereas D421 truncation was prominent in the subiculum, suggesting that NFTs composed of either D421- or E391-truncated tau may be formed mutually exclusively in these areas. Both truncations were associated with the prevalence of the apolipoprotein E epsilon4 allele. By double labeling, intact tau in NFTs was commonly associated with D421-cleaved tau but not with E391-truncated tau; D421-cleaved tau was never associated with E391-truncated tau. These results indicate that tau is not randomly proteolyzed at different domains, and that proteolysis occurs sequentially from the C-terminus to inner regions of tau in AD progression. Identification of NFTs composed of tau at different stages of truncation may facilitate assessment of neurofibrillary pathology in AD.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"mENA\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "mENA"
+    },
+    {
+        "Title": "Feasibility of [",
+        "Journal Name": "Tomography (Ann Arbor, Mich.)",
+        "PMID": "36961000",
+        "PMC": "PMC10037609",
+        "DOI": "10.3390/tomography9020041",
+        "Release Date": "24-02-2023",
+        "Abstract": "Early response assessment is critical for personalizing cancer therapy. Emerging therapeutic regimens with encouraging results in the wild-type (WT)",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"EGFR\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "EGFR"
+    }
+]

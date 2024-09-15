@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Reversal of bortezomib resistance in myelodysplastic syndrome cells by MAPK inhibitors.",
+        "Journal Name": "PloS one",
+        "PMID": "24608798",
+        "PMC": "PMC3946707",
+        "DOI": "10.1371/journal.pone.0090992",
+        "Release Date": "07-03-2014",
+        "Abstract": "The myelodysplastic syndromes (MDS) comprise a heterogeneous group of malignant neoplasms with distinctive clinicopathological features. Currently, there is no specific approach for the treatment of MDS. Here, we report that bortezomib (BTZ), a proteasome inhibitor that has been used to treat plasma cell myeloma, induced G2/M phase cycle arrest in the MDS cell line SKM-1 through upregulation of Wee1, a negative regulator of G2/M phase transition. Treatment by BTZ led to reduced SKM-1 cell viability as well as increased apoptosis and autophagy. The BTZ-induced cell death was associated with reduced expression of p-ERK. To elucidate the implications of downregulation of p-ERK, we established the BTZ resistant cell line SKM-1R. Our data show that resistance to BTZ-induced apoptosis could be reversed by the MEK inhibitors U0126 or PD98059. Our results suggest that MAPK pathway may play an important role in mediating BTZ resistance.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"WEE1\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "WEE1"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"VEGF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "VEGF"
+    },
+    {
+        "Title": "Novel atypical PKC inhibitors prevent vascular endothelial growth factor-induced blood-retinal barrier dysfunction.",
+        "Journal Name": "The Biochemical journal",
+        "PMID": "22721706",
+        "PMC": "PMC3767384",
+        "DOI": "10.1042/BJ20111961",
+        "Release Date": "--",
+        "Abstract": "Pro-inflammatory cytokines and growth factors such as VEGF (vascular endothelial growth factor) contribute to the loss of the BRB (blood-retinal barrier) and subsequent macular oedema in various retinal pathologies. VEGF signalling requires PKCβ [conventional PKC (protein kinase C)] activity; however, PKCβ inhibition only partially prevents VEGF-induced endothelial permeability and does not affect pro-inflammatory cytokine-induced permeability, suggesting the involvement of alternative signalling pathways. In the present study, we provide evidence for the involvement of aPKC (atypical PKC) signalling in VEGF-induced endothelial permeability and identify a novel class of inhibitors of aPKC that prevent BRB breakdown in vivo. Genetic and pharmacological manipulations of aPKC isoforms were used to assess their contribution to endothelial permeability in culture. A chemical library was screened using an in vitro kinase assay to identify novel small-molecule inhibitors, and further medicinal chemistry was performed to delineate a novel pharmacophore. We demonstrate that aPKC isoforms are both sufficient and required for VEGF-induced endothelial permeability. Furthermore, these specific, potent, non-competitive, small-molecule inhibitors prevented VEGF-induced tight junction internalization and retinal endothelial permeability in response to VEGF in both primary culture and in rodent retina. The results of the present study suggest that aPKC inhibition with 2-amino-4-phenyl-thiophene derivatives may be developed to preserve the BRB in retinal diseases such as diabetic retinopathy or uveitis, and the BBB (blood-brain barrier) in the presence of brain tumours.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"vascular endothelial growth factor A\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "vascular endothelial growth factor A"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"vascular endothelial growth factor A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "vascular endothelial growth factor A"
+    },
+    {
+        "Title": "Novel atypical PKC inhibitors prevent vascular endothelial growth factor-induced blood-retinal barrier dysfunction.",
+        "Journal Name": "The Biochemical journal",
+        "PMID": "22721706",
+        "PMC": "PMC3767384",
+        "DOI": "10.1042/BJ20111961",
+        "Release Date": "--",
+        "Abstract": "Pro-inflammatory cytokines and growth factors such as VEGF (vascular endothelial growth factor) contribute to the loss of the BRB (blood-retinal barrier) and subsequent macular oedema in various retinal pathologies. VEGF signalling requires PKCβ [conventional PKC (protein kinase C)] activity; however, PKCβ inhibition only partially prevents VEGF-induced endothelial permeability and does not affect pro-inflammatory cytokine-induced permeability, suggesting the involvement of alternative signalling pathways. In the present study, we provide evidence for the involvement of aPKC (atypical PKC) signalling in VEGF-induced endothelial permeability and identify a novel class of inhibitors of aPKC that prevent BRB breakdown in vivo. Genetic and pharmacological manipulations of aPKC isoforms were used to assess their contribution to endothelial permeability in culture. A chemical library was screened using an in vitro kinase assay to identify novel small-molecule inhibitors, and further medicinal chemistry was performed to delineate a novel pharmacophore. We demonstrate that aPKC isoforms are both sufficient and required for VEGF-induced endothelial permeability. Furthermore, these specific, potent, non-competitive, small-molecule inhibitors prevented VEGF-induced tight junction internalization and retinal endothelial permeability in response to VEGF in both primary culture and in rodent retina. The results of the present study suggest that aPKC inhibition with 2-amino-4-phenyl-thiophene derivatives may be developed to preserve the BRB in retinal diseases such as diabetic retinopathy or uveitis, and the BBB (blood-brain barrier) in the presence of brain tumours.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Vascular endothelial growth factor A\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "Vascular endothelial growth factor A"
+    },
+    {
+        "Title": "Novel atypical PKC inhibitors prevent vascular endothelial growth factor-induced blood-retinal barrier dysfunction.",
+        "Journal Name": "The Biochemical journal",
+        "PMID": "22721706",
+        "PMC": "PMC3767384",
+        "DOI": "10.1042/BJ20111961",
+        "Release Date": "--",
+        "Abstract": "Pro-inflammatory cytokines and growth factors such as VEGF (vascular endothelial growth factor) contribute to the loss of the BRB (blood-retinal barrier) and subsequent macular oedema in various retinal pathologies. VEGF signalling requires PKCβ [conventional PKC (protein kinase C)] activity; however, PKCβ inhibition only partially prevents VEGF-induced endothelial permeability and does not affect pro-inflammatory cytokine-induced permeability, suggesting the involvement of alternative signalling pathways. In the present study, we provide evidence for the involvement of aPKC (atypical PKC) signalling in VEGF-induced endothelial permeability and identify a novel class of inhibitors of aPKC that prevent BRB breakdown in vivo. Genetic and pharmacological manipulations of aPKC isoforms were used to assess their contribution to endothelial permeability in culture. A chemical library was screened using an in vitro kinase assay to identify novel small-molecule inhibitors, and further medicinal chemistry was performed to delineate a novel pharmacophore. We demonstrate that aPKC isoforms are both sufficient and required for VEGF-induced endothelial permeability. Furthermore, these specific, potent, non-competitive, small-molecule inhibitors prevented VEGF-induced tight junction internalization and retinal endothelial permeability in response to VEGF in both primary culture and in rodent retina. The results of the present study suggest that aPKC inhibition with 2-amino-4-phenyl-thiophene derivatives may be developed to preserve the BRB in retinal diseases such as diabetic retinopathy or uveitis, and the BBB (blood-brain barrier) in the presence of brain tumours.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Vascular endothelial growth factor A\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "Vascular endothelial growth factor A"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Vascular endothelial growth factor A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Vascular endothelial growth factor A"
+    },
+    {
+        "Title": "Hypoxia inhibits TNF-α-induced TSLP expression in keratinocytes.",
+        "Journal Name": "PloS one",
+        "PMID": "31682627",
+        "PMC": "PMC6827910",
+        "DOI": "10.1371/journal.pone.0224705",
+        "Release Date": "04-11-2019",
+        "Abstract": "The expression of thymic stromal lymphopoietin (TSLP), a cytokine which greatly contributes to the induction of type I allergy, is upregulated in chronic inflammation such as atopic dermatitis and psoriasis. As hypoxia in the epidermis is important for maintaining skin homeostasis, we examined the regulation of TSLP expression by hypoxic conditions in normal skin epithelial tissues. TNF-α-induced expression of TSLP in human keratinocyte HaCaT and in mouse keratinocyte PAM212 cell lines were inhibited under hypoxic condition (1% O2), although the mRNA expressions of TNF-α, IL-6, IL-8, MCP-1, and VEGF-A were not inhibited. Hypoxia-mimicking conditions, which include NiCl2, CoCl2, and DMOG, an inhibitor of 2-oxoglutarate-dependent enzymes, also selectively inhibited TNF-α-induced TSLP expression. These results suggested that inactivation of prolyl hydroxylase by hypoxia and hypoxia-mimicking conditions is involved in the repression of TNF-α-induced TSLP expression. Interestingly, the inhibition of TSLP production by hypoxic treatment was significantly reversed by treatment with the HIF-2α antagonist but not with the HIF-1α inhibitor. DMOG-induced inhibition of TSLP promoter activity was dependent on the -71 to +185 bp promoter region, suggesting that the binding of HIF-2 to hypoxia response element (HRE) in this region repressed the TSLP expression. These results indicated that hypoxia and hypoxia-mimicking conditions inhibited TSLP expression via HIF-2 and HRE-dependent mechanisms. Therefore, PHD and HIF-2α could be a new strategy for treatment of atopic dermatitis and psoriasis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"VEGF-A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "VEGF-A"
+    },
+    {
+        "Title": "Concanavalin A promotes angiogenesis and proliferation in endothelial cells through the Akt/ERK/Cyclin D1 axis.",
+        "Journal Name": "Pharmaceutical biology",
+        "PMID": "34913414",
+        "PMC": "PMC8725916",
+        "DOI": "10.1080/13880209.2021.2013259",
+        "Release Date": "--",
+        "Abstract": "Concanavalin A (Con A) exhibited multiple roles in cancer cells. However, the role of Con A in endothelial cells was not reported.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"VEGFA\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "VEGFA"
+    }
+]

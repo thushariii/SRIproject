@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Mutational and structural studies of (βα)",
+        "Journal Name": "Protein science : a publication of the Protein Society",
+        "PMID": "38747406",
+        "PMC": "PMC11094777",
+        "DOI": "10.1002/pro.5018",
+        "Release Date": "--",
+        "Abstract": "Methylene-tetrahydropterin reductases catalyze the reduction of a methylene to a methyl group bound to a reduced pterin as C",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "Control of Biofilm Formation by an",
+        "Journal Name": "bioRxiv : the preprint server for biology",
+        "PMID": "38014264",
+        "PMC": "PMC10680838",
+        "DOI": "10.1101/2023.11.18.567607",
+        "Release Date": "21-11-2023",
+        "Abstract": "Biofilm formation and surface attachment in multiple Alphaproteobacteria is driven by unipolar polysaccharide (UPP) adhesins. The pathogen",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"2-amino-Quinonoid dihydropterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-Quinonoid dihydropterin",
+        "Query_ProteinName": "HSPA4-like protein"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Sex-related differences in response to masseteric injections of glutamate and nerve growth factor in healthy human participants.",
+        "Journal Name": "Scientific reports",
+        "PMID": "34230516",
+        "PMC": "PMC8260580",
+        "DOI": "10.1038/s41598-021-93171-2",
+        "Release Date": "06-07-2021",
+        "Abstract": "The neurophysiological mechanisms underlying NGF-induced masseter muscle sensitization and sex-related differences in its effect are not well understood in humans. Therefore, this longitudinal cohort study aimed to investigate the effect of NGF injection on the density and expression of substance P, NMDA-receptors and NGF by the nerve fibers in the human masseter muscle, to correlate expression with pain characteristics, and to determine any possible sex-related differences in these effects of NGF. The magnitude of NGF-induced mechanical sensitization and pain during oral function was significantly greater in women than in men (P < 0.050). Significant positive correlations were found between nerve fiber expression of NMDA-receptors and peak pain intensity (r",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Insulin-like growth factor-binding protein 8\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Insulin-like growth factor-binding protein 8"
+    },
+    {
+        "Title": "Sex-related differences in response to masseteric injections of glutamate and nerve growth factor in healthy human participants.",
+        "Journal Name": "Scientific reports",
+        "PMID": "34230516",
+        "PMC": "PMC8260580",
+        "DOI": "10.1038/s41598-021-93171-2",
+        "Release Date": "06-07-2021",
+        "Abstract": "The neurophysiological mechanisms underlying NGF-induced masseter muscle sensitization and sex-related differences in its effect are not well understood in humans. Therefore, this longitudinal cohort study aimed to investigate the effect of NGF injection on the density and expression of substance P, NMDA-receptors and NGF by the nerve fibers in the human masseter muscle, to correlate expression with pain characteristics, and to determine any possible sex-related differences in these effects of NGF. The magnitude of NGF-induced mechanical sensitization and pain during oral function was significantly greater in women than in men (P < 0.050). Significant positive correlations were found between nerve fiber expression of NMDA-receptors and peak pain intensity (r",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Hypertrophic chondrocyte-specific protein 24\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Hypertrophic chondrocyte-specific protein 24"
+    }
+]

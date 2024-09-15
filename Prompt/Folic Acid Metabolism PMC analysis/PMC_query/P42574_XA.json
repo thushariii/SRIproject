@@ -1,0 +1,86 @@
+[
+    {
+        "Title": "Stimulation of microglial metabotropic glutamate receptor mGlu2 triggers tumor necrosis factor alpha-induced neurotoxicity in concert with microglial-derived Fas ligand.",
+        "Journal Name": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "PMID": "15772355",
+        "PMC": "PMC6725132",
+        "DOI": "10.1523/JNEUROSCI.4456-04.2005",
+        "Release Date": "--",
+        "Abstract": "Activated microglia may be detrimental to neuronal survival in a number of neurodegenerative diseases. Thus, strategies that reduce microglial neurotoxicity may have therapeutic benefit. Stimulation of group II metabotropic glutamate (mGlu) receptors on rat primary microglia with the specific group II agonist 2S,2'R,3'R-2-(2',3'-dicarboxy-cyclopropyl)glycine for 24 h induced microglial activation and resulted in a neurotoxic microglial phenotype. These effects were attributable to preferential mGlu2 stimulation, because N-acetyl-L-aspartyl-L-glutamate, a specific mGlu3 agonist, did not induce microglial activation or neurotoxicity. Stimulation of microglial mGlu2 but not mGlu3 induced caspase-3 activation in cerebellar granule neurons in culture, using microglial-conditioned media as well as cocultures. Stimulation of microglial mGlu2 induced tumor necrosis factor-alpha (TNFalpha) release, which contributed to microglial neurotoxicity mediated via neuronal TNF receptor 1 and caspase-3 activation. Stimulation of microglial group I or III mGlu receptors did not induce TNFalpha release. TNFalpha was only neurotoxic in the presence of microglia or microglial-conditioned medium. The toxicity of TNFalpha could be prevented by coexposure of neurons to conditioned medium from microglia stimulated by the specific group III agonist L-2-amino-4-phosphono-butyric acid. The neurotoxicity of TNFalpha derived from mGlu2-stimulated microglia was potentiated by microglial-derived Fas ligand (FasL), the death receptor ligand. FasL was constitutively expressed in microglia and shed after mGlu2 stimulation. Our data suggest that selective and inverse modulation of microglial mGlu2 and mGlu3 may prove a therapeutic target in neuroinflammatory diseases such as Alzheimer's disease and multiple sclerosis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CASP3\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "CASP3"
+    },
+    {
+        "Title": "Response of neuroblastoma cells to RF currents as a function of the signal frequency.",
+        "Journal Name": "BMC cancer",
+        "PMID": "31488097",
+        "PMC": "PMC6728948",
+        "DOI": "10.1186/s12885-019-6090-6",
+        "Release Date": "05-09-2019",
+        "Abstract": "Capacitive-resistive electric transfer (CRET) is a non-invasive therapeutic strategy that applies radiofrequency electric currents within the 400-600 kHz range to tissue repair and regeneration. Previous studies by our group have shown that 48 h of intermittent exposure to a 570 kHz CRET signal at a subthermal density of 50 μA/mm",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CASP3\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "CASP3"
+    },
+    {
+        "Title": "Monomerization of Homodimeric Trefoil Factor 3 (TFF3) by an Aminonitrile Compound Inhibits TFF3-Dependent Cancer Cell Survival.",
+        "Journal Name": "ACS pharmacology & translational science",
+        "PMID": "36110371",
+        "PMC": "PMC9469493",
+        "DOI": "10.1021/acsptsci.2c00044",
+        "Release Date": "17-08-2022",
+        "Abstract": "Trefoil factor 3 (TFF3) is a secreted protein with an established oncogenic function and a highly significant association with clinical progression of various human malignancies. Herein, a novel small molecule that specifically targets TFF3 homodimeric functions was identified. Utilizing the concept of reversible covalent interaction, 2-amino-4-(4-(6-fluoro-5-methylpyridin-3-yl)phenyl)-5-oxo-4H,5H-pyrano[3,2-",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"caspase 3\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "caspase 3"
+    },
+    {
+        "Title": "Monomerization of Homodimeric Trefoil Factor 3 (TFF3) by an Aminonitrile Compound Inhibits TFF3-Dependent Cancer Cell Survival.",
+        "Journal Name": "ACS pharmacology & translational science",
+        "PMID": "36110371",
+        "PMC": "PMC9469493",
+        "DOI": "10.1021/acsptsci.2c00044",
+        "Release Date": "17-08-2022",
+        "Abstract": "Trefoil factor 3 (TFF3) is a secreted protein with an established oncogenic function and a highly significant association with clinical progression of various human malignancies. Herein, a novel small molecule that specifically targets TFF3 homodimeric functions was identified. Utilizing the concept of reversible covalent interaction, 2-amino-4-(4-(6-fluoro-5-methylpyridin-3-yl)phenyl)-5-oxo-4H,5H-pyrano[3,2-",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"caspase 3\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "caspase 3"
+    },
+    {
+        "Title": "Monomerization of Homodimeric Trefoil Factor 3 (TFF3) by an Aminonitrile Compound Inhibits TFF3-Dependent Cancer Cell Survival.",
+        "Journal Name": "ACS pharmacology & translational science",
+        "PMID": "36110371",
+        "PMC": "PMC9469493",
+        "DOI": "10.1021/acsptsci.2c00044",
+        "Release Date": "17-08-2022",
+        "Abstract": "Trefoil factor 3 (TFF3) is a secreted protein with an established oncogenic function and a highly significant association with clinical progression of various human malignancies. Herein, a novel small molecule that specifically targets TFF3 homodimeric functions was identified. Utilizing the concept of reversible covalent interaction, 2-amino-4-(4-(6-fluoro-5-methylpyridin-3-yl)phenyl)-5-oxo-4H,5H-pyrano[3,2-",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caspase-3\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "Caspase-3"
+    },
+    {
+        "Title": "Identification of Renoprotective Phytosterols from Mulberry (",
+        "Journal Name": "Plants (Basel, Switzerland)",
+        "PMID": "34834844",
+        "PMC": "PMC8623081",
+        "DOI": "10.3390/plants10112481",
+        "Release Date": "17-11-2021",
+        "Abstract": "The aim of this study was to explore the protective effects of bioactive compounds from the fruit of the mulberry tree (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caspase-3\") AND (\"2-AMINOPTERIDINE-4,6-DIOL\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-AMINOPTERIDINE-4,6-DIOL",
+        "Query_ProteinName": "Caspase-3"
+    },
+    {
+        "Title": "Farnesyltransferase inhibitors induce cytochrome c release and caspase 3 activation preferentially in transformed cells.",
+        "Journal Name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PMID": "9860973",
+        "PMC": "PMC28047",
+        "DOI": "10.1073/pnas.95.26.15356",
+        "Release Date": "--",
+        "Abstract": "Farnesyltransferase inhibitors (FTIs) represent a new class of anticancer drugs that show promise in blocking the growth of tumors. Here, we report that FTIs are capable of inducing apoptosis of transformed but not untransformed cells. Treatment of v-K-ras-transformed normal rat kidney (KNRK) cells with FTIs leads to the induction of apoptotic cell morphology, chromatin condensation and DNA fragmentation. In addition, fluorescence-activated cell sorter analysis of FTI-treated KNRK cells shows a sub-G1 apoptotic peak (chromosome content of <2 N). This FTI-induced apoptosis is evident only when the cells are grown in low serum conditions (0.1% fetal calf serum) and is observed selectively with transformed KNRK cells and not with untransformed NRK cells. Further analysis of the mechanism underlying this apoptosis has shown that FTI treatment of KNRK cells results in the activation of caspase 3 but not caspase 1. Moreover, the addition of Z-DEVD-fmk, an agent that interferes with caspase 3 activity, can inhibit FTI-induced apoptosis in a dose-dependent manner. Introduction of the CASP-3 gene into MCF7 cells, which lack caspase 3 activity, results in a significant increase of FTI-induced apoptosis. Furthermore, FTI induces the release of cytochrome c into the cytosol. This release is an important feature of caspase 3-mediated apoptosis. These results suggest that FTIs induce apoptosis through the release of cytochrome c from the mitochondria resulting in caspase 3 activation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CASP-3\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "CASP-3"
+    }
+]

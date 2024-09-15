@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "ERK, p38, and Smad signaling pathways differentially regulate transforming growth factor-beta1 autoinduction in proximal tubular epithelial cells.",
+        "Journal Name": "The American journal of pathology",
+        "PMID": "17003485",
+        "PMC": "PMC1698849",
+        "DOI": "10.2353/ajpath.2006.050921",
+        "Release Date": "--",
+        "Abstract": "Transforming growth factor (TGF)-beta1 is a mediator of the final common pathway of fibrosis associated with progressive renal disease, a process in which proximal tubular cells (PTCs) are known to play an important part. The aim of the current study was to examine the mechanism of PTC TGF-beta1 autoinduction. The addition of TGF-beta1 led to increased amounts of TGF-beta1 mRNA and increased de novo protein synthesis. The addition of TGF-beta1 led to increased phosphorylation of R-Smads and activation of extracellular signal-regulated kinase mitogen-activated protein (MAP) kinase and p38 MAP kinase pathways. Use of a dominant-negative Smad3 (Smad3 DN) expression vector, Smad3 small interfering RNA, and inhibition of extracellular signal-regulated kinase and p38 MAP kinase pathways with the chemical inhibitors PD98059 or SB203580 suggested that activation of these signaling pathways occurred independently. Smad3 DN expression, Smad3 small interfering RNA, or the addition of PD98059 inhibited TGF-beta1-dependent stimulation of TGF-beta1 mRNA. Furthermore, Smad3 blockade specifically inhibited activation of the transcription factor AP-1 by TGF-beta1, whereas PD98059 prevented TGF-beta1-dependent nuclear factor-kappaB activation. In contrast inhibition of p38 MAP kinase inhibited de novo TGF-beta1 protein synthesis but did not influence TGF-beta1 mRNA expression or activation of either transcription factor. In summary, in PTCs, TGF-beta1 autoinduction requires the coordinated action of independently regulated Smad and non-Smad pathways. Furthermore these pathways regulate distinct transcriptional and translational components of TGF-beta1 synthesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Smad3\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Smad3"
+    },
+    {
+        "Title": "ERK, p38, and Smad signaling pathways differentially regulate transforming growth factor-beta1 autoinduction in proximal tubular epithelial cells.",
+        "Journal Name": "The American journal of pathology",
+        "PMID": "17003485",
+        "PMC": "PMC1698849",
+        "DOI": "10.2353/ajpath.2006.050921",
+        "Release Date": "--",
+        "Abstract": "Transforming growth factor (TGF)-beta1 is a mediator of the final common pathway of fibrosis associated with progressive renal disease, a process in which proximal tubular cells (PTCs) are known to play an important part. The aim of the current study was to examine the mechanism of PTC TGF-beta1 autoinduction. The addition of TGF-beta1 led to increased amounts of TGF-beta1 mRNA and increased de novo protein synthesis. The addition of TGF-beta1 led to increased phosphorylation of R-Smads and activation of extracellular signal-regulated kinase mitogen-activated protein (MAP) kinase and p38 MAP kinase pathways. Use of a dominant-negative Smad3 (Smad3 DN) expression vector, Smad3 small interfering RNA, and inhibition of extracellular signal-regulated kinase and p38 MAP kinase pathways with the chemical inhibitors PD98059 or SB203580 suggested that activation of these signaling pathways occurred independently. Smad3 DN expression, Smad3 small interfering RNA, or the addition of PD98059 inhibited TGF-beta1-dependent stimulation of TGF-beta1 mRNA. Furthermore, Smad3 blockade specifically inhibited activation of the transcription factor AP-1 by TGF-beta1, whereas PD98059 prevented TGF-beta1-dependent nuclear factor-kappaB activation. In contrast inhibition of p38 MAP kinase inhibited de novo TGF-beta1 protein synthesis but did not influence TGF-beta1 mRNA expression or activation of either transcription factor. In summary, in PTCs, TGF-beta1 autoinduction requires the coordinated action of independently regulated Smad and non-Smad pathways. Furthermore these pathways regulate distinct transcriptional and translational components of TGF-beta1 synthesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"SMAD3\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "SMAD3"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Title": "Efficient Electrochemical Synthesis, Antimicrobial and Antiinflammatory Activity of 2-amino-5-substituted- 1,3,4-oxadiazole Derivatives.",
+        "Journal Name": "Indian journal of pharmaceutical sciences",
+        "PMID": "21218056",
+        "PMC": "PMC3013571",
+        "DOI": "10.4103/0250-474X.73917",
+        "Release Date": "--",
+        "Abstract": "An efficient electrochemical method for the preparation of 2-amino-5-substituted-1,3,4-oxadiazoles (4a-k) at platinum anode through the electrooxidation of semicarbazone (3a-k) at controlled potential electrolysis has been reported in the present study. The electrolysis was carried out in the acetic acid solvent and lithium perchlorate was used as supporting electrolyte. The products were characterized by IR,(1)H-NMR,(13)C-NMR, mass spectra and elemental analysis. The synthesized compounds were screened for their in vitro growth inhibiting activity against different strains of bacteria viz., Klebsilla penumoniae, Escherichia coli, Bassilus subtilis and Streptococcus aureus and antifungal activity against Aspergillus niger and Crysosporium pannical and results have been compared with the standard antibacterial streptomycin and antifungal griseofulvin. Compounds exhibits significant antibacterial activity and antifungal activity. Compounds 4a and g exhibited equal while 4c, d, i and j slightly less antibacterial activity than standard streptomycin. Compounds 4a and g exhibited equal while 4b, c, d, f and i displayed slightly less antifungal activity than standard griseofulvins.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CDF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "CDF"
+    },
+    {
+        "Title": "Hsp90 inhibition protects against inherited retinal degeneration.",
+        "Journal Name": "Human molecular genetics",
+        "PMID": "24301679",
+        "PMC": "PMC3959821",
+        "DOI": "10.1093/hmg/ddt613",
+        "Release Date": "02-12-2013",
+        "Abstract": "The molecular chaperone Hsp90 is important for the functional maturation of many client proteins, and inhibitors are in clinical trials for multiple indications in cancer. Hsp90 inhibition activates the heat shock response and can improve viability in a cell model of the P23H misfolding mutation in rhodopsin that causes autosomal dominant retinitis pigmentosa (adRP). Here, we show that a single low dose of the Hsp90 inhibitor HSP990 enhanced visual function and delayed photoreceptor degeneration in a P23H transgenic rat model. This was associated with the induction of heat shock protein expression and reduced rhodopsin aggregation. We then investigated the effect of Hsp90 inhibition on a different type of rod opsin mutant, R135L, which is hyperphosphorylated, binds arrestin and disrupts vesicular traffic. Hsp90 inhibition with 17-AAG reduced the intracellular accumulation of R135L and abolished arrestin binding in cells. Hsf-1(-/-) cells revealed that the effect of 17-AAG on P23H aggregation was dependent on HSF-1, whereas the effect on R135L was HSF-1 independent. Instead, the effect on R135L was mediated by a requirement of Hsp90 for rhodopsin kinase (GRK1) maturation and function. Importantly, Hsp90 inhibition restored R135L rod opsin localization to wild-type (WT) phenotype in vivo in rat retina. Prolonged Hsp90 inhibition with HSP990 in vivo led to a posttranslational reduction in GRK1 and phosphodiesterase (PDE6) protein levels, identifying them as Hsp90 clients. These data suggest that Hsp90 represents a potential therapeutic target for different types of rhodopsin adRP through distinct mechanisms, but also indicate that sustained Hsp90 inhibition might adversely affect visual function.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "HSF"
+    },
+    {
+        "Title": "Synthesis and Anti-Inflammatory Activity of 2-Amino-4,5,6,7-tetrahydrobenzo[b]thiophene-Derived NRF2 Activators.",
+        "Journal Name": "ChemistryOpen",
+        "PMID": "36284193",
+        "PMC": "PMC9596610",
+        "DOI": "10.1002/open.202200181",
+        "Release Date": "--",
+        "Abstract": "This is the first study investigating the nuclear factor (erythroid-derived 2)-like 2 (NRF2) activity of compounds containing a new scaffold, tetrahydrobenzo[b]thiophene. Eighteen compounds were synthesised and confirmed their NRF2 activation through NQO1 enzymatic activity and mRNA expression of NQO1 and HO-1 in Hepa-1c1c7 cells. The compounds disrupted the interaction between Kelch-like ECH-associated protein 1 (KEAP1) and NRF2 via interfering with the KEAP1's Kelch domain. The compounds exhibited anti-inflammatory activity in Escherichia coli Lipopolysaccharide (LPS",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-6\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "IL-6"
+    },
+    {
+        "Title": "Synthesis and Anti-Inflammatory Activity of 2-Amino-4,5,6,7-tetrahydrobenzo[b]thiophene-Derived NRF2 Activators.",
+        "Journal Name": "ChemistryOpen",
+        "PMID": "36284193",
+        "PMC": "PMC9596610",
+        "DOI": "10.1002/open.202200181",
+        "Release Date": "--",
+        "Abstract": "This is the first study investigating the nuclear factor (erythroid-derived 2)-like 2 (NRF2) activity of compounds containing a new scaffold, tetrahydrobenzo[b]thiophene. Eighteen compounds were synthesised and confirmed their NRF2 activation through NQO1 enzymatic activity and mRNA expression of NQO1 and HO-1 in Hepa-1c1c7 cells. The compounds disrupted the interaction between Kelch-like ECH-associated protein 1 (KEAP1) and NRF2 via interfering with the KEAP1's Kelch domain. The compounds exhibited anti-inflammatory activity in Escherichia coli Lipopolysaccharide (LPS",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-6\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "IL-6"
+    },
+    {
+        "Title": "Synthesis and Anti-Inflammatory Activity of 2-Amino-4,5,6,7-tetrahydrobenzo[b]thiophene-Derived NRF2 Activators.",
+        "Journal Name": "ChemistryOpen",
+        "PMID": "36284193",
+        "PMC": "PMC9596610",
+        "DOI": "10.1002/open.202200181",
+        "Release Date": "--",
+        "Abstract": "This is the first study investigating the nuclear factor (erythroid-derived 2)-like 2 (NRF2) activity of compounds containing a new scaffold, tetrahydrobenzo[b]thiophene. Eighteen compounds were synthesised and confirmed their NRF2 activation through NQO1 enzymatic activity and mRNA expression of NQO1 and HO-1 in Hepa-1c1c7 cells. The compounds disrupted the interaction between Kelch-like ECH-associated protein 1 (KEAP1) and NRF2 via interfering with the KEAP1's Kelch domain. The compounds exhibited anti-inflammatory activity in Escherichia coli Lipopolysaccharide (LPS",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-6\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IL-6"
+    },
+    {
+        "Title": "A Network Pharmacology and Molecular-Docking-Based Approach to Identify the Probable Targets of Short-Chain Fatty-Acid-Producing Microbial Metabolites against Kidney Cancer and Inflammation.",
+        "Journal Name": "Biomolecules",
+        "PMID": "38002360",
+        "PMC": "PMC10669250",
+        "DOI": "10.3390/biom13111678",
+        "Release Date": "20-11-2023",
+        "Abstract": "(1) Background: A large and diverse microbial population exists in the human intestinal tract, which supports gut homeostasis and the health of the host. Short-chain fatty acid (SCFA)-secreting microbes also generate several metabolites with favorable regulatory effects on various malignancies and immunological inflammations. The involvement of intestinal SCFAs in kidney diseases, such as various kidney malignancies and inflammations, has emerged as a fascinating area of study in recent years. However, the mechanisms of SCFAs and other metabolites produced by SCFA-producing bacteria against kidney cancer and inflammation have not yet been investigated. (2) Methods: We considered 177 different SCFA-producing microbial species and 114 metabolites from the gutMgene database. Further, we used different online-based database platforms to predict 1890 gene targets associated with metabolites. Moreover, DisGeNET, OMIM, and Genecard databases were used to consider 13,104 disease-related gene targets. We used a Venn diagram and various protein-protein interactions (PPIs), KEGG pathways, and GO analyses for the functional analysis of gene targets. Moreover, the subnetwork of protein-protein interactions (through string and cytoscape platforms) was used to select the top 20% of gene targets through degree centrality, betweenness centrality, and closeness centrality. To screen the possible candidate compounds, we performed an analysis of the ADMET (absorption, distribution, metabolism, excretion, and toxicity) properties of metabolites and then found the best binding affinity using molecular docking simulation. (3) Results: Finally, we found the key gene targets that interact with suitable compounds and function against kidney cancer and inflammation, such as MTOR (with glycocholic acid), PIK3CA (with 11-methoxycurvularin, glycocholic acid, and isoquercitrin), IL6 (with isoquercitrin), PTGS2 (with isoquercitrin), and IGF1R (with 2-amino-1-methyl-6-phenylimidazo[4,5-b] pyridine, isoquercitrin), showed a lower binding affinity. (4) Conclusions: This study provides evidence to support the positive effects of SCFA-producing microbial metabolites that function against kidney cancer and inflammation and makes integrative research proposals that may be used to guide future studies.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL6\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IL6"
+    },
+    {
+        "Title": "Synthesis and Anti-Inflammatory Activity of 2-Amino-4,5,6,7-tetrahydrobenzo[b]thiophene-Derived NRF2 Activators.",
+        "Journal Name": "ChemistryOpen",
+        "PMID": "36284193",
+        "PMC": "PMC9596610",
+        "DOI": "10.1002/open.202200181",
+        "Release Date": "--",
+        "Abstract": "This is the first study investigating the nuclear factor (erythroid-derived 2)-like 2 (NRF2) activity of compounds containing a new scaffold, tetrahydrobenzo[b]thiophene. Eighteen compounds were synthesised and confirmed their NRF2 activation through NQO1 enzymatic activity and mRNA expression of NQO1 and HO-1 in Hepa-1c1c7 cells. The compounds disrupted the interaction between Kelch-like ECH-associated protein 1 (KEAP1) and NRF2 via interfering with the KEAP1's Kelch domain. The compounds exhibited anti-inflammatory activity in Escherichia coli Lipopolysaccharide (LPS",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin-6\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Interleukin-6"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HGF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "HGF"
+    },
+    {
+        "Title": "Synthesis and Anti-Inflammatory Activity of 2-Amino-4,5,6,7-tetrahydrobenzo[b]thiophene-Derived NRF2 Activators.",
+        "Journal Name": "ChemistryOpen",
+        "PMID": "36284193",
+        "PMC": "PMC9596610",
+        "DOI": "10.1002/open.202200181",
+        "Release Date": "--",
+        "Abstract": "This is the first study investigating the nuclear factor (erythroid-derived 2)-like 2 (NRF2) activity of compounds containing a new scaffold, tetrahydrobenzo[b]thiophene. Eighteen compounds were synthesised and confirmed their NRF2 activation through NQO1 enzymatic activity and mRNA expression of NQO1 and HO-1 in Hepa-1c1c7 cells. The compounds disrupted the interaction between Kelch-like ECH-associated protein 1 (KEAP1) and NRF2 via interfering with the KEAP1's Kelch domain. The compounds exhibited anti-inflammatory activity in Escherichia coli Lipopolysaccharide (LPS",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"interleukin 6\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "interleukin 6"
+    },
+    {
+        "Title": "Synthesis of interleukin 1 beta and interleukin 6 in human lymphocytes is stimulated by tributyltin.",
+        "Journal Name": "Archives of toxicology",
+        "PMID": "29951691",
+        "PMC": "PMC6082394",
+        "DOI": "10.1007/s00204-018-2248-2",
+        "Release Date": "27-06-2018",
+        "Abstract": "Tributyltin (TBT) is a widespread environmental contaminant that is present in human blood and other tissues. It has been shown to disrupt the immune function of human natural killer (NK) cells and to alter the secretion of a number of pro-inflammatory cytokines from immune cells. Secretion of both interleukin 1β (IL-1β) and interleukin 6 (IL-6) from human lymphocytes can be increased dependent upon the level of TBT exposure. This study shows that the TBT-induced increases in secretion of both cytokines are due to TBT-induced increases in the synthesis of these proteins and not simply because of the release of pre-existing cytokine. Furthermore, the data indicate that these TBT-induced increases in IL-1β and IL-6 synthesis require MAP kinase signaling pathways. Additionally, elevated synthesis of IL-1β and IL-6 seen at the highest exposures to TBT (200, 200, 50 nM) were accompanied by increases in the mRNA for these cytokines. TBT-induced increases in IL-1β and IL-6 mRNAs were also shown to be dependent on MAP kinase signaling. The study suggests that TBT has the capacity to increase immune cell production of these 2 important pro-inflammatory cytokines and that this increase is in part explained by increased mRNA for the cytokines.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"interleukin 6\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "interleukin 6"
+    }
+]

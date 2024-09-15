@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Effects of insulin and the glucagon-like peptide 1 receptor agonist liraglutide on the kidney proteome in db/db mice.",
+        "Journal Name": "Physiological reports",
+        "PMID": "28330952",
+        "PMC": "PMC5371560",
+        "DOI": "10.14814/phy2.13187",
+        "Release Date": "--",
+        "Abstract": "Diabetes mellitus (DM) is a worldwide disease that affects 9% of the adult world population and type 2 DM accounts for 90% of those. A common consequence of DM is kidney complications, which could lead to kidney failure. We studied the potential effects of treatment with insulin and the glucagon-like peptide 1 receptor (GLP-1R) agonist liraglutide on the diabetic kidney proteome through the use of the db/db mouse model system and mass spectrometry (MS). Multivariate analyses revealed distinct effects of insulin and liraglutide on the db/db kidney proteome, which was seen on the protein levels of, for example, pterin-4",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon-like peptide 1 receptor\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "glucagon-like peptide 1 receptor"
+    },
+    {
+        "Title": "Effects of insulin and the glucagon-like peptide 1 receptor agonist liraglutide on the kidney proteome in db/db mice.",
+        "Journal Name": "Physiological reports",
+        "PMID": "28330952",
+        "PMC": "PMC5371560",
+        "DOI": "10.14814/phy2.13187",
+        "Release Date": "--",
+        "Abstract": "Diabetes mellitus (DM) is a worldwide disease that affects 9% of the adult world population and type 2 DM accounts for 90% of those. A common consequence of DM is kidney complications, which could lead to kidney failure. We studied the potential effects of treatment with insulin and the glucagon-like peptide 1 receptor (GLP-1R) agonist liraglutide on the diabetic kidney proteome through the use of the db/db mouse model system and mass spectrometry (MS). Multivariate analyses revealed distinct effects of insulin and liraglutide on the db/db kidney proteome, which was seen on the protein levels of, for example, pterin-4",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GLP-1R\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "GLP-1R"
+    },
+    {
+        "Title": "Effects of insulin and the glucagon-like peptide 1 receptor agonist liraglutide on the kidney proteome in db/db mice.",
+        "Journal Name": "Physiological reports",
+        "PMID": "28330952",
+        "PMC": "PMC5371560",
+        "DOI": "10.14814/phy2.13187",
+        "Release Date": "--",
+        "Abstract": "Diabetes mellitus (DM) is a worldwide disease that affects 9% of the adult world population and type 2 DM accounts for 90% of those. A common consequence of DM is kidney complications, which could lead to kidney failure. We studied the potential effects of treatment with insulin and the glucagon-like peptide 1 receptor (GLP-1R) agonist liraglutide on the diabetic kidney proteome through the use of the db/db mouse model system and mass spectrometry (MS). Multivariate analyses revealed distinct effects of insulin and liraglutide on the db/db kidney proteome, which was seen on the protein levels of, for example, pterin-4",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon like peptide 1 receptor\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "glucagon like peptide 1 receptor"
+    },
+    {
+        "Title": "Effects of insulin and the glucagon-like peptide 1 receptor agonist liraglutide on the kidney proteome in db/db mice.",
+        "Journal Name": "Physiological reports",
+        "PMID": "28330952",
+        "PMC": "PMC5371560",
+        "DOI": "10.14814/phy2.13187",
+        "Release Date": "--",
+        "Abstract": "Diabetes mellitus (DM) is a worldwide disease that affects 9% of the adult world population and type 2 DM accounts for 90% of those. A common consequence of DM is kidney complications, which could lead to kidney failure. We studied the potential effects of treatment with insulin and the glucagon-like peptide 1 receptor (GLP-1R) agonist liraglutide on the diabetic kidney proteome through the use of the db/db mouse model system and mass spectrometry (MS). Multivariate analyses revealed distinct effects of insulin and liraglutide on the db/db kidney proteome, which was seen on the protein levels of, for example, pterin-4",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GLP1R\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "GLP1R"
+    }
+]

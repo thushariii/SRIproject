@@ -1,0 +1,98 @@
+[
+    {
+        "Title": "Microbiota derived D-malate inhibits skeletal muscle growth and angiogenesis during aging via acetylation of Cyclin A.",
+        "Journal Name": "EMBO reports",
+        "PMID": "38253688",
+        "PMC": "PMC10897302",
+        "DOI": "10.1038/s44319-023-00028-y",
+        "Release Date": "22-01-2024",
+        "Abstract": "Metabolites derived from the intestinal microbiota play an important role in maintaining skeletal muscle growth, function, and metabolism. Here, we found that D-malate (DMA) is produced by mouse intestinal microorganisms and its levels increase during aging. Moreover, we observed that dietary supplementation of 2% DMA inhibits metabolism in mice, resulting in reduced muscle mass, strength, and the number of blood vessels, as well as the skeletal muscle fiber type I/IIb ratio. In vitro assays demonstrate that DMA decreases the proliferation of vascular endothelial cells and suppresses the formation of blood vessels. In vivo, we further demonstrated that boosting angiogenesis by muscular VEGFB injection rescues the inhibitory effects of D-malate on muscle mass and fiber area. By transcriptomics analysis, we identified that the mechanism underlying the effects of DMA depends on the elevated intracellular acetyl-CoA content and increased Cyclin A acetylation rather than redox balance. This study reveals a novel mechanism by which gut microbes impair muscle angiogenesis and may provide a therapeutic target for skeletal muscle dysfunction in cancer or aging.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin-A"
+    },
+    {
+        "Title": "Microbiota derived D-malate inhibits skeletal muscle growth and angiogenesis during aging via acetylation of Cyclin A.",
+        "Journal Name": "EMBO reports",
+        "PMID": "38253688",
+        "PMC": "PMC10897302",
+        "DOI": "10.1038/s44319-023-00028-y",
+        "Release Date": "22-01-2024",
+        "Abstract": "Metabolites derived from the intestinal microbiota play an important role in maintaining skeletal muscle growth, function, and metabolism. Here, we found that D-malate (DMA) is produced by mouse intestinal microorganisms and its levels increase during aging. Moreover, we observed that dietary supplementation of 2% DMA inhibits metabolism in mice, resulting in reduced muscle mass, strength, and the number of blood vessels, as well as the skeletal muscle fiber type I/IIb ratio. In vitro assays demonstrate that DMA decreases the proliferation of vascular endothelial cells and suppresses the formation of blood vessels. In vivo, we further demonstrated that boosting angiogenesis by muscular VEGFB injection rescues the inhibitory effects of D-malate on muscle mass and fiber area. By transcriptomics analysis, we identified that the mechanism underlying the effects of DMA depends on the elevated intracellular acetyl-CoA content and increased Cyclin A acetylation rather than redox balance. This study reveals a novel mechanism by which gut microbes impair muscle angiogenesis and may provide a therapeutic target for skeletal muscle dysfunction in cancer or aging.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin-A"
+    },
+    {
+        "Title": "CDK1 and CCNA2 play important roles in oral squamous cell carcinoma.",
+        "Journal Name": "Medicine",
+        "PMID": "38640322",
+        "PMC": "PMC11029925",
+        "DOI": "10.1097/MD.0000000000037831",
+        "Release Date": "--",
+        "Abstract": "Oral squamous cell carcinoma (OSCC) is a malignant tumor that occurs in oral cavity and is dominated by squamous cells. The relationship between CDK1, CCNA2, and OSCC is still unclear. The OSCC datasets GSE74530 and GSE85195 configuration files were downloaded from the Gene Expression Omnibus (GEO) database and were derived from platforms GPL570 and GPL6480. Differentially expressed genes (DEGs) were screened. The weighted gene co-expression network analysis, functional enrichment analysis, gene set enrichment analysis, construction and analysis of protein-protein interaction (PPI) network, Comparative Toxicogenomics Database analysis were performed. Gene expression heatmap was drawn. TargetScan was used to screen miRNAs that regulate central DEGs. A total of 1756 DEGs were identified. According to Gene Ontology (GO) analysis, they were predominantly enriched in processes related to organic acid catabolic metabolism, centromeric, and chromosomal region condensation, and oxidoreductase activity. In Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis, the DEGs were mainly concentrated in metabolic pathways, P53 signaling pathway, and PPAR signaling pathway. Weighted gene co-expression network analysis was performed with a soft-thresholding power set at 9, leading to the identification of 6 core genes (BUB1B, CCNB1, KIF20A, CCNA2, CDCA8, CDK1). The gene expression heatmap revealed that core genes (CDK1, CCNA2) were highly expressed in OSCC samples. Comparative Toxicogenomics Database analysis demonstrated associations between the 6 genes (BUB1B, CCNB1, KIF20A, CCNA2, CDCA8, CDK1) and oral tumors, precancerous lesions, inflammation, immune system disorders, and tongue tumors. The associated miRNAs for CDK1 gene were hsa-miR-203a-3p.2, while for CCNA2 gene, they were hsa-miR-6766-3p, hsa-miR-4782-3p, and hsa-miR-219a-5p. CDK1 and CCNA2 are highly expressed in OSCC. The higher the expression of CDK1 and CCNA2, the worse the prognosis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A2\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin-A2"
+    },
+    {
+        "Title": "CDK1 and CCNA2 play important roles in oral squamous cell carcinoma.",
+        "Journal Name": "Medicine",
+        "PMID": "38640322",
+        "PMC": "PMC11029925",
+        "DOI": "10.1097/MD.0000000000037831",
+        "Release Date": "--",
+        "Abstract": "Oral squamous cell carcinoma (OSCC) is a malignant tumor that occurs in oral cavity and is dominated by squamous cells. The relationship between CDK1, CCNA2, and OSCC is still unclear. The OSCC datasets GSE74530 and GSE85195 configuration files were downloaded from the Gene Expression Omnibus (GEO) database and were derived from platforms GPL570 and GPL6480. Differentially expressed genes (DEGs) were screened. The weighted gene co-expression network analysis, functional enrichment analysis, gene set enrichment analysis, construction and analysis of protein-protein interaction (PPI) network, Comparative Toxicogenomics Database analysis were performed. Gene expression heatmap was drawn. TargetScan was used to screen miRNAs that regulate central DEGs. A total of 1756 DEGs were identified. According to Gene Ontology (GO) analysis, they were predominantly enriched in processes related to organic acid catabolic metabolism, centromeric, and chromosomal region condensation, and oxidoreductase activity. In Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis, the DEGs were mainly concentrated in metabolic pathways, P53 signaling pathway, and PPAR signaling pathway. Weighted gene co-expression network analysis was performed with a soft-thresholding power set at 9, leading to the identification of 6 core genes (BUB1B, CCNB1, KIF20A, CCNA2, CDCA8, CDK1). The gene expression heatmap revealed that core genes (CDK1, CCNA2) were highly expressed in OSCC samples. Comparative Toxicogenomics Database analysis demonstrated associations between the 6 genes (BUB1B, CCNB1, KIF20A, CCNA2, CDCA8, CDK1) and oral tumors, precancerous lesions, inflammation, immune system disorders, and tongue tumors. The associated miRNAs for CDK1 gene were hsa-miR-203a-3p.2, while for CCNA2 gene, they were hsa-miR-6766-3p, hsa-miR-4782-3p, and hsa-miR-219a-5p. CDK1 and CCNA2 are highly expressed in OSCC. The higher the expression of CDK1 and CCNA2, the worse the prognosis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A2\") AND (\"2-amino-4-hydroxy-6-pteridinecarboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-hydroxy-6-pteridinecarboxylic acid",
+        "Query_ProteinName": "Cyclin-A2"
+    },
+    {
+        "Title": "CDK1 and CCNA2 play important roles in oral squamous cell carcinoma.",
+        "Journal Name": "Medicine",
+        "PMID": "38640322",
+        "PMC": "PMC11029925",
+        "DOI": "10.1097/MD.0000000000037831",
+        "Release Date": "--",
+        "Abstract": "Oral squamous cell carcinoma (OSCC) is a malignant tumor that occurs in oral cavity and is dominated by squamous cells. The relationship between CDK1, CCNA2, and OSCC is still unclear. The OSCC datasets GSE74530 and GSE85195 configuration files were downloaded from the Gene Expression Omnibus (GEO) database and were derived from platforms GPL570 and GPL6480. Differentially expressed genes (DEGs) were screened. The weighted gene co-expression network analysis, functional enrichment analysis, gene set enrichment analysis, construction and analysis of protein-protein interaction (PPI) network, Comparative Toxicogenomics Database analysis were performed. Gene expression heatmap was drawn. TargetScan was used to screen miRNAs that regulate central DEGs. A total of 1756 DEGs were identified. According to Gene Ontology (GO) analysis, they were predominantly enriched in processes related to organic acid catabolic metabolism, centromeric, and chromosomal region condensation, and oxidoreductase activity. In Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis, the DEGs were mainly concentrated in metabolic pathways, P53 signaling pathway, and PPAR signaling pathway. Weighted gene co-expression network analysis was performed with a soft-thresholding power set at 9, leading to the identification of 6 core genes (BUB1B, CCNB1, KIF20A, CCNA2, CDCA8, CDK1). The gene expression heatmap revealed that core genes (CDK1, CCNA2) were highly expressed in OSCC samples. Comparative Toxicogenomics Database analysis demonstrated associations between the 6 genes (BUB1B, CCNB1, KIF20A, CCNA2, CDCA8, CDK1) and oral tumors, precancerous lesions, inflammation, immune system disorders, and tongue tumors. The associated miRNAs for CDK1 gene were hsa-miR-203a-3p.2, while for CCNA2 gene, they were hsa-miR-6766-3p, hsa-miR-4782-3p, and hsa-miR-219a-5p. CDK1 and CCNA2 are highly expressed in OSCC. The higher the expression of CDK1 and CCNA2, the worse the prognosis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A2\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin-A2"
+    },
+    {
+        "Title": "Dynamic changes of rumen microbiota and serum metabolome revealed increases in meat quality and growth performances of sheep fed bio-fermented rice straw.",
+        "Journal Name": "Journal of animal science and biotechnology",
+        "PMID": "38419130",
+        "PMC": "PMC10900626",
+        "DOI": "10.1186/s40104-023-00983-5",
+        "Release Date": "28-02-2024",
+        "Abstract": "Providing high-quality roughage is crucial for improvement of ruminant production because it is an essential component of their feed. Our previous study showed that feeding bio-fermented rice straw (BF) improved the feed intake and weight gain of sheep. However, it remains unclear why feeding BF to sheep increased their feed intake and weight gain. Therefore, the purposes of this research were to investigate how the rumen microbiota and serum metabolome are dynamically changing after feeding BF, as well as how their changes influence the feed intake, digestibility, nutrient transport, meat quality and growth performances of sheep. Twelve growing Hu sheep were allocated into 3 groups: alfalfa hay fed group (AH: positive control), rice straw fed group (RS: negative control) and BF fed group (BF: treatment). Samples of rumen content, blood, rumen epithelium, muscle, feed offered and refusals were collected for the subsequent analysis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A2\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin-A2"
+    },
+    {
+        "Title": "Microbiota derived D-malate inhibits skeletal muscle growth and angiogenesis during aging via acetylation of Cyclin A.",
+        "Journal Name": "EMBO reports",
+        "PMID": "38253688",
+        "PMC": "PMC10897302",
+        "DOI": "10.1038/s44319-023-00028-y",
+        "Release Date": "22-01-2024",
+        "Abstract": "Metabolites derived from the intestinal microbiota play an important role in maintaining skeletal muscle growth, function, and metabolism. Here, we found that D-malate (DMA) is produced by mouse intestinal microorganisms and its levels increase during aging. Moreover, we observed that dietary supplementation of 2% DMA inhibits metabolism in mice, resulting in reduced muscle mass, strength, and the number of blood vessels, as well as the skeletal muscle fiber type I/IIb ratio. In vitro assays demonstrate that DMA decreases the proliferation of vascular endothelial cells and suppresses the formation of blood vessels. In vivo, we further demonstrated that boosting angiogenesis by muscular VEGFB injection rescues the inhibitory effects of D-malate on muscle mass and fiber area. By transcriptomics analysis, we identified that the mechanism underlying the effects of DMA depends on the elevated intracellular acetyl-CoA content and increased Cyclin A acetylation rather than redox balance. This study reveals a novel mechanism by which gut microbes impair muscle angiogenesis and may provide a therapeutic target for skeletal muscle dysfunction in cancer or aging.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin A\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin A"
+    },
+    {
+        "Title": "Microbiota derived D-malate inhibits skeletal muscle growth and angiogenesis during aging via acetylation of Cyclin A.",
+        "Journal Name": "EMBO reports",
+        "PMID": "38253688",
+        "PMC": "PMC10897302",
+        "DOI": "10.1038/s44319-023-00028-y",
+        "Release Date": "22-01-2024",
+        "Abstract": "Metabolites derived from the intestinal microbiota play an important role in maintaining skeletal muscle growth, function, and metabolism. Here, we found that D-malate (DMA) is produced by mouse intestinal microorganisms and its levels increase during aging. Moreover, we observed that dietary supplementation of 2% DMA inhibits metabolism in mice, resulting in reduced muscle mass, strength, and the number of blood vessels, as well as the skeletal muscle fiber type I/IIb ratio. In vitro assays demonstrate that DMA decreases the proliferation of vascular endothelial cells and suppresses the formation of blood vessels. In vivo, we further demonstrated that boosting angiogenesis by muscular VEGFB injection rescues the inhibitory effects of D-malate on muscle mass and fiber area. By transcriptomics analysis, we identified that the mechanism underlying the effects of DMA depends on the elevated intracellular acetyl-CoA content and increased Cyclin A acetylation rather than redox balance. This study reveals a novel mechanism by which gut microbes impair muscle angiogenesis and may provide a therapeutic target for skeletal muscle dysfunction in cancer or aging.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin A\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Cyclin A"
+    }
+]

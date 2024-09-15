@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Cryo-electron microscopy structure of the glucagon receptor with a dual-agonist peptide.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "32371397",
+        "PMC": "PMC7363120",
+        "DOI": "10.1074/jbc.RA120.013793",
+        "Release Date": "05-05-2020",
+        "Abstract": "Unimolecular dual agonists of the glucagon (GCG) receptor (GCGR) and glucagon-like peptide-1 receptor (GLP-1R) are a new class of drugs that are potentially superior to GLP-1R-specific agonists for the management of metabolic disease. The dual-agonist, peptide 15 (P15), is a glutamic acid 16 analog of GCG with GLP-1 peptide substitutions between amino acids 17 and 24 that has potency equivalent to those of the cognate peptide agonists at the GCGR and GLP-1R. Here, we have used cryo-EM to solve the structure of an active P15-GCGR-G",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon-like peptide 1 receptor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "glucagon-like peptide 1 receptor"
+    },
+    {
+        "Title": "Cryo-electron microscopy structure of the glucagon receptor with a dual-agonist peptide.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "32371397",
+        "PMC": "PMC7363120",
+        "DOI": "10.1074/jbc.RA120.013793",
+        "Release Date": "05-05-2020",
+        "Abstract": "Unimolecular dual agonists of the glucagon (GCG) receptor (GCGR) and glucagon-like peptide-1 receptor (GLP-1R) are a new class of drugs that are potentially superior to GLP-1R-specific agonists for the management of metabolic disease. The dual-agonist, peptide 15 (P15), is a glutamic acid 16 analog of GCG with GLP-1 peptide substitutions between amino acids 17 and 24 that has potency equivalent to those of the cognate peptide agonists at the GCGR and GLP-1R. Here, we have used cryo-EM to solve the structure of an active P15-GCGR-G",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Glucagon-like peptide 1 receptor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Glucagon-like peptide 1 receptor"
+    },
+    {
+        "Title": "Oral delivery of proteins and peptides: Challenges, status quo and future perspectives.",
+        "Journal Name": "Acta pharmaceutica Sinica. B",
+        "PMID": "34522593",
+        "PMC": "PMC8424290",
+        "DOI": "10.1016/j.apsb.2021.04.001",
+        "Release Date": "29-04-2021",
+        "Abstract": "Proteins and peptides (PPs) have gradually become more attractive therapeutic molecules than small molecular drugs due to their high selectivity and efficacy, but fewer side effects. Owing to the poor stability and limited permeability through gastrointestinal (GI) tract and epithelia, the therapeutic PPs are usually administered by parenteral route. Given the big demand for oral administration in clinical use, a variety of researches focused on developing new technologies to overcome GI barriers of PPs, such as enteric coating, enzyme inhibitors, permeation enhancers, nanoparticles, as well as intestinal microdevices. Some new technologies have been developed under clinical trials and even on the market. This review summarizes the history, the physiological barriers and the overcoming approaches, current clinical and preclinical technologies, and future prospects of oral delivery of PPs.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GLP-1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "GLP-1"
+    },
+    {
+        "Title": "Cryo-electron microscopy structure of the glucagon receptor with a dual-agonist peptide.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "32371397",
+        "PMC": "PMC7363120",
+        "DOI": "10.1074/jbc.RA120.013793",
+        "Release Date": "05-05-2020",
+        "Abstract": "Unimolecular dual agonists of the glucagon (GCG) receptor (GCGR) and glucagon-like peptide-1 receptor (GLP-1R) are a new class of drugs that are potentially superior to GLP-1R-specific agonists for the management of metabolic disease. The dual-agonist, peptide 15 (P15), is a glutamic acid 16 analog of GCG with GLP-1 peptide substitutions between amino acids 17 and 24 that has potency equivalent to those of the cognate peptide agonists at the GCGR and GLP-1R. Here, we have used cryo-EM to solve the structure of an active P15-GCGR-G",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon like peptide 1 receptor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "glucagon like peptide 1 receptor"
+    },
+    {
+        "Title": "Umami receptor activation increases duodenal bicarbonate secretion via glucagon-like peptide-2 release in rats.",
+        "Journal Name": "The Journal of pharmacology and experimental therapeutics",
+        "PMID": "21846840",
+        "PMC": "PMC3199979",
+        "DOI": "10.1124/jpet.111.184788",
+        "Release Date": "16-08-2011",
+        "Abstract": "Luminal nutrient chemosensing during meal ingestion is mediated by intestinal endocrine cells, which regulate secretion and motility via the release of gut hormones. We have reported that luminal coperfusion of L-Glu and IMP, common condiments providing the umami or proteinaceous taste, synergistically increases duodenal bicarbonate secretion (DBS) possibly via taste receptor heterodimers, taste receptor type 1, member 1 (T1R1)/R3. We hypothesized that glucose-dependent insulinotropic peptide (GIP) or glucagon-like peptide (GLP) is released by duodenal perfusion with L-Glu/IMP. We measured DBS with pH and CO(2) electrodes through a perfused rat duodenal loop in vivo. GIP, exendin (Ex)-4 (GLP-1 receptor agonist), or GLP-2 was intravenously infused (0.01-1 nmol/kg/h). l-Glu (10 mM) and IMP (0.1 mM) were luminally perfused with or without bolus intravenous injection (3 or 30 nmol/kg) of the receptor antagonists Pro(3)GIP, Ex-3(9-39), or GLP-2(3-33). GIP or GLP-2 infusion dose-dependently increased DBS, whereas Ex-4 infusion gradually decreased DBS. Luminal perfusion of l-Glu/IMP increased DBS, with no effect of Pro(3)GIP or Ex-3(9-39), whereas GLP-2(3-33) inhibited L-Glu/IMP-induced DBS. Vasoactive intestinal peptide (VIP)(6-28) intravenously or N(G)-nitro-L-arginine methyl ester coperfusion inhibited the effect of L-Glu/IMP. Perfusion of L-Glu/IMP increased portal venous concentrations of GLP-2, followed by a delayed increase of GLP-1, with no effect on GIP release. GLP-1/2 and T1R1/R3 were expressed in duodenal endocrine-like cells. These results suggest that luminal L-Glu/IMP-induced DBS is mediated via GLP-2 release and receptor activation followed by VIP and nitric oxide release. Because GLP-1 is insulinotropic and GLP-2 is intestinotrophic, umami receptor activation may have additional benefits in glucose metabolism and duodenal mucosal protection and regeneration.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon like peptide 1 receptor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "glucagon like peptide 1 receptor"
+    },
+    {
+        "Title": "Cryo-electron microscopy structure of the glucagon receptor with a dual-agonist peptide.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "32371397",
+        "PMC": "PMC7363120",
+        "DOI": "10.1074/jbc.RA120.013793",
+        "Release Date": "05-05-2020",
+        "Abstract": "Unimolecular dual agonists of the glucagon (GCG) receptor (GCGR) and glucagon-like peptide-1 receptor (GLP-1R) are a new class of drugs that are potentially superior to GLP-1R-specific agonists for the management of metabolic disease. The dual-agonist, peptide 15 (P15), is a glutamic acid 16 analog of GCG with GLP-1 peptide substitutions between amino acids 17 and 24 that has potency equivalent to those of the cognate peptide agonists at the GCGR and GLP-1R. Here, we have used cryo-EM to solve the structure of an active P15-GCGR-G",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GLP1R\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "GLP1R"
+    }
+]

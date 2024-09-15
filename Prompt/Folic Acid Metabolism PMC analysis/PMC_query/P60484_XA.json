@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Curcumin regulates the miR-21/PTEN/Akt pathway and acts in synergy with PD98059 to induce apoptosis of human gastric cancer MGC-803 cells.",
+        "Journal Name": "The Journal of international medical research",
+        "PMID": "30727807",
+        "PMC": "PMC6421392",
+        "DOI": "10.1177/0300060518822213",
+        "Release Date": "06-02-2019",
+        "Abstract": "PD98059 is a potent and selective inhibitor of mitogen-activated protein kinase. Substantial preclinical evidence has shown an anti-tumor effect of curcumin on various solid tumors. This study aimed to investigate whether curcumin synergistically acts with PD98059 in exerting anti-gastric cancer effects.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Phosphatase and tensin homolog\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Phosphatase and tensin homolog"
+    }
+]

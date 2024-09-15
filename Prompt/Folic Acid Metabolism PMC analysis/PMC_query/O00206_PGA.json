@@ -1,0 +1,62 @@
+[
+    {
+        "Title": "Blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) prevents posttraumatic epileptogenesis in mice.",
+        "Journal Name": "Epilepsia",
+        "PMID": "34535891",
+        "PMC": "PMC9111750",
+        "DOI": "10.1111/epi.17069",
+        "Release Date": "18-09-2021",
+        "Abstract": "Effective treatment for the prevention of posttraumatic epilepsy is still not available. Here, we sought to determine whether blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) signaling pathways would prevent posttraumatic epileptogenesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Toll-like receptor 4\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Toll-like receptor 4"
+    },
+    {
+        "Title": "Blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) prevents posttraumatic epileptogenesis in mice.",
+        "Journal Name": "Epilepsia",
+        "PMID": "34535891",
+        "PMC": "PMC9111750",
+        "DOI": "10.1111/epi.17069",
+        "Release Date": "18-09-2021",
+        "Abstract": "Effective treatment for the prevention of posttraumatic epilepsy is still not available. Here, we sought to determine whether blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) signaling pathways would prevent posttraumatic epileptogenesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TLR4\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "TLR4"
+    },
+    {
+        "Title": "Ingestion of bacterial lipopolysaccharide inhibits peripheral taste responses to sucrose in mice.",
+        "Journal Name": "Neuroscience",
+        "PMID": "24215981",
+        "PMC": "PMC4020010",
+        "DOI": "10.1016/j.neuroscience.2013.10.072",
+        "Release Date": "09-11-2013",
+        "Abstract": "A fundamental role of the taste system is to discriminate between nutritive and toxic foods. However, it is unknown whether bacterial pathogens that might contaminate food and water modulate the transmission of taste input to the brain. We hypothesized that exogenous, bacterially-derived lipopolysaccharide (LPS), modulates neural responses to taste stimuli. Neurophysiological responses from the chorda tympani nerve, which innervates taste cells on the anterior tongue, were unchanged by acute exposure to LPS. Instead, neural responses to sucrose were selectively inhibited in mice that drank LPS during a single overnight period. Decreased sucrose sensitivity appeared 7days after LPS ingestion, in parallel with decreased lingual expression of Tas1r2 and Tas1r3 transcripts, which are translated to T1R2+T1R3 subunits forming the sweet taste receptor. Tas1r2 and Tas1r3 mRNA expression levels and neural responses to sucrose were restored by 14 days after LPS consumption. Ingestion of LPS, rather than contact with taste receptor cells, appears to be necessary to suppress sucrose responses. Furthermore, mice lacking the Toll-like receptor (TLR) 4 for LPS were resistant to neurophysiological changes following LPS consumption. These findings demonstrate that ingestion of LPS during a single period specifically and transiently inhibits neural responses to sucrose. We suggest that LPS drinking initiates TLR4-dependent hormonal signals that downregulate sweet taste receptor genes in taste buds. Delayed inhibition of sweet taste signaling may influence food selection and the complex interplay between gastrointestinal bacteria and obesity.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TLR-4\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "TLR-4"
+    },
+    {
+        "Title": "Blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) prevents posttraumatic epileptogenesis in mice.",
+        "Journal Name": "Epilepsia",
+        "PMID": "34535891",
+        "PMC": "PMC9111750",
+        "DOI": "10.1111/epi.17069",
+        "Release Date": "18-09-2021",
+        "Abstract": "Effective treatment for the prevention of posttraumatic epilepsy is still not available. Here, we sought to determine whether blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) signaling pathways would prevent posttraumatic epileptogenesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"toll like receptor 4\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "toll like receptor 4"
+    },
+    {
+        "Title": "Blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) prevents posttraumatic epileptogenesis in mice.",
+        "Journal Name": "Epilepsia",
+        "PMID": "34535891",
+        "PMC": "PMC9111750",
+        "DOI": "10.1111/epi.17069",
+        "Release Date": "18-09-2021",
+        "Abstract": "Effective treatment for the prevention of posttraumatic epilepsy is still not available. Here, we sought to determine whether blocking receptor for advanced glycation end products (RAGE) or toll-like receptor 4 (TLR4) signaling pathways would prevent posttraumatic epileptogenesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TOLL\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "TOLL"
+    }
+]

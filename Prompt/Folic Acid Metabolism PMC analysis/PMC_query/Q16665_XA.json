@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Rapid degradation of hypoxia-inducible factor-1alpha by KRH102053, a new activator of prolyl hydroxylase 2.",
+        "Journal Name": "British journal of pharmacology",
+        "PMID": "18332861",
+        "PMC": "PMC2438970",
+        "DOI": "10.1038/bjp.2008.70",
+        "Release Date": "10-03-2008",
+        "Abstract": "Hypoxia-inducible factor (HIF) is a transcription factor induced by hypoxia and degraded by ubiquitin-dependent proteasomes in normoxic conditions. Under hypoxic conditions, hydroxylation of HIF-1alpha subunit by prolyl hydroxylase (PHD) is suppressed, thus leading to increased levels of HIF. Although PHD2 plays a key role in regulating the levels of HIF, chemical activators of PHD2 are relatively unknown. The aim of this study was to identify small molecule activators of PHD2 that could be used, eventually, to suppress the level of HIF-1alpha.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Hypoxia-inducible factor 1-alpha\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "Hypoxia-inducible factor 1-alpha"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Hypoxia-inducible factor 1-alpha\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Hypoxia-inducible factor 1-alpha"
+    },
+    {
+        "Title": "Hypoxia inhibits TNF-α-induced TSLP expression in keratinocytes.",
+        "Journal Name": "PloS one",
+        "PMID": "31682627",
+        "PMC": "PMC6827910",
+        "DOI": "10.1371/journal.pone.0224705",
+        "Release Date": "04-11-2019",
+        "Abstract": "The expression of thymic stromal lymphopoietin (TSLP), a cytokine which greatly contributes to the induction of type I allergy, is upregulated in chronic inflammation such as atopic dermatitis and psoriasis. As hypoxia in the epidermis is important for maintaining skin homeostasis, we examined the regulation of TSLP expression by hypoxic conditions in normal skin epithelial tissues. TNF-α-induced expression of TSLP in human keratinocyte HaCaT and in mouse keratinocyte PAM212 cell lines were inhibited under hypoxic condition (1% O2), although the mRNA expressions of TNF-α, IL-6, IL-8, MCP-1, and VEGF-A were not inhibited. Hypoxia-mimicking conditions, which include NiCl2, CoCl2, and DMOG, an inhibitor of 2-oxoglutarate-dependent enzymes, also selectively inhibited TNF-α-induced TSLP expression. These results suggested that inactivation of prolyl hydroxylase by hypoxia and hypoxia-mimicking conditions is involved in the repression of TNF-α-induced TSLP expression. Interestingly, the inhibition of TSLP production by hypoxic treatment was significantly reversed by treatment with the HIF-2α antagonist but not with the HIF-1α inhibitor. DMOG-induced inhibition of TSLP promoter activity was dependent on the -71 to +185 bp promoter region, suggesting that the binding of HIF-2 to hypoxia response element (HRE) in this region repressed the TSLP expression. These results indicated that hypoxia and hypoxia-mimicking conditions inhibited TSLP expression via HIF-2 and HRE-dependent mechanisms. Therefore, PHD and HIF-2α could be a new strategy for treatment of atopic dermatitis and psoriasis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PAS domain-containing protein 8\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "PAS domain-containing protein 8"
+    }
+]

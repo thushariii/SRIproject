@@ -1,0 +1,122 @@
+[
+    {
+        "Title": "Intramembrane glycine mediates multimerization of Insig-2, a requirement for sterol regulation in Chinese hamster ovary cells.",
+        "Journal Name": "Journal of lipid research",
+        "PMID": "19617589",
+        "PMC": "PMC2789779",
+        "DOI": "10.1194/jlr.M900336-JLR200",
+        "Release Date": "--",
+        "Abstract": "Sterol-induced binding of endoplasmic reticulum (ER) membrane proteins Insig-1 and Insig-2 to SREBP cleavage-activating protein (Scap) and HMG-CoA reductase triggers regulatory events that limit cholesterol synthesis in animal cells. Binding of Insigs to Scap prevents proteolytic activation of sterol-regulatory element binding proteins (SREBPs), membrane-bound transcription factors that enhance cholesterol synthesis, by trapping Scap-SREBP complexes in the ER. Insig binding to reductase causes ubiquitination and subsequent proteasome-mediated degradation of the enzyme from ER membranes, slowing a rate-limiting step in cholesterol synthesis. Here, we report the characterization of mutant Chinese hamster ovary cells, designated SRD-20, that are resistant to 25-hydroxycholesterol, which potently inhibits SREBP activation and stimulates degradation of reductase. SRD-20 cells were produced by mutagenesis of Insig-1-deficient SRD-14 cells, followed by selection in 25-hydroxycholesterol. DNA sequencing reveals that SRD-20 cells harbor a point mutation in one Insig-2 allele that results in production of a truncated, nonfunctional protein, whereas the other allele contains a point mutation that results in substitution of glutamic acid for glycine-39. This glycine residue localizes to the first membrane-spanning segment of Insig-2 and is also present in the corresponding region of Insig-1. Mutant forms of Insig-1 and Insig-2 containing the Glu-to-Gly substitution fail to confer sterol regulation upon overexpressed Scap and reductase. These studies identify the intramembrane glycine as a key residue for normal sterol regulation in animal cells.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"SREBP cleavage activity 1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "SREBP cleavage activity 1"
+    },
+    {
+        "Title": "Activation of a caspase 3-related cysteine protease is required for glutamate-mediated apoptosis of cultured cerebellar granule neurons.",
+        "Journal Name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PMID": "9326666",
+        "PMC": "PMC23571",
+        "DOI": "10.1073/pnas.94.21.11657",
+        "Release Date": "--",
+        "Abstract": "Neurotoxicity induced by overstimulation of N-methyl-D-aspartate (NMDA) receptors is due, in part, to a sustained rise in intracellular Ca2+; however, little is known about the ensuing intracellular events that ultimately result in cell death. Here we show that overstimulation of NMDA receptors by relatively low concentrations of glutamate induces apoptosis of cultured cerebellar granule neurons (CGNs) and that CGNs do not require new RNA or protein synthesis. Glutamate-induced apoptosis of CGNs is, however, associated with a concentration- and time-dependent activation of the interleukin 1beta-converting enzyme (ICE)/CED-3-related protease, CPP32/Yama/apopain (now designated caspase 3). Further, the time course of caspase 3 activation after glutamate exposure of CGNs parallels the development of apoptosis. Moreover, glutamate-induced apoptosis of CGNs is almost completely blocked by the selective cell permeable tetrapeptide inhibitor of caspase 3, Ac-DEVD-CHO but not by the ICE (caspase 1) inhibitor, Ac-YVAD-CHO. Western blots of cytosolic extracts from glutamate-exposed CGNs reveal both cleavage of the caspase 3 substrate, poly(ADP-ribose) polymerase, as well as proteolytic processing of pro-caspase 3 to active subunits. Our data demonstrate that glutamate-induced apoptosis of CGNs is mediated by a posttranslational activation of the ICE/CED-3-related cysteine protease caspase 3.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Apopain\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Apopain"
+    },
+    {
+        "Title": "Activation of a caspase 3-related cysteine protease is required for glutamate-mediated apoptosis of cultured cerebellar granule neurons.",
+        "Journal Name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PMID": "9326666",
+        "PMC": "PMC23571",
+        "DOI": "10.1073/pnas.94.21.11657",
+        "Release Date": "--",
+        "Abstract": "Neurotoxicity induced by overstimulation of N-methyl-D-aspartate (NMDA) receptors is due, in part, to a sustained rise in intracellular Ca2+; however, little is known about the ensuing intracellular events that ultimately result in cell death. Here we show that overstimulation of NMDA receptors by relatively low concentrations of glutamate induces apoptosis of cultured cerebellar granule neurons (CGNs) and that CGNs do not require new RNA or protein synthesis. Glutamate-induced apoptosis of CGNs is, however, associated with a concentration- and time-dependent activation of the interleukin 1beta-converting enzyme (ICE)/CED-3-related protease, CPP32/Yama/apopain (now designated caspase 3). Further, the time course of caspase 3 activation after glutamate exposure of CGNs parallels the development of apoptosis. Moreover, glutamate-induced apoptosis of CGNs is almost completely blocked by the selective cell permeable tetrapeptide inhibitor of caspase 3, Ac-DEVD-CHO but not by the ICE (caspase 1) inhibitor, Ac-YVAD-CHO. Western blots of cytosolic extracts from glutamate-exposed CGNs reveal both cleavage of the caspase 3 substrate, poly(ADP-ribose) polymerase, as well as proteolytic processing of pro-caspase 3 to active subunits. Our data demonstrate that glutamate-induced apoptosis of CGNs is mediated by a posttranslational activation of the ICE/CED-3-related cysteine protease caspase 3.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein Yama\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Protein Yama"
+    },
+    {
+        "Title": "Ripa-56 protects retinal ganglion cells in glutamate-induced retinal excitotoxic model of glaucoma.",
+        "Journal Name": "Scientific reports",
+        "PMID": "38360971",
+        "PMC": "PMC10869350",
+        "DOI": "10.1038/s41598-024-54075-z",
+        "Release Date": "15-02-2024",
+        "Abstract": "Glaucoma is a prevalent cause of blindness globally, characterized by the progressive degeneration of retinal ganglion cells (RGCs). Among various factors, glutamate excitotoxicity stands out as a significant contributor of RGCs loss in glaucoma. Our study focused on Ripa-56 and its protective effect against NMDA-induced retinal damage in mice, aiming to delve into the potential underlying mechanism. The R28 cells were categorized into four groups: glutamate (Glu), Glu + Ripa-56, Ripa-56 and Control group. After 24 h of treatment, cell death was assessed by PI / Hoechst staining. Mitochondrial membrane potential changes, apoptosis and reactive oxygen species (ROS) production were analyzed using flow cytometry. The alterations in the expression of RIP-1, p-MLKL, Bcl-2, BAX, Caspase-3, Gpx4 and SLC7A11 were examined using western blot analysis. C57BL/6j mice were randomly divided into NMDA, NMDA + Ripa-56, Ripa-56 and control groups. Histological changes in the retina were evaluated using hematoxylin and eosin (H&E) staining. RGCs survival and the protein expression changes of RIP-1, Caspase-3, Bcl-2, Gpx4 and SLC7A11 were observed using immunofluorescence. Ripa-56 exhibited a significant reduction in the levels of RIP-1, p-MLKL, Caspase-3, and BAX induced by glutamate, while promoting the expression of Bcl-2, Gpx-4, and SLC7A1 in the Ripa-56-treated group. In our study, using an NMDA-induced normal tension glaucoma mice model, we employed immunofluorescence and H&E staining to observe that Ripa-56 treatment effectively ameliorated retinal ganglion cell loss, mitigating the decrease in retinal ganglion cell layer and bipolar cell layer thickness caused by NMDA. In this study, we have observed that Ripa-56 possesses remarkable anti- necroptotic, anti-apoptotic and anti-ferroptosis properties. It demonstrates the ability to combat not only glutamate-induced excitotoxicity in R28 cells, but also NMDA-induced retinal excitotoxicity in mice. Therefore, Ripa-56 could be used as a potential retinal protective agent.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"caspase 3\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "caspase 3"
+    },
+    {
+        "Title": "Conditioned-medium of stem cells from human exfoliated deciduous teeth prevent apoptosis of neural progenitors.",
+        "Journal Name": "The Saudi dental journal",
+        "PMID": "36267534",
+        "PMC": "PMC9577352",
+        "DOI": "10.1016/j.sdentj.2022.08.005",
+        "Release Date": "23-08-2022",
+        "Abstract": "This study aimed to evaluate the neuroprotective ability of the conditioned medium of stem cells from human exfoliated deciduous teeth (CM-SHED) to prevent glutamate-induced apoptosis of neural progenitors.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"caspase 3\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "caspase 3"
+    },
+    {
+        "Title": "Neuroprotective Effect of Valproic Acid on Salicylate-Induced Tinnitus.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "35008469",
+        "PMC": "PMC8744959",
+        "DOI": "10.3390/ijms23010023",
+        "Release Date": "21-12-2021",
+        "Abstract": "High-dose salicylate induces temporary moderate hearing loss and the perception of a high-pitched tinnitus in humans and animals. Previous studies demonstrated that high doses of salicylate increase N-methyl-d-aspartate (NMDA) receptor levels, resulting in a rise in Ca",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"caspase 3\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "caspase 3"
+    },
+    {
+        "Title": "Ripa-56 protects retinal ganglion cells in glutamate-induced retinal excitotoxic model of glaucoma.",
+        "Journal Name": "Scientific reports",
+        "PMID": "38360971",
+        "PMC": "PMC10869350",
+        "DOI": "10.1038/s41598-024-54075-z",
+        "Release Date": "15-02-2024",
+        "Abstract": "Glaucoma is a prevalent cause of blindness globally, characterized by the progressive degeneration of retinal ganglion cells (RGCs). Among various factors, glutamate excitotoxicity stands out as a significant contributor of RGCs loss in glaucoma. Our study focused on Ripa-56 and its protective effect against NMDA-induced retinal damage in mice, aiming to delve into the potential underlying mechanism. The R28 cells were categorized into four groups: glutamate (Glu), Glu + Ripa-56, Ripa-56 and Control group. After 24 h of treatment, cell death was assessed by PI / Hoechst staining. Mitochondrial membrane potential changes, apoptosis and reactive oxygen species (ROS) production were analyzed using flow cytometry. The alterations in the expression of RIP-1, p-MLKL, Bcl-2, BAX, Caspase-3, Gpx4 and SLC7A11 were examined using western blot analysis. C57BL/6j mice were randomly divided into NMDA, NMDA + Ripa-56, Ripa-56 and control groups. Histological changes in the retina were evaluated using hematoxylin and eosin (H&E) staining. RGCs survival and the protein expression changes of RIP-1, Caspase-3, Bcl-2, Gpx4 and SLC7A11 were observed using immunofluorescence. Ripa-56 exhibited a significant reduction in the levels of RIP-1, p-MLKL, Caspase-3, and BAX induced by glutamate, while promoting the expression of Bcl-2, Gpx-4, and SLC7A1 in the Ripa-56-treated group. In our study, using an NMDA-induced normal tension glaucoma mice model, we employed immunofluorescence and H&E staining to observe that Ripa-56 treatment effectively ameliorated retinal ganglion cell loss, mitigating the decrease in retinal ganglion cell layer and bipolar cell layer thickness caused by NMDA. In this study, we have observed that Ripa-56 possesses remarkable anti- necroptotic, anti-apoptotic and anti-ferroptosis properties. It demonstrates the ability to combat not only glutamate-induced excitotoxicity in R28 cells, but also NMDA-induced retinal excitotoxicity in mice. Therefore, Ripa-56 could be used as a potential retinal protective agent.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caspase-3\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Caspase-3"
+    },
+    {
+        "Title": "Conditioned-medium of stem cells from human exfoliated deciduous teeth prevent apoptosis of neural progenitors.",
+        "Journal Name": "The Saudi dental journal",
+        "PMID": "36267534",
+        "PMC": "PMC9577352",
+        "DOI": "10.1016/j.sdentj.2022.08.005",
+        "Release Date": "23-08-2022",
+        "Abstract": "This study aimed to evaluate the neuroprotective ability of the conditioned medium of stem cells from human exfoliated deciduous teeth (CM-SHED) to prevent glutamate-induced apoptosis of neural progenitors.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Caspase-3\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Caspase-3"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Tissue engineering. Part A",
+        "PMID": "28946792",
+        "PMC": "PMC5729881",
+        "DOI": "10.1089/ten.TEA.2017.0111",
+        "Release Date": "13-11-2017",
+        "Abstract": "A drug delivery coating for synthetic bone grafts has been developed to provide sequential delivery of multiple osteoinductive factors to better mimic aspects of the natural regenerative process. The coating is composed of a biomimetic calcium phosphate (bCaP) layer that is applied to a synthetic bone graft and then covered with a poly-l-Lysine/poly-l-Glutamic acid polyelectrolyte multilayer (PEM) film. Bone morphogenetic protein-2 (BMP-2) was applied before the coating process directly on the synthetic bone graft and then, bCaP-PEM was deposited followed by adsorption of fibroblast growth factor-2 (FGF-2) into the PEM layer. Cells access the FGF-2 immediately, while the bCaP-PEM temporally delays the cell access to BMP-2. In vitro studies with cells derived from mouse calvarial bones demonstrated that Sca-1 and CD-166 positive osteoblast progenitor cells proliferated in response to media dosing with FGF-2. Coated scaffolds with BMP-2 and FGF-2 were implanted in mouse calvarial bone defects and harvested at 1 and 3 weeks. After 1 week in vivo, proliferation of cells, including Sca-1+ progenitors, was observed with low dose FGF-2 and BMP-2 compared to BMP-2 alone, indicating that in vivo delivery of FGF-2 activated a similar population of cells as shown by in vitro testing. At 3 weeks, FGF-2 and BMP-2 delivery increased bone formation more than BMP-2 alone, particularly in the center of the defect, confirming that the proliferation of the Sca-1 positive osteoprogenitors by FGF-2 was associated with increased bone healing. Areas of bone mineralization were positive for double fluorochrome labeling of calcium and alkaline phosphatase staining of osteoblasts, along with increased TRAP+ osteoclasts, demonstrating active bone formation distinct from the bone-like collagen/hydroxyapatite scaffold. In conclusion, the addition of a bCaP layer to PEM delayed access to BMP-2 and allowed the FGF-2 stimulated progenitors to populate the scaffold before differentiating in response to BMP-2, leading to improved bone defect healing.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"SCA-1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "SCA-1"
+    },
+    {
+        "Title": "Activation of a caspase 3-related cysteine protease is required for glutamate-mediated apoptosis of cultured cerebellar granule neurons.",
+        "Journal Name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PMID": "9326666",
+        "PMC": "PMC23571",
+        "DOI": "10.1073/pnas.94.21.11657",
+        "Release Date": "--",
+        "Abstract": "Neurotoxicity induced by overstimulation of N-methyl-D-aspartate (NMDA) receptors is due, in part, to a sustained rise in intracellular Ca2+; however, little is known about the ensuing intracellular events that ultimately result in cell death. Here we show that overstimulation of NMDA receptors by relatively low concentrations of glutamate induces apoptosis of cultured cerebellar granule neurons (CGNs) and that CGNs do not require new RNA or protein synthesis. Glutamate-induced apoptosis of CGNs is, however, associated with a concentration- and time-dependent activation of the interleukin 1beta-converting enzyme (ICE)/CED-3-related protease, CPP32/Yama/apopain (now designated caspase 3). Further, the time course of caspase 3 activation after glutamate exposure of CGNs parallels the development of apoptosis. Moreover, glutamate-induced apoptosis of CGNs is almost completely blocked by the selective cell permeable tetrapeptide inhibitor of caspase 3, Ac-DEVD-CHO but not by the ICE (caspase 1) inhibitor, Ac-YVAD-CHO. Western blots of cytosolic extracts from glutamate-exposed CGNs reveal both cleavage of the caspase 3 substrate, poly(ADP-ribose) polymerase, as well as proteolytic processing of pro-caspase 3 to active subunits. Our data demonstrate that glutamate-induced apoptosis of CGNs is mediated by a posttranslational activation of the ICE/CED-3-related cysteine protease caspase 3.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CPP32\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "CPP32"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Non-canonical Smads phosphorylation induced by the glutamate release inhibitor, riluzole, through GSK3 activation in melanoma.",
+        "Journal Name": "PloS one",
+        "PMID": "23077590",
+        "PMC": "PMC3470581",
+        "DOI": "10.1371/journal.pone.0047312",
+        "Release Date": "12-10-2012",
+        "Abstract": "Riluzole, an inhibitor of glutamate release, has shown the ability to inhibit melanoma cell xenograft growth. A phase 0 clinical trial of riluzole as a single agent in patients with melanoma resulted in involution of tumors associated with inhibition of both the mitogen-activated protein kinase (MAPK) and phophoinositide-3-kinase/AKT (PI3K/AKT) pathways in 34% of patients. In the present study, we demonstrate that riluzole inhibits AKT-mediated glycogen synthase kinase 3 (GSK3) phosphorylation in melanoma cell lines. Because we have demonstrated that GSK3 is involved in the phosphorylation of two downstream effectors of transforming growth factor beta (TGFβ), Smad2 and Smad3, at their linker domain, our aim was to determine whether riluzole could induce GSK3β-mediated linker phosphorylation of Smad2 and Smad3. We present evidence that riluzole increases Smad2 and Smad3 linker phosphorylation at the cluster of serines 245/250/255 and serine 204 respectively. Using GSK3 inhibitors and siRNA knock-down, we demonstrate that the mechanism of riluzole-induced Smad phosphorylation involved GSK3β. In addition, GSK3β could phosphorylate the same linker sites in vitro. The riluzole-induced Smad linker phosphorylation is mechanistically different from the Smad linker phosphorylation induced by TGFβ. We also demonstrate that riluzole-induced Smad linker phosphorylation is independent of the expression of the metabotropic glutamate receptor 1 (GRM1), which is one of the glutamate receptors whose involvement in human melanoma has been documented. We further show that riluzole upregulates the expression of INHBB and PLAU, two genes associated with the TGFβ signaling pathway. The non-canonical increase in Smad linker phosphorylation induced by riluzole could contribute to the modulation of the pro-oncogenic functions of Smads in late stage melanomas.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"SMAD2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "SMAD2"
+    }
+]

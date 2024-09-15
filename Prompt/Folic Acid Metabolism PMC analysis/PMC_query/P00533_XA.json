@@ -1,0 +1,124 @@
+[
+    {
+        "Title": "Synthesis, cytotoxic evaluation, and molecular docking studies of some new 1, 3, 4-oxadiazole-based compounds.",
+        "Journal Name": "Research in pharmaceutical sciences",
+        "PMID": "33628287",
+        "PMC": "PMC7879786",
+        "DOI": "10.4103/1735-5362.297848",
+        "Release Date": "19-10-2020",
+        "Abstract": "Oxadiazole-derived compounds have been shown to have a wide range of pharmacological activities. 2, 5-Disubstituted 1, 3, 4-oxadiazole derivatives have occupied a specific place in the design of anti-proliferative agents. In the present work a series of 2, 5-disubstituted 1, 3, 4-oxadiazoles derivatives containing amide group has been synthesized",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Epidermal growth factor receptor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Epidermal growth factor receptor"
+    },
+    {
+        "Title": "Synthesis, cytotoxic evaluation, and molecular docking studies of some new 1, 3, 4-oxadiazole-based compounds.",
+        "Journal Name": "Research in pharmaceutical sciences",
+        "PMID": "33628287",
+        "PMC": "PMC7879786",
+        "DOI": "10.4103/1735-5362.297848",
+        "Release Date": "19-10-2020",
+        "Abstract": "Oxadiazole-derived compounds have been shown to have a wide range of pharmacological activities. 2, 5-Disubstituted 1, 3, 4-oxadiazole derivatives have occupied a specific place in the design of anti-proliferative agents. In the present work a series of 2, 5-disubstituted 1, 3, 4-oxadiazoles derivatives containing amide group has been synthesized",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"epidermal growth factor receptor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "epidermal growth factor receptor"
+    },
+    {
+        "Title": "Combination treatment strategy for pancreatic cancer involving the novel HDAC inhibitor MPT0E028 with a MEK inhibitor beyond K-Ras status.",
+        "Journal Name": "Clinical epigenetics",
+        "PMID": "31142371",
+        "PMC": "PMC6540419",
+        "DOI": "10.1186/s13148-019-0681-6",
+        "Release Date": "29-05-2019",
+        "Abstract": "Oncogenic K-Ras signaling highly relies on the canonical Ras/MEK/ERK pathway to contribute to pancreatic cancer progression. However, numerous efforts of MEK inhibitors have failed to provide an optimal antitumor effect for pancreatic cancer in practice. The aim of the present work was to develop a more efficacious therapeutic intervention for MEK inhibitors through combination with histone deacetylase (HDAC) inhibitor MPT0E028.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"epidermal growth factor receptor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "epidermal growth factor receptor"
+    },
+
+  
+    {
+        "Title": "Design, synthesis and evaluation of 2-amino-4-m-bromoanilino-6-arylmethyl-7H-pyrrolo[2,3-d]pyrimidines as tyrosine kinase inhibitors and antiangiogenic agents.",
+        "Journal Name": "Bioorganic & medicinal chemistry",
+        "PMID": "20558072",
+        "PMC": "PMC2910361",
+        "DOI": "10.1016/j.bmc.2010.05.049",
+        "Release Date": "25-05-2010",
+        "Abstract": "A series of 2-amino-4-m-bromoanilino-6-benzyl pyrrolo[2,3-d]pyrimidines analogues 4-12 were synthesized and evaluated as inhibitors of receptor tyrosine kinases (RTKs). These analogues were synthesized from the appropriate alpha-bromomethylbenzylketones via cyclocondensation with 2,6-diamino-4-pyrimidone to afford the 2-amino-4-oxo-6-substituted benzyl pyrrolo[2,3-d]pyrimidines. Chlorination at the 4-position followed by displacement with 3-bromoaniline or 3-bromo-N-methylaniline and methylation of the 7-NH afforded the target compounds. Remarkably, dimethylation of both the 4-N and N7 afford whole cell EGFR inhibitors that are more cytotoxic than clinically used erlotinib and mono-methylation at the 4-N or N7 affords more cytotoxic whole cell PDGFR-beta inhibitors than clinically used sunitinib. Methylation at either the 4-N or N7 position was detrimental to whole cell VEGFR-2 inhibition. The inhibitory data against the RTKs in this study demonstrates that methylation of the 4-NH and/or the 7-NH influences both the specificity and potency of RTK inhibition.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERBB\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "ERBB"
+    },
+    {
+        "Title": "Treatment patterns and clinical outcomes of chidamide combined with endocrine therapy in hormone receptor-positive, HER2-negative metastatic breast cancer: A real-world multicenter study.",
+        "Journal Name": "Cancer medicine",
+        "PMID": "38457252",
+        "PMC": "PMC10923034",
+        "DOI": "10.1002/cam4.6762",
+        "Release Date": "--",
+        "Abstract": "Chidamide is a selective histone deacetylase inhibitor approved for patients with hormone receptor (HoR)-positive and HER2-negative metastatic breast cancer (MBC). We aimed to investigate the efficacy, safety, and treatment patterns of chidamide and identify clinicopathological factors that predict the efficacy of chidamide in real-world scenarios.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERBB\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "ERBB"
+    },
+    {
+        "Title": "Occurrence of mutations in the epidermal growth factor receptor gene in X-ray-induced rat lung tumors.",
+        "Journal Name": "Cancer science",
+        "PMID": "18271921",
+        "PMC": "PMC11159033",
+        "DOI": "10.1111/j.1349-7006.2008.00680.x",
+        "Release Date": "--",
+        "Abstract": "Epidermal growth factor receptor (EGFR) gene alterations have been found in human lung cancers. However, there is no information on the factors inducing EGFR mutations. In rodents, K-ras mutations are frequently found in many lung carcinogenesis models, but hitherto, Egfr mutations have not been reported. Their presence was therefore investigated in representative lung carcinogenesis models with 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK), N-nitrosobis(2-hydroxypropyl)amine (BHP), 2-amino-3,8-dimethylimidazo[4,5-f]quinoxaline (MeIQx) and ethyl carbamate (urethane), as well as X-ray irradiation. With the chemical carcinogenesis models, no mutations were detected in Egfr, which is in clear contrast to the high rates observed in either codon 12 or 61 of K-ras (21/23 of the lung tumors induced with NNK, 4/5 with MeIQx, 1/4 with urethane and 7/18 with BHP). However, in the X-ray-induced lung tumors, Egfr mutations with amino acid substitution were observed in exons 18 and 21 (4/12, 33%), but no activating mutation of K-ras was detected. In addition, one and four silent mutations were identified in K-ras (exon 1) and Egfr (exons 18, 20 and 21), respectively. Most mutations in both Egfr and K-ras were G/C-->A/T transitions (7/8, 88% and 31/34, 91%, respectively). Although, the mutational patterns in equivalent human lesions were not completely coincident, this first report of Egfr mutations in an experimental lung tumor model suggests that X-rays or other factors producing oxygen radicals could cause EGFR mutations in some proportion of lung cancers in humans.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"erbB-1\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "erbB-1"
+    },
+    {
+        "Title": "HER1-targeted 86Y-panitumumab possesses superior targeting characteristics than 86Y-cetuximab for PET imaging of human malignant mesothelioma tumors xenografts.",
+        "Journal Name": "PloS one",
+        "PMID": "21464917",
+        "PMC": "PMC3064677",
+        "DOI": "10.1371/journal.pone.0018198",
+        "Release Date": "25-03-2011",
+        "Abstract": "Malignant mesothelioma (MM), a rare form of cancer is often associated with previous exposure to fibrous minerals, such as asbestos. Asbestos exposure increases HER1-activity and expression in pre-clinical models. Additionally, HER1 over-expression is observed in the majority of MM cases. In this study, the utility of HER1-targeted chimeric IgG(1), cetuximab, and a human IgG(2), panitumumab, radiolabeled with (86)Y, were evaluated for PET imaging to detect MM non-invasively in vivo, and to select an antibody candidate for radioimmunotherapy (RIT).",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HER1\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "HER1"
+    },
+    {
+        "Title": "Transforming growth factor beta1 (TGF-beta1) promotes endothelial cell survival during in vitro angiogenesis via an autocrine mechanism implicating TGF-alpha signaling.",
+        "Journal Name": "Molecular and cellular biology",
+        "PMID": "11585905",
+        "PMC": "PMC99897",
+        "DOI": "10.1128/MCB.21.21.7218-7230.2001",
+        "Release Date": "--",
+        "Abstract": "Mouse capillary endothelial cells (1G11 cell line) embedded in type I collagen gels undergo in vitro angiogenesis. Cells rapidly reorganize and form capillary-like structures when stimulated with serum. Transforming growth factor beta1 (TGF-beta1) alone can substitute for serum and induce cell survival and tubular network formation. This TGF-beta1-mediated angiogenic activity depends on phosphatidylinositol 3-kinase (PI3K) and p42/p44 mitogen-activated protein kinase (MAPK) signaling. We showed that specific inhibitors of either pathway (wortmannin, LY-294002, and PD-98059) all suppressed TGF-beta1-induced angiogenesis mainly by compromising cell survival. We established that TGF-beta1 stimulated the expression of TGF-alpha mRNA and protein, the tyrosine phosphorylation of a 170-kDa membrane protein representing the epidermal growth factor (EGF) receptor, and the delayed activation of PI3K/Akt and p42/p44 MAPK. Moreover, we showed that all these TGF-beta1-mediated signaling events, including tubular network formation, were suppressed by incubating TGF-beta1-stimulated endothelial cells with a soluble form of an EGF receptor (ErbB-1) or tyrphostin AG1478, a specific blocker of EGF receptor tyrosine kinase. Finally, addition of TGF-alpha alone poorly stimulated angiogenesis; however, by reducing cell death, it strongly potentiated the action of TGF-beta1. We therefore propose that TGF-beta1 promotes angiogenesis at least in part via the autocrine secretion of TGF-alpha, a cell survival growth factor, activating PI3K/Akt and p42/p44 MAPK.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERBB1\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "ERBB1"
+    },
+    {
+        "Title": "Monomerization of Homodimeric Trefoil Factor 3 (TFF3) by an Aminonitrile Compound Inhibits TFF3-Dependent Cancer Cell Survival.",
+        "Journal Name": "ACS pharmacology & translational science",
+        "PMID": "36110371",
+        "PMC": "PMC9469493",
+        "DOI": "10.1021/acsptsci.2c00044",
+        "Release Date": "17-08-2022",
+        "Abstract": "Trefoil factor 3 (TFF3) is a secreted protein with an established oncogenic function and a highly significant association with clinical progression of various human malignancies. Herein, a novel small molecule that specifically targets TFF3 homodimeric functions was identified. Utilizing the concept of reversible covalent interaction, 2-amino-4-(4-(6-fluoro-5-methylpyridin-3-yl)phenyl)-5-oxo-4H,5H-pyrano[3,2-",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"EGFR\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "EGFR"
+    },
+    {
+        "Title": "Novel 2-Amino-1,4-Naphthoquinone Derivatives Induce A549 Cell Death through Autophagy.",
+        "Journal Name": "Molecules (Basel, Switzerland)",
+        "PMID": "37110525",
+        "PMC": "PMC10143525",
+        "DOI": "10.3390/molecules28083289",
+        "Release Date": "07-04-2023",
+        "Abstract": "A series of 1,4-naphthoquinone derivatives containing were synthesized as anti-cancer agents and the crystal structure of compound",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"EGFR\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "EGFR"
+    }
+]

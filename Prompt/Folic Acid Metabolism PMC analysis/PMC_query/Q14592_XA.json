@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Zfx-induced upregulation of UBE2J1 facilitates endometrial cancer progression via PI3K/AKT pathway.",
+        "Journal Name": "Cancer biology & therapy",
+        "PMID": "33632059",
+        "PMC": "PMC8043169",
+        "DOI": "10.1080/15384047.2021.1883186",
+        "Release Date": "26-02-2021",
+        "Abstract": "Emerging documents revealed that E2 enzyme family has been implicated in regulating the progression of numerous human cancers. Ubiquitin-conjugating enzyme E2 J1 (UBE2J1), a member of E2 enzyme family, has been reported to participate in the biological process of medulloblastoma, while little is known about its functionality in endometrial cancer (EC). Gene expression at the mRNA and protein levels were identified using RT-qPCR and western blot analysis, separately. The alteration on cell proliferation, adhesion, migration, invasion, and epithelial-mesenchymal transition (EMT) process was determined through 5-Ethynyl-2'-deoxyuridine, cell adhesion, wound healing and transwell assays as well as western blot analysis. The role of UBE2J1 in xenograft tumor in mice was determined. Luciferase reporter and chromatin immunoprecipitation assays were conducted to reveal the undering mechanism of UBE2J1. Our results indicated that UBE2J1 displayed high level in EC tissues and cells and predicted poor prognosis of EC patients. In addition, UBE2J1 depletion inhibited cell proliferation, adhesion, motion, EMT process",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    }
+]

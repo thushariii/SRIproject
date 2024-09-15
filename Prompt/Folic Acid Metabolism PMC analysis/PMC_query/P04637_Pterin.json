@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Genotypic variants of the tetrahydrobiopterin (BH4) biosynthesis genes in patients with hyperphenylalaninemia from different regions of Iran.",
+        "Journal Name": "Molecular genetics & genomic medicine",
+        "PMID": "37818795",
+        "PMC": "PMC10767420",
+        "DOI": "10.1002/mgg3.2294",
+        "Release Date": "11-10-2023",
+        "Abstract": "Hyperphenylalaninemia (HPA) is a metabolic disorder classified into phenylalanine-4-hydroxylase (PAH) and non-PAH deficiency. The latter is produced by mutations in genes involved in the tetrahydrobiopterin (BH4) biosynthesis pathway and DNAJC12 pathogenetic variants. The BH4 metabolism, including de novo biosynthesis involved genes (i.e., guanosine 5'-triphosphate cyclohydrolase I (GTPCH/GCH1), sepiapterin reductase (SR/SPR), 6-pyruvoyl-tetrahydropterin synthase (PTPS/PTS)), and two genes that play roles in cofactor regeneration pathway (i.e., dihydropteridine reductase (DHPR/QDPR) and pterin-4α-carbinolamine dehydratase (PCD/PCBD1)). The subsequent systemic hyperphenylalaninemia and monoamine neurotransmitter deficiency lead to neurological consequences. The high rate of consanguineous marriages in Iran substantially increases the incidence of BH4 deficiency.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Comparative genomics guided discovery of two missing archaeal enzyme families involved in the biosynthesis of the pterin moiety of tetrahydromethanopterin and tetrahydrofolate.",
+        "Journal Name": "ACS chemical biology",
+        "PMID": "22931285",
+        "PMC": "PMC3500442",
+        "DOI": "10.1021/cb300342u",
+        "Release Date": "07-09-2012",
+        "Abstract": "C-1 carriers are essential cofactors in all domains of life, and in Archaea, these can be derivatives of tetrahydromethanopterin (H(4)-MPT) or tetrahydrofolate (H(4)-folate). Their synthesis requires 6-hydroxymethyl-7,8-dihydropterin diphosphate (6-HMDP) as the precursor, but the nature of pathways that lead to its formation were unknown until the recent discovery of the GTP cyclohydrolase IB/MptA family that catalyzes the first step, the conversion of GTP to dihydroneopterin 2',3'-cyclic phosphate or 7,8-dihydroneopterin triphosphate [El Yacoubi, B.; et al. (2006) J. Biol. Chem., 281, 37586-37593 and Grochowski, L. L.; et al. (2007) Biochemistry46, 6658-6667]. Using a combination of comparative genomics analyses, heterologous complementation tests, and in vitro assays, we show that the archaeal protein families COG2098 and COG1634 specify two of the missing 6-HMDP synthesis enzymes. Members of the COG2098 family catalyze the formation of 6-hydroxymethyl-7,8-dihydropterin from 7,8-dihydroneopterin, while members of the COG1634 family catalyze the formation of 6-HMDP from 6-hydroxymethyl-7,8-dihydropterin. The discovery of these missing genes solves a long-standing mystery and provides novel examples of convergent evolutions where proteins of dissimilar architectures perform the same biochemical function.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"2-amino-Quinonoid dihydropterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-Quinonoid dihydropterin",
+        "Query_ProteinName": "Genes"
+    }
+]

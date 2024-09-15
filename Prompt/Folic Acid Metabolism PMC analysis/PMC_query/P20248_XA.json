@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "RRM2 is a potential prognostic biomarker with functional significance in glioma.",
+        "Journal Name": "International journal of biological sciences",
+        "PMID": "30745840",
+        "PMC": "PMC6367584",
+        "DOI": "10.7150/ijbs.30114",
+        "Release Date": "01-01-2019",
+        "Abstract": "Glioma is one of the most common brain tumors, suggesting the importance of investigating the molecular mechanism of gliomas. We studied the roles of Ribonucleotide Reductase Regulatory Subunit M2 (RRM2) in glioma. Expressions of RRM2 are higher in glioma tissues evidenced by TCGA data, western blot and immunohistochemistry. RRM2 is negatively correlated with glioma patient's survival. RNA-seq showed that genes involved in apoptosis, proliferation, cell adhesion and negative regulation of signaling were up-regulated upon RNAi-mediated knock-down of RRM2. Cell phenotypes specific for stably knocking down RRM2 were determined using stable transfection",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Cyclin-A"
+    },
+    {
+        "Title": "Activation of GPR30 inhibits the growth of prostate cancer cells through sustained activation of Erk1/2, c-jun/c-fos-dependent upregulation of p21, and induction of G(2) cell-cycle arrest.",
+        "Journal Name": "Cell death and differentiation",
+        "PMID": "20203690",
+        "PMC": "PMC2897932",
+        "DOI": "10.1038/cdd.2010.20",
+        "Release Date": "05-03-2010",
+        "Abstract": "G-protein-coupled receptor-30 (GPR30) shows estrogen-binding affinity and mediates non-genomic signaling of estrogen to regulate cell growth. We here showed for the first time, in contrast to the reported promoting action of GPR30 on the growth of breast and ovarian cancer cells, that activation of GPR30 by the receptor-specific, non-estrogenic ligand G-1 inhibited the growth of androgen-dependent and androgen-independent prostate cancer (PCa) cells in vitro and PC-3 xenografts in vivo. However, G-1 elicited no growth or histological changes in the prostates of intact mice and did not inhibit growth in quiescent BPH-1, an immortalized benign prostatic epithelial cell line. Treatment of PC-3 cells with G-1 induced cell-cycle arrest at the G(2) phase and reduced the expression of G(2)-checkpoint regulators (cyclin-A2, cyclin-B1, cdc25c, and cdc2) and phosphorylation of their common transcriptional regulator NF-YA in PC-3 cells. With extensive use of siRNA-knockdown experiments and the MEK inhibitor PD98059 in this study, we dissected the mechanism underlying G-1-induced inhibition of PC-3 cell growth, which was mediated through GPR30, followed by sustained activation of Erk1/2 and a c-jun/c-fos-dependent upregulation of p21, resulting in the arrest of PC-3 growth at the G(2) phase. The discovery of this signaling pathway lays the foundation for future development of GPR30-based therapies for PCa.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Cyclin-A2"
+    },
+    {
+        "Title": "RRM2 is a potential prognostic biomarker with functional significance in glioma.",
+        "Journal Name": "International journal of biological sciences",
+        "PMID": "30745840",
+        "PMC": "PMC6367584",
+        "DOI": "10.7150/ijbs.30114",
+        "Release Date": "01-01-2019",
+        "Abstract": "Glioma is one of the most common brain tumors, suggesting the importance of investigating the molecular mechanism of gliomas. We studied the roles of Ribonucleotide Reductase Regulatory Subunit M2 (RRM2) in glioma. Expressions of RRM2 are higher in glioma tissues evidenced by TCGA data, western blot and immunohistochemistry. RRM2 is negatively correlated with glioma patient's survival. RNA-seq showed that genes involved in apoptosis, proliferation, cell adhesion and negative regulation of signaling were up-regulated upon RNAi-mediated knock-down of RRM2. Cell phenotypes specific for stably knocking down RRM2 were determined using stable transfection",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Cyclin A"
+    },
+    {
+        "Title": "Protein tyrosine phosphatase 1B regulates the activity of retinal pigment epithelial cells.",
+        "Journal Name": "Molecular vision",
+        "PMID": "25999679",
+        "PMC": "PMC4431406",
+        "DOI": "",
+        "Release Date": "01-05-2015",
+        "Abstract": "To determine whether protein tyrosine phosphatase 1B (PTP1B) is expressed in rat retinal pigment epithelium (RPE) cells, to evaluate whether inhibition of PTP1B contributes to initiation of RPE cells into an active state, and to investigate the signaling pathways involved in this process.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Cyclin A"
+    }
+]

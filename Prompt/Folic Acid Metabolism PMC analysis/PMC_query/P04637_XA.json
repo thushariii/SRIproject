@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Discovery and structure determination of the orphan enzyme isoxanthopterin deaminase .",
+        "Journal Name": "Biochemistry",
+        "PMID": "20415463",
+        "PMC": "PMC2892419",
+        "DOI": "10.1021/bi100252s",
+        "Release Date": "--",
+        "Abstract": "Two previously uncharacterized proteins have been identified that efficiently catalyze the deamination of isoxanthopterin and pterin 6-carboxylate. The genes encoding these two enzymes, NYSGXRC-9339a ( gi|44585104 ) and NYSGXRC-9236b ( gi|44611670 ), were first identified from DNA isolated from the Sargasso Sea as part of the Global Ocean Sampling Project. The genes were synthesized, and the proteins were subsequently expressed and purified. The X-ray structure of Sgx9339a was determined at 2.7 A resolution (Protein Data Bank entry 2PAJ ). This protein folds as a distorted (beta/alpha)(8) barrel and contains a single zinc ion in the active site. These enzymes are members of the amidohydrolase superfamily and belong to cog0402 within the clusters of orthologous groups (COG). Enzymes in cog0402 have previously been shown to catalyze the deamination of guanine, cytosine, S-adenosylhomocysteine, and 8-oxoguanine. A small compound library of pteridines, purines, and pyrimidines was used to probe catalytic activity. The only substrates identified in this search were isoxanthopterin and pterin 6-carboxylate. The kinetic constants for the deamination of isoxanthopterin with Sgx9339a were determined to be 1.0 s(-1), 8.0 muM, and 1.3 x 10(5) M(-1) s(-1) (k(cat), K(m), and k(cat)/K(m), respectively). The active site of Sgx9339a most closely resembles the active site for 8-oxoguanine deaminase (Protein Data Bank entry 2UZ9 ). A model for substrate recognition of isoxanthopterin by Sgx9339a was proposed on the basis of the binding of guanine and xanthine in the active site of guanine deaminase. Residues critical for substrate binding appear to be conserved glutamine and tyrosine residues that form hydrogen bonds with the carbonyl oxygen at C4, a conserved threonine residue that forms hydrogen bonds with N5, and another conserved threonine residue that forms hydrogen bonds with the carbonyl group at C7. These conserved active site residues were used to identify 24 other genes which are predicted to deaminate isoxanthopterin.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"XANTHOPTERIN\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "XANTHOPTERIN",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Apoptosis Induction by New Coumarin Derivatives in a Mice Model of Breast Cancer.",
+        "Journal Name": "Archives of Razi Institute",
+        "PMID": "38590672",
+        "PMC": "PMC10998944",
+        "DOI": "10.22092/ARI.2023.78.5.1430",
+        "Release Date": "31-10-2023",
+        "Abstract": "In the last decades, numerous studies have focused on the search for new agents to suppress the growth of cancer cells. In this study, we investigated the effect of two novel synthetic coumarin derivatives, namely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Multivariate modular metabolic engineering and medium optimization for vitamin B",
+        "Journal Name": "Synthetic and systems biotechnology",
+        "PMID": "38634001",
+        "PMC": "PMC11021867",
+        "DOI": "10.1016/j.synbio.2024.03.017",
+        "Release Date": "04-04-2024",
+        "Abstract": "Vitamin B",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"Yeast powder\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Yeast powder",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Dual Targeting of Aurora Kinases with AMG 900 Exhibits Potent Preclinical Activity Against Acute Myeloid Leukemia with Distinct Post-Mitotic Outcomes.",
+        "Journal Name": "Molecular cancer therapeutics",
+        "PMID": "30266802",
+        "PMC": "PMC6279493",
+        "DOI": "10.1158/1535-7163.MCT-18-0186",
+        "Release Date": "28-09-2018",
+        "Abstract": "Aurora kinase A and B have essential and non-overlapping roles in mitosis, with elevated expression in a subset of human cancers, including acute myeloid leukemia (AML). In this study, pan-aurora kinase inhibitor (AKI) AMG 900 distinguishes itself as an anti-leukemic agent that is more uniformly potent against a panel of AML cell lines than are isoform-selective AKIs and classic AML drugs. AMG 900 inhibited AML cell growth by inducing polyploidization and/or apoptosis. AMG 900 and aurora-B-selective inhibitor AZD1152-hQPA showed comparable cellular effects on AML lines that do not harbor a",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"p53\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "p53"
+    },
+    {
+        "Title": "Dual Targeting of Aurora Kinases with AMG 900 Exhibits Potent Preclinical Activity Against Acute Myeloid Leukemia with Distinct Post-Mitotic Outcomes.",
+        "Journal Name": "Molecular cancer therapeutics",
+        "PMID": "30266802",
+        "PMC": "PMC6279493",
+        "DOI": "10.1158/1535-7163.MCT-18-0186",
+        "Release Date": "28-09-2018",
+        "Abstract": "Aurora kinase A and B have essential and non-overlapping roles in mitosis, with elevated expression in a subset of human cancers, including acute myeloid leukemia (AML). In this study, pan-aurora kinase inhibitor (AKI) AMG 900 distinguishes itself as an anti-leukemic agent that is more uniformly potent against a panel of AML cell lines than are isoform-selective AKIs and classic AML drugs. AMG 900 inhibited AML cell growth by inducing polyploidization and/or apoptosis. AMG 900 and aurora-B-selective inhibitor AZD1152-hQPA showed comparable cellular effects on AML lines that do not harbor a",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"p53\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "p53"
+    },
+    {
+        "Title": "Monomerization of Homodimeric Trefoil Factor 3 (TFF3) by an Aminonitrile Compound Inhibits TFF3-Dependent Cancer Cell Survival.",
+        "Journal Name": "ACS pharmacology & translational science",
+        "PMID": "36110371",
+        "PMC": "PMC9469493",
+        "DOI": "10.1021/acsptsci.2c00044",
+        "Release Date": "17-08-2022",
+        "Abstract": "Trefoil factor 3 (TFF3) is a secreted protein with an established oncogenic function and a highly significant association with clinical progression of various human malignancies. Herein, a novel small molecule that specifically targets TFF3 homodimeric functions was identified. Utilizing the concept of reversible covalent interaction, 2-amino-4-(4-(6-fluoro-5-methylpyridin-3-yl)phenyl)-5-oxo-4H,5H-pyrano[3,2-",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TP53\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "TP53"
+    }
+]

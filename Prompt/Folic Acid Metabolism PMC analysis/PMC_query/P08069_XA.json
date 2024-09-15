@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Mitogen-activated protein kinase (MAPK) pathway mediates the oestrogen-like activities of ginsenoside Rg1 in human breast cancer (MCF-7) cells.",
+        "Journal Name": "British journal of pharmacology",
+        "PMID": "19298253",
+        "PMC": "PMC2697688",
+        "DOI": "10.1111/j.1476-5381.2009.00123.x",
+        "Release Date": "09-03-2009",
+        "Abstract": "The present study was designed to determine how ginsenoside Rg1, an active ingredient in ginseng root, exerts its oestrogenic effects. We hypothesize that Rg1 may exert oestrogen-like actions in MCF-7 cells by activating the mitogen-activated protein kinase (MAPK) pathway in a ligand-independent manner.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IGFIR\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IGFIR"
+    },
+    {
+        "Title": "Antiapoptotic signalling by the insulin-like growth factor I receptor, phosphatidylinositol 3-kinase, and Akt.",
+        "Journal Name": "Molecular and cellular biology",
+        "PMID": "9032287",
+        "PMC": "PMC231885",
+        "DOI": "10.1128/MCB.17.3.1595",
+        "Release Date": "--",
+        "Abstract": "We have found that insulin-like growth factor I (IGF-I) can protect fibroblasts from apoptosis induced by UV-B light. Antiapoptotic signalling by the IGF-I receptor depended on receptor kinase activity, as cells overexpressing kinase-defective receptor mutants could not be protected by IGF-I. Overexpression of a kinase-defective receptor which contained a mutation in the ATP binding loop functioned as a dominant negative and sensitized cells to apoptosis. The antiapoptotic capacity of the IGF-I receptor was not shared by other growth factors tested, including epidermal growth factor (EGF) and thrombin, although the cells expressed functional receptors for all the agonists. However, EGF was antiapoptotic for cells overexpressing the EGF receptor, and expression of activated pp60v-src also was protective. There was no correlation between protection from apoptosis and activation of mitogen-activated protein kinase, p38/HOG1, or p70S6 kinase. On the other hand, protection by any of the tyrosine kinases against UV-induced apoptosis was blocked by wortmannin, implying a role for phosphatidylinositol 3-kinase (PI3 kinase). To test this, we transiently expressed constitutively active or kinase-dead PI3 kinase and found that overexpression of activated phosphatidylinositol 3-kinase (PI3 kinase) was sufficient to provide protection against apoptosis. Because Akt/PKB is believed to be a downstream effector for PI3 kinase, we also examined the role of this serine/threonine protein kinase in antiapoptotic signalling. We found that membrane-targeted Akt was sufficient to protect against apoptosis but that kinase-dead Akt was not. We conclude that the endogenous IGF-I receptor has a specific antiapoptotic signalling capacity, that overexpression of other tyrosine kinases can allow them also to be antiapoptotic, and that activation of PI3 kinase and Akt is sufficient for antiapoptotic signalling.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Insulin-like growth factor I receptor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Insulin-like growth factor I receptor"
+    }
+]

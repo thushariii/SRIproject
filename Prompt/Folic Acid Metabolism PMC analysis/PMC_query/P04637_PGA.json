@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Escherichia coli abg genes enable uptake and cleavage of the folate catabolite p-aminobenzoyl-glutamate.",
+        "Journal Name": "Journal of bacteriology",
+        "PMID": "17307853",
+        "PMC": "PMC1855889",
+        "DOI": "10.1128/JB.01940-06",
+        "Release Date": "16-02-2007",
+        "Abstract": "Escherichia coli AbgT was first identified as a structural protein enabling the growth of p-aminobenzoate auxotrophs on exogenous p-aminobenzoyl-glutamate (M. J. Hussein, J. M. Green, and B. P. Nichols, J. Bacteriol. 180:6260-6268, 1998). The abg region includes abgA, abgB, abgT, and ogt; these genes may be regulated by AbgR, a divergently transcribed LysR-type protein. Wild-type cells transformed with a high-copy-number plasmid encoding abgT demonstrate saturable uptake of p-aminobenzoyl-glutamate (K(T)=123 microM); control cells expressing vector demonstrate negligible uptake. The addition of metabolic poisons inhibited uptake of p-aminobenzoyl-glutamate, consistent with this process requiring energy. p-Aminobenzoyl-glutamate taken in by cells expressing large amounts of AbgT alone is not rapidly metabolized to a form that is trapped in the cell, as the addition of nonradioactive p-aminobenzoyl-glutamate to these cells results in a rapid loss of intracellular label. The addition of nonradioactive p-aminobenzoate has no effect. The abgA, abgB, and abgAB genes were cloned into the medium-copy-number plasmid pACYC184; p-aminobenzoate auxotrophs transformed with the clone encoding abgAB demonstrated enhanced ability to grow on low levels of p-aminobenzoyl-glutamate. When transformed with complementary plasmids encoding high-copy levels of abgT and medium-copy levels of abgAB, p-aminobenzoate auxotrophs grew on 50 nM p-aminobenzoyl-glutamate. Our data are consistent with a model of p-aminobenzoyl-glutamate utilization in which AbgT catalyzes transport of p-aminobenzoyl-glutamate, followed by cleavage to p-aminobenzoate by a protein composed of subunits encoded by abgA and abgB. While endogenous expression of these genes is very low under the conditions in which we performed our experiments, these genes may be induced by AbgR bound to an unknown molecule. The true physiological role of this region may be related to some molecule similar to p-aminobenzoyl-glutamate, such as a dipeptide.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"4-aminobenzoylglutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4-aminobenzoylglutamic acid",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Escherichia coli abg genes enable uptake and cleavage of the folate catabolite p-aminobenzoyl-glutamate.",
+        "Journal Name": "Journal of bacteriology",
+        "PMID": "17307853",
+        "PMC": "PMC1855889",
+        "DOI": "10.1128/JB.01940-06",
+        "Release Date": "16-02-2007",
+        "Abstract": "Escherichia coli AbgT was first identified as a structural protein enabling the growth of p-aminobenzoate auxotrophs on exogenous p-aminobenzoyl-glutamate (M. J. Hussein, J. M. Green, and B. P. Nichols, J. Bacteriol. 180:6260-6268, 1998). The abg region includes abgA, abgB, abgT, and ogt; these genes may be regulated by AbgR, a divergently transcribed LysR-type protein. Wild-type cells transformed with a high-copy-number plasmid encoding abgT demonstrate saturable uptake of p-aminobenzoyl-glutamate (K(T)=123 microM); control cells expressing vector demonstrate negligible uptake. The addition of metabolic poisons inhibited uptake of p-aminobenzoyl-glutamate, consistent with this process requiring energy. p-Aminobenzoyl-glutamate taken in by cells expressing large amounts of AbgT alone is not rapidly metabolized to a form that is trapped in the cell, as the addition of nonradioactive p-aminobenzoyl-glutamate to these cells results in a rapid loss of intracellular label. The addition of nonradioactive p-aminobenzoate has no effect. The abgA, abgB, and abgAB genes were cloned into the medium-copy-number plasmid pACYC184; p-aminobenzoate auxotrophs transformed with the clone encoding abgAB demonstrated enhanced ability to grow on low levels of p-aminobenzoyl-glutamate. When transformed with complementary plasmids encoding high-copy levels of abgT and medium-copy levels of abgAB, p-aminobenzoate auxotrophs grew on 50 nM p-aminobenzoyl-glutamate. Our data are consistent with a model of p-aminobenzoyl-glutamate utilization in which AbgT catalyzes transport of p-aminobenzoyl-glutamate, followed by cleavage to p-aminobenzoate by a protein composed of subunits encoded by abgA and abgB. While endogenous expression of these genes is very low under the conditions in which we performed our experiments, these genes may be induced by AbgR bound to an unknown molecule. The true physiological role of this region may be related to some molecule similar to p-aminobenzoyl-glutamate, such as a dipeptide.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"4-Aminobenzoylglutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4-Aminobenzoylglutamic acid",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Characterization of mutations that allow p-aminobenzoyl-glutamate utilization by Escherichia coli.",
+        "Journal Name": "Journal of bacteriology",
+        "PMID": "9829935",
+        "PMC": "PMC107711",
+        "DOI": "10.1128/JB.180.23.6260-6268.1998",
+        "Release Date": "--",
+        "Abstract": "An Escherichia coli strain deficient in p-aminobenzoate synthesis was mutagenized, and derivatives were selected for growth on folic acid. Supplementation was shown to be due to p-aminobenzoyl-glutamate present as a breakdown product in commercial folic acid preparations. Two classes of mutations characterized by the minimum concentration of p-aminobenzoyl-glutamate that could support growth were obtained. Both classes of mutations were genetically and physically mapped to about 30 min on the E. coli chromosome. A cloned wild-type gene from this region, abgT (formerly ydaH) could confer a similar p-aminobenzoyl-glutamate utilization phenotype on the parental strain. Interruption of abgT on the plasmid or on the chromosome of the mutant strain resulted in a loss of the phenotype. abgT was the third gene in an apparent operon containing abgA, abgB, abgT, and possibly ogt and might be regulated by a divergently transcribed LysR-type regulator encoded by abgR. Two different single-base-pair mutations that gave rise to the p-aminobenzoyl-glutamate utilization phenotype lay in the abgR-abgA intercistronic region and appeared to allow the expression of abgT. The second class of mutation was due to a tandem duplication of abgB and abgT fused to fnr. The abgA and abgB gene products were homologous to one another and to a family of aminoacyl aminohydrolases. p-Aminobenzoyl-glutamate hydrolysis could be detected in extracts from several of the mutant strains, but intact abgA and abgB were not essential for p-aminobenzoyl-glutamate utilization when abgT was supplied in trans.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"4-Aminobenzoylglutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4-Aminobenzoylglutamic acid",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Escherichia coli abg genes enable uptake and cleavage of the folate catabolite p-aminobenzoyl-glutamate.",
+        "Journal Name": "Journal of bacteriology",
+        "PMID": "17307853",
+        "PMC": "PMC1855889",
+        "DOI": "10.1128/JB.01940-06",
+        "Release Date": "16-02-2007",
+        "Abstract": "Escherichia coli AbgT was first identified as a structural protein enabling the growth of p-aminobenzoate auxotrophs on exogenous p-aminobenzoyl-glutamate (M. J. Hussein, J. M. Green, and B. P. Nichols, J. Bacteriol. 180:6260-6268, 1998). The abg region includes abgA, abgB, abgT, and ogt; these genes may be regulated by AbgR, a divergently transcribed LysR-type protein. Wild-type cells transformed with a high-copy-number plasmid encoding abgT demonstrate saturable uptake of p-aminobenzoyl-glutamate (K(T)=123 microM); control cells expressing vector demonstrate negligible uptake. The addition of metabolic poisons inhibited uptake of p-aminobenzoyl-glutamate, consistent with this process requiring energy. p-Aminobenzoyl-glutamate taken in by cells expressing large amounts of AbgT alone is not rapidly metabolized to a form that is trapped in the cell, as the addition of nonradioactive p-aminobenzoyl-glutamate to these cells results in a rapid loss of intracellular label. The addition of nonradioactive p-aminobenzoate has no effect. The abgA, abgB, and abgAB genes were cloned into the medium-copy-number plasmid pACYC184; p-aminobenzoate auxotrophs transformed with the clone encoding abgAB demonstrated enhanced ability to grow on low levels of p-aminobenzoyl-glutamate. When transformed with complementary plasmids encoding high-copy levels of abgT and medium-copy levels of abgAB, p-aminobenzoate auxotrophs grew on 50 nM p-aminobenzoyl-glutamate. Our data are consistent with a model of p-aminobenzoyl-glutamate utilization in which AbgT catalyzes transport of p-aminobenzoyl-glutamate, followed by cleavage to p-aminobenzoate by a protein composed of subunits encoded by abgA and abgB. While endogenous expression of these genes is very low under the conditions in which we performed our experiments, these genes may be induced by AbgR bound to an unknown molecule. The true physiological role of this region may be related to some molecule similar to p-aminobenzoyl-glutamate, such as a dipeptide.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Genes\") AND (\"4-Aminobenzoylglutamic acid, (D)-isomer\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4-Aminobenzoylglutamic acid, (D)-isomer",
+        "Query_ProteinName": "Genes"
+    },
+    {
+        "Title": "Pentylenetetrazole-Induced Seizures Are Increased after Kindling, Exhibiting Vitamin-Responsive Correlations to the Post-Seizures Behavior, Amino Acids Metabolism and Key Metabolic Regulators in the Rat Brain.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "37569781",
+        "PMC": "PMC10418815",
+        "DOI": "10.3390/ijms241512405",
+        "Release Date": "03-08-2023",
+        "Abstract": "Epilepsy is characterized by recurrent seizures due to a perturbed balance between glutamate and GABA neurotransmission. Our goal is to reveal the molecular mechanisms of the changes upon repeated challenges of this balance, suggesting knowledge-based neuroprotection. To address this goal, a set of metabolic indicators in the post-seizure rat brain cortex is compared before and after pharmacological kindling with pentylenetetrazole (PTZ). Vitamins B1 and B6 supporting energy and neurotransmitter metabolism are studied as neuroprotectors. PTZ kindling increases the seizure severity (1.3 fold,",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"p53\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "p53"
+    },
+    {
+        "Title": "Activating NRF1-BRAF and ATG7-RAF1 fusions in anaplastic pleomorphic xanthoastrocytoma without BRAF p.V600E mutation.",
+        "Journal Name": "Acta neuropathologica",
+        "PMID": "27624885",
+        "PMC": "PMC5074852",
+        "DOI": "10.1007/s00401-016-1616-3",
+        "Release Date": "13-09-2016",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TP53\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "TP53"
+    }
+]

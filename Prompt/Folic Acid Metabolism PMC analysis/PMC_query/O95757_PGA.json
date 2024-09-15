@@ -1,0 +1,62 @@
+[
+    {
+        "Title": "Molecular docking and antimalarial evaluation of novel",
+        "Journal Name": "3 Biotech",
+        "PMID": "36386564",
+        "PMC": "PMC9649585",
+        "DOI": "10.1007/s13205-022-03400-2",
+        "Release Date": "10-11-2022",
+        "Abstract": "Malaria has been a source of concern for humans for millennia; therefore in the present study we have utilized in-silico approach to generate diverse anti-malarial hit. Towards this, Molinspiration cheminformatics and Biovia Discovery Studio (DS) 2020 were used to conduct molecular modelling studies on 120 designed compounds. Furthermore, the TOPKAT module was used to evaluate the toxicity of the screened compounds. The CDOCKER docking technology was used to investigate protein-ligand docking against the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"(4-Aminobenzoyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "(4-Aminobenzoyl)-L-glutamic acid",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "Acute murine colitis reduces colonic 5-aminosalicylic acid metabolism by regulation of N-acetyltransferase-2.",
+        "Journal Name": "American journal of physiology. Gastrointestinal and liver physiology",
+        "PMID": "24742986",
+        "PMC": "PMC4042117",
+        "DOI": "10.1152/ajpgi.00389.2013",
+        "Release Date": "17-04-2014",
+        "Abstract": "Pharmacotherapy based on 5-aminosalicylic acid (5-ASA) is a preferred treatment for ulcerative colitis, but variable patient response to this therapy is observed. Inflammation can affect therapeutic outcomes by regulating the expression and activity of drug-metabolizing enzymes; its effect on 5-ASA metabolism by the colonic arylamine N-acetyltransferase (NAT) enzyme isoforms is not firmly established. We examined if inflammation affects the capacity for colonic 5-ASA metabolism and NAT enzyme expression. 5-ASA metabolism by colonic mucosal homogenates was directly measured with a novel fluorimetric rate assay. 5-ASA metabolism reported by the assay was dependent on Ac-CoA, inhibited by alternative NAT substrates (isoniazid, p-aminobenzoylglutamate), and saturable with Km (5-ASA) = 5.8 μM. A mouse model of acute dextran sulfate sodium (DSS) colitis caused pronounced inflammation in central and distal colon, and modest inflammation of proximal colon, defined by myeloperoxidase activity and histology. DSS colitis reduced capacity for 5-ASA metabolism in central and distal colon segments by 52 and 51%, respectively. Use of selective substrates of NAT isoforms to inhibit 5-ASA metabolism suggested that mNAT2 mediated 5-ASA metabolism in normal and colitis conditions. Western blot and real-time RT-PCR identified that proximal and distal mucosa had a decreased mNAT2 protein-to-mRNA ratio after DSS. In conclusion, an acute colonic inflammation impairs the expression and function of mNAT2 enzyme, thereby diminishing the capacity for 5-ASA metabolism by colonic mucosa.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"p-aminobenzoylglutamate\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "p-aminobenzoylglutamate",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "Receptor-mediated folate accumulation is regulated by the cellular folate content.",
+        "Journal Name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PMID": "3461471",
+        "PMC": "PMC386421",
+        "DOI": "10.1073/pnas.83.16.5983",
+        "Release Date": "--",
+        "Abstract": "Cultured monkey kidney cells are shown to possess a cell-surface receptor that binds 5-methyltetrahydro[3',5',7,9-3H4]folic acid (5-methyltetrahydro[3H]folic acid) with high affinity (Kd = 3 nM at 4 degrees C). The cell-surface binding capacity for [3H]folic acid or [3H]methotrexate is equivalent to that for 5-methyltetrahydro[3H]folate, but the Kd values are 0.4 and 20 nM, respectively. These nonlabeled folates also inhibit cellular binding and accumulation of 5-methyltetrahydro[3H]folate, whereas specific moieties of folic acid (i.e., p-aminobenzoylglutamic acid, pteroic acid, and glutamic acid) had no effect. Surface-bound folate(s) can be released by incubation of the cells at pH 3.5. At 37 degrees C the bound material is slowly transferred into cells, where it becomes resistant to acid release. Within 4 hr the cells internalize about 3-4 times as much folate as is bound to the surface in the steady state. The amount of receptor activity increases markedly when cells are depleted of folate through growth in folate-depleted medium. Binding of folate was inhibited by an antibody raised against a soluble plasma folate-binding protein, suggesting that the cell-surface receptor and the circulating folate-binding protein are immunologically related. These data indicate that cells possess a high-affinity, high-specificity folate receptor whose expression is regulated by the folate content of the cell. They also suggest that a small molecule such as folate can enter cells by receptor-mediated endocytosis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"p-aminobenzoylglutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "p-aminobenzoylglutamic acid",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "One-carbon metabolites, B vitamins and associations with systemic inflammation and angiogenesis biomarkers among colorectal cancer patients: results from the ColoCare Study.",
+        "Journal Name": "The British journal of nutrition",
+        "PMID": "32019627",
+        "PMC": "PMC7425811",
+        "DOI": "10.1017/S0007114520000422",
+        "Release Date": "05-02-2020",
+        "Abstract": "B vitamins involved in one-carbon metabolism have been implicated in the development of inflammation- and angiogenesis-related chronic diseases, such as colorectal cancer (CRC). Yet, the role of one-carbon metabolism in inflammation and angiogenesis among CRC patients remains unclear. The objective of this study was to investigate associations of components of one-carbon metabolism with inflammation and angiogenesis biomarkers among newly diagnosed CRC patients (n 238) in the prospective ColoCare Study, Heidelberg. We cross-sectionally analysed associations between twelve B vitamins and one-carbon metabolites and ten inflammation and angiogenesis biomarkers from pre-surgery serum samples using multivariable linear regression models. We further explored associations among novel biomarkers in these pathways with Spearman partial correlation analyses. We hypothesised that pyridoxal-5'-phosphate (PLP) is inversely associated with inflammatory biomarkers. We observed that PLP was inversely associated with C-reactive protein (CRP) (r -0·33, Plinear < 0·0001), serum amyloid A (SAA) (r -0·23, Plinear = 0·003), IL-6 (r -0·39, Plinear < 0·0001), IL-8 (r -0·20, Plinear = 0·02) and TNFα (r -0·12, Plinear = 0·045). Similar findings were observed for 5-methyl-tetrahydrofolate and CRP (r -0·14), SAA (r -0·14) and TNFα (r -0·15) among CRC patients. Folate catabolite acetyl-para-aminobenzoylglutamic acid (pABG) was positively correlated with IL-6 (r 0·27, Plinear < 0·0001), and pABG was positively correlated with IL-8 (r 0·21, Plinear < 0·0001), indicating higher folate utilisation during inflammation. Our data support the hypothesis of inverse associations between PLP and inflammatory biomarkers among CRC patients. A better understanding of the role and inter-relation of PLP and other one-carbon metabolites with inflammatory processes among colorectal carcinogenesis and prognosis could identify targets for future dietary guidance for CRC patients.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"para-aminobenzoylglutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "para-aminobenzoylglutamic acid",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "A cytotoxic agent can be generated selectively at cancer sites.",
+        "Journal Name": "British journal of cancer",
+        "PMID": "3265633",
+        "PMC": "PMC2246864",
+        "DOI": "10.1038/bjc.1988.293",
+        "Release Date": "--",
+        "Abstract": "Attempts to improve the selectivity of anti-cancer agents by conjugating them to antibodies directed at tumour associated antigens have demonstrated tumour localisation but only limited therapeutic success. We report here the advantage of a 2-stage approach in which the first component combines the selective delivery of antibody with a capability to generate a cytotoxic agent from a second subsequently administered component. A bacterial enzyme, carboxypeptidase G2 (CPG2) was conjugated with F(ab')2 fragment of a monoclonal antibody directed at beta subunit of human chorionic gonadotrophin (beta-hCG) and injected into nude mice bearing hCG producing CC3 xenografts of human choriocarcinoma. Time was allowed for the conjugate to localise at tumour sites and clear from blood before injecting para-N-bis (2-chloroethyl) aminobenzoylglutamic acid. Cleavage of the glutamic acid moiety from this molecule by CPG2 released a benzoic acid mustard. Growth of the tumour which is resistant to conventional chemotherapy was markedly depressed by a single course of treatment. This demonstrates for the first time the potential of an antibody directed enzyme to activate an alkylating agent and to eradicate an established human cancer xenograft.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"4-AMINOBENZOIC GLUTAMIC ACID\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4-AMINOBENZOIC GLUTAMIC ACID",
+        "Query_ProteinName": "HSPA4-like protein"
+    }
+]

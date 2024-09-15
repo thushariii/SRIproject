@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Effect of heparin and related glycosaminoglycan on PDGF-induced lung fibroblast proliferation, chemotactic response and matrix metalloproteinases activity.",
+        "Journal Name": "Mediators of inflammation",
+        "PMID": "10958381",
+        "PMC": "PMC1781749",
+        "DOI": "10.1080/096293500411541",
+        "Release Date": "--",
+        "Abstract": "Fibroblast migration, proliferation, extracellular matrix protein synthesis and degradation are the key events in various biological and pathological processes in pulmonary fibrosis. In addition, biopsy specimens from the lungs of patients with pulmonary fibrosis show increased numbers of mast cells which have metachromatic granules containing heparin, histamine and proteases. Little is known about how these products influence pulmonary fibrosis. In the present study, we investigated the effect of heparin and related glycosaminoglycans on PDGF-induced lung fibroblast proliferation and chemotactic response in vitro. In addition, we examined the effect of heparin on both the induction of matrix metalloproteinases (MMPs) and MMPs activity in lung fibroblasts in vitro. Heparin, de-N-sulphated heparin but not heparan sulphate inhibited PDGF-induced lung fibroblast proliferation. In contrast, only heparin inhibited PDGF-stimulated human lung fibroblast chemotaxis. Negatively charged poly-L-glutamic acid had no effect on either fibroblast proliferation or chemotaxis. Thus the negative charge alone cannot account for the ant-proliferative and anti-chemotactic effects of heparin. Furthermore, heparin and heparan sulphate also had no inhibitory effect on induction of MMPS, including MMP-1 (interstitial collagenase), MMP-2 (gelatinase A) and MMP-9 (gelatinase B). Only heparin inhibited both MMP-1 and MMP-2/MMP-9 activity. Additionally, tissue inhibitor of metalloproteinase type 1 (TIMP-1) and type 2 (TIMP-2) inhibited PDGF-stimulated human lung fibroblast chemotaxis. The ability of heparin to inhibit fibroblast chemotaxis may account for the inhibitory effect of heparin on MMP activity. The above results suggested that heparin and related glycosaminoglycans differentially regulate PDGF-induced lung fibroblast proliferation, chemotaxis and MMPs activity and further that these effects may have a key role in extracellular matrix remodeling in inflammatory lung disease.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Gelatinase B\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Gelatinase B"
+    },
+    {
+        "Title": "Discovery of potent and specific inhibitors targeting the active site of MMP-9 from the engineered SPINK2 library.",
+        "Journal Name": "PloS one",
+        "PMID": "33373399",
+        "PMC": "PMC7771667",
+        "DOI": "10.1371/journal.pone.0244656",
+        "Release Date": "29-12-2020",
+        "Abstract": "Matrix metalloproteinases (MMPs) contribute to many physiological and pathological phenomena via the proteolysis of extracellular matrix components. Specific blocking of the active site of each MMP sheds light on its particular role. However, it remains difficult to acquire an active-site inhibitor with high specificity for only the target MMP due to the highly conserved structure around the active site of MMPs. Recently, we reported that potent and specific inhibitors of serine proteases were obtained from our proprietary engineered serine protease inhibitor Kazal type 2 (SPINK2) library. In this research, using this library, we succeeded in obtaining potent and specific MMP-9 inhibitors. The obtained inhibitors bound to the active site of MMP-9 and inhibited MMP-9 with low nanomolar Ki values. The inhibitors did not cross-react with other MMPs that we tested. Further analysis using MMP-9 mutants demonstrated that the inhibitors recognize not only the residues around the conserved active site of MMP-9 but also different and unique residues in exosites that are distant from each other. This unique recognition manner, which can be achieved by the large interface provided by engineered SPINK2, may contribute to the generation of specific active-site inhibitors of MMPs.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Matrix metalloproteinase-9\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Matrix metalloproteinase-9"
+    },
+    {
+        "Title": "Pharmacological characterization of mGlu1 receptors in cerebellar granule cells reveals biased agonism.",
+        "Journal Name": "Neuropharmacology",
+        "PMID": "25700650",
+        "PMC": "PMC4387075",
+        "DOI": "10.1016/j.neuropharm.2015.02.007",
+        "Release Date": "17-02-2015",
+        "Abstract": "The majority of existing research on the function of metabotropic glutamate (mGlu) receptor 1 focuses on G protein-mediated outcomes. However, similar to other G protein-coupled receptors (GPCR), it is becoming apparent that mGlu1 receptor signaling is multi-dimensional and does not always involve G protein activation. Previously, in transfected CHO cells, we showed that mGlu1 receptors activate a G protein-independent, β-arrestin-dependent signal transduction mechanism and that some mGlu1 receptor ligands were incapable of stimulating this response. Here we set out to investigate the physiological relevance of these findings in a native system using primary cultures of cerebellar granule cells. We tested the ability of a panel of compounds to stimulate two mGlu1 receptor-mediated outcomes: (1) protection from decreased cell viability after withdrawal of trophic support and (2) G protein-mediated phosphoinositide (PI) hydrolysis. We report that the commonly used mGlu1 receptor ligands quisqualate, DHPG, and ACPD are completely biased towards PI hydrolysis and do not induce mGlu1 receptor-stimulated neuroprotection. On the other hand, endogenous compounds including glutamate, aspartate, cysteic acid, cysteine sulfinic acid, and homocysteic acid stimulate both responses. These results show that some commonly used mGlu1 receptor ligands are biased agonists, stimulating only a fraction of mGlu1 receptor-mediated responses in neurons. This emphasizes the importance of utilizing multiple agonists and assays when studying GPCR function.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GELB\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "GELB"
+    }
+]

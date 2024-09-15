@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Amidation of glutamate residues in mycobacterial peptidoglycan is essential for cell wall cross-linking.",
+        "Journal Name": "Frontiers in cellular and infection microbiology",
+        "PMID": "37692163",
+        "PMC": "PMC10484409",
+        "DOI": "10.3389/fcimb.2023.1205829",
+        "Release Date": "24-08-2023",
+        "Abstract": "Mycobacteria assemble a complex cell wall with cross-linked peptidoglycan (PG) which plays an essential role in maintenance of cell wall integrity and tolerance to osmotic pressure. We previously demonstrated that various hydrolytic enzymes are required to remodel PG during essential processes such as cell elongation and septal hydrolysis. Here, we explore the chemistry associated with PG cross-linking, specifically the requirement for amidation of the D-glutamate residue found in PG precursors.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein kinase B\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Protein kinase B"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Title": "An 85-amino-acid polypeptide from",
+        "Journal Name": "Asian biomedicine : research, reviews and news",
+        "PMID": "37551169",
+        "PMC": "PMC10321181",
+        "DOI": "10.2478/abm-2022-0024",
+        "Release Date": "31-08-2022",
+        "Abstract": "Venomous arthropods have substances in their venom with antiproliferative potential for neoplastic cells.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein kinase B alpha\") AND (\"2-amino-4-hydroxy-6-pteridinecarboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-hydroxy-6-pteridinecarboxylic acid",
+        "Query_ProteinName": "Protein kinase B alpha"
+    },
+    {
+        "Title": "An 85-amino-acid polypeptide from",
+        "Journal Name": "Asian biomedicine : research, reviews and news",
+        "PMID": "37551169",
+        "PMC": "PMC10321181",
+        "DOI": "10.2478/abm-2022-0024",
+        "Release Date": "31-08-2022",
+        "Abstract": "Venomous arthropods have substances in their venom with antiproliferative potential for neoplastic cells.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein kinase B alpha\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Protein kinase B alpha"
+    },
+    {
+        "Title": "Effects and Mechanisms of",
+        "Journal Name": "Nutrients",
+        "PMID": "35267996",
+        "PMC": "PMC8912277",
+        "DOI": "10.3390/nu14051020",
+        "Release Date": "28-02-2022",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein kinase B alpha\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Protein kinase B alpha"
+    },
+    {
+        "Title": "Insulin stimulates the kinase activity of RAC-PK, a pleckstrin homology domain containing ser/thr kinase.",
+        "Journal Name": "The EMBO journal",
+        "PMID": "7556070",
+        "PMC": "PMC394513",
+        "DOI": "10.1002/j.1460-2075.1995.tb00103.x",
+        "Release Date": "--",
+        "Abstract": "In the present study, insulin is shown to rapidly stimulate by 8- to 12-fold the enzymatic activity of RAC-PK alpha, a pleckstrin homology domain containing ser/thr kinase. In contrast, activation of protein kinase C by phorbol esters had almost no effect on the enzymatic activity of RAC-PK alpha. Insulin activation was accompanied by a shift in molecular weight of the RAC-PK alpha protein, and the activated kinase was deactivated by treatment with a phosphatase, indicating that insulin activated the enzyme by stimulating its phosphorylation. This insulin-induced shift in RAC-PK was also observed in primary rat epididymal adipocytes, as well as in a muscle cell line called C2C12 cells. The insulin-stimulated increase in RAC-PK alpha activity was inhibited by wortmannin (an inhibitor of phosphatidylinositol 3-kinase) in a dose-dependent manner with a half-maximal inhibition of 10 nM, but not by 20 ng/ml of rapamycin. Activation of RAC-PK alpha activity was also observed in a variant RAC lacking the pleckstrin homology domain. These results indicate that RAC-PK alpha activity can be regulated by the insulin receptor. RAC-PK alpha may therefore play a general role in intracellular signaling mediated by receptor tyrosine kinases.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"RAC-PK-alpha\") AND (\"2-amino-4-hydroxy-6-pteridinecarboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-hydroxy-6-pteridinecarboxylic acid",
+        "Query_ProteinName": "RAC-PK-alpha"
+    },
+    {
+        "Title": "Insulin stimulates the kinase activity of RAC-PK, a pleckstrin homology domain containing ser/thr kinase.",
+        "Journal Name": "The EMBO journal",
+        "PMID": "7556070",
+        "PMC": "PMC394513",
+        "DOI": "10.1002/j.1460-2075.1995.tb00103.x",
+        "Release Date": "--",
+        "Abstract": "In the present study, insulin is shown to rapidly stimulate by 8- to 12-fold the enzymatic activity of RAC-PK alpha, a pleckstrin homology domain containing ser/thr kinase. In contrast, activation of protein kinase C by phorbol esters had almost no effect on the enzymatic activity of RAC-PK alpha. Insulin activation was accompanied by a shift in molecular weight of the RAC-PK alpha protein, and the activated kinase was deactivated by treatment with a phosphatase, indicating that insulin activated the enzyme by stimulating its phosphorylation. This insulin-induced shift in RAC-PK was also observed in primary rat epididymal adipocytes, as well as in a muscle cell line called C2C12 cells. The insulin-stimulated increase in RAC-PK alpha activity was inhibited by wortmannin (an inhibitor of phosphatidylinositol 3-kinase) in a dose-dependent manner with a half-maximal inhibition of 10 nM, but not by 20 ng/ml of rapamycin. Activation of RAC-PK alpha activity was also observed in a variant RAC lacking the pleckstrin homology domain. These results indicate that RAC-PK alpha activity can be regulated by the insulin receptor. RAC-PK alpha may therefore play a general role in intracellular signaling mediated by receptor tyrosine kinases.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"RAC-PK-alpha\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "RAC-PK-alpha"
+    },
+    {
+        "Title": "Can Plant Extracts Help Prevent Hair Loss or Promote Hair Growth? A Review Comparing Their Therapeutic Efficacies, Phytochemical Components, and Modulatory Targets.",
+        "Journal Name": "Molecules (Basel, Switzerland)",
+        "PMID": "38792149",
+        "PMC": "PMC11124163",
+        "DOI": "10.3390/molecules29102288",
+        "Release Date": "13-05-2024",
+        "Abstract": "This narrative review aims to examine the therapeutic potential and mechanism of action of plant extracts in preventing and treating alopecia (baldness). We searched and selected research papers on plant extracts related to hair loss, hair growth, or hair regrowth, and comprehensively compared the therapeutic efficacies, phytochemical components, and modulatory targets of plant extracts. These studies showed that various plant extracts increased the survival and proliferation of dermal papilla cells in vitro, enhanced cell proliferation and hair growth in hair follicles ex vivo, and promoted hair growth or regrowth in animal models in vivo. The hair growth-promoting efficacy of several plant extracts was verified in clinical trials. Some phenolic compounds, terpenes and terpenoids, sulfur-containing compounds, and fatty acids were identified as active compounds contained in plant extracts. The pharmacological effects of plant extracts and their active compounds were associated with the promotion of cell survival, cell proliferation, or cell cycle progression, and the upregulation of several growth factors, such as IGF-1, VEGF, HGF, and KGF (FGF-7), leading to the induction and extension of the anagen phase in the hair cycle. Those effects were also associated with the alleviation of oxidative stress, inflammatory response, cellular senescence, or apoptosis, and the downregulation of male hormones and their receptors, preventing the entry into the telogen phase in the hair cycle. Several active plant extracts and phytochemicals stimulated the signaling pathways mediated by protein kinase B (PKB, also called AKT), extracellular signal-regulated kinases (ERK), Wingless and Int-1 (WNT), or sonic hedgehog (SHH), while suppressing other cell signaling pathways mediated by transforming growth factor (TGF)-β or bone morphogenetic protein (BMP). Thus, well-selected plant extracts and their active compounds can have beneficial effects on hair health. It is proposed that the discovery of phytochemicals targeting the aforementioned cellular events and cell signaling pathways will facilitate the development of new targeted therapies for alopecia.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PKB\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "PKB"
+    },
+    {
+        "Title": "Mechanisms of Bushenyiqi decoction in the treatment of asthma: an investigation based on network pharmacology with experimental validation.",
+        "Journal Name": "Frontiers in pharmacology",
+        "PMID": "38590639",
+        "PMC": "PMC10999575",
+        "DOI": "10.3389/fphar.2024.1361379",
+        "Release Date": "25-03-2024",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"RAC-alpha serine/threonine-protein kinase\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "RAC-alpha serine/threonine-protein kinase"
+    },
+    {
+        "Title": "Mechanisms of Bushenyiqi decoction in the treatment of asthma: an investigation based on network pharmacology with experimental validation.",
+        "Journal Name": "Frontiers in pharmacology",
+        "PMID": "38590639",
+        "PMC": "PMC10999575",
+        "DOI": "10.3389/fphar.2024.1361379",
+        "Release Date": "25-03-2024",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"RAC-alpha serine/threonine-protein kinase\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "RAC-alpha serine/threonine-protein kinase"
+    },
+    {
+        "Title": "The tRNA methylase METTL1 is phosphorylated and inactivated by PKB and RSK in vitro and in cells.",
+        "Journal Name": "The EMBO journal",
+        "PMID": "15861136",
+        "PMC": "PMC1142581",
+        "DOI": "10.1038/sj.emboj.7600648",
+        "Release Date": "14-04-2005",
+        "Abstract": "A substrate for protein kinase B (PKB)alpha in HeLa cell extracts was identified as methyltransferase-like protein-1 (METTL1), the orthologue of trm8, which catalyses the 7-methylguanosine modification of tRNA in Saccharomyces cerevisiae. PKB and ribosomal S6 kinase (RSK) both phosphorylated METTL1 at Ser27 in vitro. Ser27 became phosphorylated when HEK293 cells were stimulated with insulin-like growth factor-1 (IGF-1) and this was prevented by inhibition of phosphatidyinositol 3-kinase. The IGF-1-induced Ser27 phosphorylation did not occur in 3-phosphoinositide-dependent protein kinase-1 (PDK1)-deficient embryonic stem cells, but occurred normally in PDK1[L155E] cells, indicating that the effect of IGF-1 is mediated by PKB. METTL1 also became phosphorylated at Ser27 in response to phorbol-12-myristate 13-acetate and this was prevented by PD 184352 or pharmacological inhibition of RSK. Phosphorylation of METTL1 by PKB or RSK inactivated METTL1 in vitro, as did mutation of Ser27 to Asp or Glu. Expression of METTL1[S27D] or METTL1[S27E] did not rescue the growth phenotype of yeast lacking trm8. In contrast, expression of METTL1 or METTL1[S27A] partially rescued growth. These results demonstrate that METTL1 is inactivated by PKB and RSK in cells, and the potential implications of this finding are discussed.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PKB alpha\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "PKB alpha"
+    },
+    {
+        "Title": "The tRNA methylase METTL1 is phosphorylated and inactivated by PKB and RSK in vitro and in cells.",
+        "Journal Name": "The EMBO journal",
+        "PMID": "15861136",
+        "PMC": "PMC1142581",
+        "DOI": "10.1038/sj.emboj.7600648",
+        "Release Date": "14-04-2005",
+        "Abstract": "A substrate for protein kinase B (PKB)alpha in HeLa cell extracts was identified as methyltransferase-like protein-1 (METTL1), the orthologue of trm8, which catalyses the 7-methylguanosine modification of tRNA in Saccharomyces cerevisiae. PKB and ribosomal S6 kinase (RSK) both phosphorylated METTL1 at Ser27 in vitro. Ser27 became phosphorylated when HEK293 cells were stimulated with insulin-like growth factor-1 (IGF-1) and this was prevented by inhibition of phosphatidyinositol 3-kinase. The IGF-1-induced Ser27 phosphorylation did not occur in 3-phosphoinositide-dependent protein kinase-1 (PDK1)-deficient embryonic stem cells, but occurred normally in PDK1[L155E] cells, indicating that the effect of IGF-1 is mediated by PKB. METTL1 also became phosphorylated at Ser27 in response to phorbol-12-myristate 13-acetate and this was prevented by PD 184352 or pharmacological inhibition of RSK. Phosphorylation of METTL1 by PKB or RSK inactivated METTL1 in vitro, as did mutation of Ser27 to Asp or Glu. Expression of METTL1[S27D] or METTL1[S27E] did not rescue the growth phenotype of yeast lacking trm8. In contrast, expression of METTL1 or METTL1[S27A] partially rescued growth. These results demonstrate that METTL1 is inactivated by PKB and RSK in cells, and the potential implications of this finding are discussed.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PKB alpha\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "PKB alpha"
+    }
+]

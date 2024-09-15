@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Apoptosis Induction by New Coumarin Derivatives in a Mice Model of Breast Cancer.",
+        "Journal Name": "Archives of Razi Institute",
+        "PMID": "38590672",
+        "PMC": "PMC10998944",
+        "DOI": "10.22092/ARI.2023.78.5.1430",
+        "Release Date": "31-10-2023",
+        "Abstract": "In the last decades, numerous studies have focused on the search for new agents to suppress the growth of cancer cells. In this study, we investigated the effect of two novel synthetic coumarin derivatives, namely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "Identification of Mycobacterium tuberculosis transcriptional repressor EthR inhibitors: Shape-based search and machine learning studies.",
+        "Journal Name": "Heliyon",
+        "PMID": "38434349",
+        "PMC": "PMC10907797",
+        "DOI": "10.1016/j.heliyon.2024.e26802",
+        "Release Date": "22-02-2024",
+        "Abstract": "Tuberculosis has been a challenge to the world since prehistoric times, and with the advent of drug-resistant strains, it has become more challenging to treat this infection. Ethionamide (ETH), a second-line drug, acts as a prodrug and targets mycolic acid synthesis by targeting the enoyl-acyl carrier protein reductase (InhA) enzyme.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "Boosting phagocytosis and anti-inflammatory phenotype in microglia mediates neuroprotection by PPARγ agonist MDG548 in Parkinson's disease models.",
+        "Journal Name": "British journal of pharmacology",
+        "PMID": "29570770",
+        "PMC": "PMC6057897",
+        "DOI": "10.1111/bph.14214",
+        "Release Date": "12-07-2018",
+        "Abstract": "Microglial phenotype and phagocytic activity are deregulated in Parkinson's disease (PD). PPARγ agonists are neuroprotective in experimental PD, but their role in regulating microglial phenotype and phagocytosis has been poorly investigated. We addressed it by using the PPARγ agonist MDG548.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"2-aminopteridine-4,6(1H,5H)-dione\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-aminopteridine-4,6(1H,5H)-dione",
+        "Query_ProteinName": "HSPA4-like protein"
+    },
+    {
+        "Title": "Antifungal activity of bio-active cell-free culture extracts and volatile organic compounds (VOCs) synthesised by endophytic fungal isolates of Garden Nasturtium.",
+        "Journal Name": "Scientific reports",
+        "PMID": "38755187",
+        "PMC": "PMC11099177",
+        "DOI": "10.1038/s41598-024-60948-0",
+        "Release Date": "16-05-2024",
+        "Abstract": "Antimicrobial resistance in fungal pathogens (both human and plant) is increasing alarmingly, leading to massive economic crises. The existing anti-fungal agents are becoming ineffective, and the situation worsens on a logarithmic scale. Novel antifungals from unique natural sources are highly sought to cope sustainably with the situation. Metabolites from endophytic microbes are the best-fitted alternatives in this case. Endophytes are the untapped sources of 'plants' internal microbial population' and are promising sources of effective bio-therapeutic agents. Fungal endophytes were isolated from Tropaeolum majus and checked for antifungal activity against selected plant and human pathogens. Bioactive metabolites were identified through chromatographic techniques. The mode of action of those metabolites was evaluated through various spectroscopic techniques. The production of antifungal metabolite was optimized also. In particular VOCs (volatile organic compounds) of TML9 were tested in vitro for their anti-phytopathogenic activity. Ethyl acetate (EA) extract of cell-free culture components of Colletotrichum aenigma TML3 exhibited broad-spectrum antifungal activity against four species of Candida and the major constituents reported were 6-pentyl-2H-pyran-2-one, 2-Nonanone, 1 propanol 2-amino. The volatile metabolites, trans-ocimene, geraniol, and 4-terpinyl acetate, produced from Curvularia lunata TML9, inhibited the growth of some selected phyto pathogens. EA extract hampered the biofilm formation, minimised the haemolytic effect, and blocked the transformation of Candida albicans (MTCC 4748) from yeast to hyphal form with a Minimum Fungicidal Concentration (MFC) of 200-600 µg mL",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"HSPA4-like protein\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "HSPA4-like protein"
+    }
+]

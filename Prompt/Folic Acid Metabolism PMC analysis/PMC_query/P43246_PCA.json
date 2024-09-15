@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Analysis of human MutS homolog 2 missense mutations in patients with colorectal cancer.",
+        "Journal Name": "Oncology letters",
+        "PMID": "29731845",
+        "PMC": "PMC5920917",
+        "DOI": "10.3892/ol.2018.8161",
+        "Release Date": "02-03-2018",
+        "Abstract": "Germline mutations of DNA mismatch repair gene human MutS homolog 2 (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"hMSH2\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "hMSH2"
+    },
+    {
+        "Title": "Analysis of human MutS homolog 2 missense mutations in patients with colorectal cancer.",
+        "Journal Name": "Oncology letters",
+        "PMID": "29731845",
+        "PMC": "PMC5920917",
+        "DOI": "10.3892/ol.2018.8161",
+        "Release Date": "02-03-2018",
+        "Abstract": "Germline mutations of DNA mismatch repair gene human MutS homolog 2 (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"hMSH2\") AND (\"2-amino-4-hydroxy-6-pteridinecarboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-hydroxy-6-pteridinecarboxylic acid",
+        "Query_ProteinName": "hMSH2"
+    },
+    {
+        "Title": "Analysis of human MutS homolog 2 missense mutations in patients with colorectal cancer.",
+        "Journal Name": "Oncology letters",
+        "PMID": "29731845",
+        "PMC": "PMC5920917",
+        "DOI": "10.3892/ol.2018.8161",
+        "Release Date": "02-03-2018",
+        "Abstract": "Germline mutations of DNA mismatch repair gene human MutS homolog 2 (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"hMSH2\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "hMSH2"
+    },
+    {
+        "Title": "miR-1290 Is a Biomarker in DNA-Mismatch-Repair-Deficient Colon Cancer and Promotes Resistance to 5-Fluorouracil by Directly Targeting hMSH2.",
+        "Journal Name": "Molecular therapy. Nucleic acids",
+        "PMID": "28624221",
+        "PMC": "PMC5443909",
+        "DOI": "10.1016/j.omtn.2017.05.006",
+        "Release Date": "12-05-2017",
+        "Abstract": "5-Fluorouracil (5FU)-based adjuvant therapy is the first-line therapy for treating stage II and III colon cancer after surgery. However, its therapeutic efficacy is limited because of chemoresistance, especially in deficient mismatch repair (dMMR) colon cancer. Here, we first used laser capture microdissection to obtain purified cells from four dMMR and four proficient mismatch repair (pMMR) colon cancer tissues. Second, microRNA (miRNA) microarray chips were used to identify miRNAs that are differentially expressed between these two classes of tumors. Third, we analyzed their differential expression by qRT-PCR in a panel of 5-FU-resistant colon cancer cell lines. We identified that miR-1290 was one of the most upregulated miRNAs in both dMMR colon cancer tissues and 5-FU-resistant cells. We also found that miR-1290 was positively correlated with dMMR status and predicted poor prognosis in stage II and III colon cancer patients who received 5-FU-based chemotherapy. Furthermore, we demonstrated that inhibition of the expression of miR-1290 enhanced sensitivity to 5-FU treatment in vitro and in tumor xenografts in vivo by direct targeting hMSH2. Our study indicates that miR-1290 may become a promising biomarker of dMMR colon cancer and predicts the prognosis of stage II and III patients who receive 5-FU-based adjuvant therapy.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"hMSH2\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "hMSH2"
+    }
+]

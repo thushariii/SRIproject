@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "The effects of heparin and related molecules upon the adhesion of human polymorphonuclear leucocytes to vascular endothelium in vitro.",
+        "Journal Name": "British journal of pharmacology",
+        "PMID": "10711352",
+        "PMC": "PMC1571874",
+        "DOI": "10.1038/sj.bjp.0703099",
+        "Release Date": "--",
+        "Abstract": "1. The effects of an unfractionated heparin preparation (Multiparin), a low molecular weight heparin preparation (Fragmin) and a selectively O-desulphated derivative of heparin lacking anticoagulant activity, have been investigated for their effects on the adhesion of human polymorphonuclear leucocytes (PMNs) to cultured human umbilical vein endothelial cells (HUVECs) in vitro. The effect of poly-L-glutamic acid, a large, polyanionic molecule was also studied. 2. Unfractionated heparin (50-1000 U ml-1), the O-desulphated derivative (0.3-6 mg ml-1) and the low molecular weight heparin (50 U-1000 U ml-1) all inhibited significantly the adhesion of 51Cr labelled PMNs to HUVECs stimulated with interleukin-1 beta (IL-1 beta; 10 U ml-1), bacterial lipopolysaccharide (LPS; 2.5 micrograms ml-1) or tumour necrosis factor-alpha (TNF-alpha; 125 U ml-1) for 6 h, whereas poly-L-glutamic acid had no effect. In addition, the three heparin preparations in the same concentration range inhibited significantly the adhesion of f-met-leu-phe-stimulated PMNs to resting HUVECs. 3. The effects of unfractionated heparin upon the expression of adhesion molecules intercellular adhesion molecule-1 (ICAM-1) and E-selection were also investigated, as were the effects of unfractionated heparin upon adhesion of human PMNs to previously stimulated HUVECs. Heparin had little effect upon levels of expression of these adhesion molecules on stimulated HUVECs. However, a profound effect upon PMN adhesion to previously stimulated HUVECs was demonstrated using the same preparation, suggesting that inhibition of adhesion molecule expression is not a major component of the described inhibitory effects of heparin. 4. Pre-incubation of PMNs with heparin followed by washing inhibited their adhesion to HUVECs, under different conditions of cellular activation, implying that heparin can bind to these cells and exert its anti-adhesive effects even when not directly present in the system. 5. These observations would suggest that both heparin and a low molecular weight heparin are capable of inhibiting adhesion of human PMNs to endothelial cells, an effect not dependent solely upon the polyanionic nature of these molecules, nor dependent upon their ability to act as anticoagulants.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ICAM1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "ICAM1"
+    },
+    {
+        "Title": "Multiple endpoint analysis of BAC-preserved and unpreserved antiallergic eye drops on a 3D-reconstituted corneal epithelial model.",
+        "Journal Name": "Molecular vision",
+        "PMID": "21437201",
+        "PMC": "PMC3062522",
+        "DOI": "",
+        "Release Date": "16-03-2011",
+        "Abstract": "To compare the effects of benzalkonium chloride (BAC)-preserved and unpreserved antiallergic eye drops on the human 3D-reconstituted corneal epithelial model (3D-HCE).",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Intercellular adhesion molecule 1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Intercellular adhesion molecule 1"
+    },
+    {
+        "Title": "Multiple endpoint analysis of BAC-preserved and unpreserved antiallergic eye drops on a 3D-reconstituted corneal epithelial model.",
+        "Journal Name": "Molecular vision",
+        "PMID": "21437201",
+        "PMC": "PMC3062522",
+        "DOI": "",
+        "Release Date": "16-03-2011",
+        "Abstract": "To compare the effects of benzalkonium chloride (BAC)-preserved and unpreserved antiallergic eye drops on the human 3D-reconstituted corneal epithelial model (3D-HCE).",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CD54\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "CD54"
+    }
+]

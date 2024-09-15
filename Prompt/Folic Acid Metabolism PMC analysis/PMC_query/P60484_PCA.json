@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Methylation profile of the promoter CpG islands of 31 genes that may contribute to colorectal carcinogenesis.",
+        "Journal Name": "World journal of gastroenterology",
+        "PMID": "15526363",
+        "PMC": "PMC4576225",
+        "DOI": "10.3748/wjg.v10.i23.3441",
+        "Release Date": "--",
+        "Abstract": "To establish the methylation profile of the promoter CpG islands of 31 genes that might play etiological roles in colon carcinogenesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Mutated in multiple advanced cancers 1\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Mutated in multiple advanced cancers 1"
+    },
+    {
+        "Title": "Methylation profile of the promoter CpG islands of 31 genes that may contribute to colorectal carcinogenesis.",
+        "Journal Name": "World journal of gastroenterology",
+        "PMID": "15526363",
+        "PMC": "PMC4576225",
+        "DOI": "10.3748/wjg.v10.i23.3441",
+        "Release Date": "--",
+        "Abstract": "To establish the methylation profile of the promoter CpG islands of 31 genes that might play etiological roles in colon carcinogenesis.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Mutated in multiple advanced cancers 1\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Mutated in multiple advanced cancers 1"
+    },
+    {
+        "Title": "Extracellular Vesicles in Environmental Toxicological Studies: Association between Urinary Concentrations of Phthalate Metabolites and Exosomal miRNA Expression Profiles.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "38732095",
+        "PMC": "PMC11084695",
+        "DOI": "10.3390/ijms25094876",
+        "Release Date": "30-04-2024",
+        "Abstract": "Phthalates are chemical compounds, mainly used as additives in plastics, which are known to induce harmful impacts to the environment and human health due to their ability to act as hormone-mimics. Few studies have been reported on the relationship between human exposure to phthalates and the level of circulating microRNAs (miRs), especially those miRs encapsulated in extracellular vesicles/exosomes or exosome-like vesicles (ELVs). We examined the relationship of ELV-miR expression patterns and urine of adult men with five phthalate metabolites (i.e., mono isobutyl phthalate, mono-n-butyl phthalate, mono benzyl phthalate, mono-(2-ethyl-5-oxohexyl) phthalate, mono-(2-ethylhexyl) phthalate) to identify potential biomarkers and relevant pathways. We found significant positive associations which were further confirmed by multivariable analysis. Overall, our analyses showed that the Σ phthalate metabolite concentration was associated with a significant increase in the expression level of two miRs found in ELV: miR-202 and miR-543. Different pathways including cancer and immune-related responses were predicted to be involved in this relationship. Analyzing the specific downstream target genes of miR-202 and miR-543, we identified the phosphatase and tensin homolog (PTEN) as the key gene in several converging pathways. In summary, the obtained results demonstrate that exposure to environmental phthalates could be related to altered expression profiles of specific ELV-miRs in adult men, thereby demonstrating the potential of miRs carried by exosomes to act as early effect biomarkers.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Phosphatase and tensin homolog\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Phosphatase and tensin homolog"
+    },
+    {
+        "Title": "β-Cell Insulin Resistance Plays a Causal Role in Fat-Induced β-Cell Dysfunction In Vitro and In Vivo.",
+        "Journal Name": "Endocrinology",
+        "PMID": "38578954",
+        "PMC": "PMC11033845",
+        "DOI": "10.1210/endocr/bqae044",
+        "Release Date": "--",
+        "Abstract": "In the classical insulin target tissues of liver, muscle, and adipose tissue, chronically elevated levels of free fatty acids (FFA) impair insulin signaling. Insulin signaling molecules are also present in β-cells where they play a role in β-cell function. Therefore, inhibition of the insulin/insulin-like growth factor 1 pathway may be involved in fat-induced β-cell dysfunction. To address the role of β-cell insulin resistance in FFA-induced β-cell dysfunction we co-infused bisperoxovanadate (BPV) with oleate or olive oil for 48 hours in rats. BPV, a tyrosine phosphatase inhibitor, acts as an insulin mimetic and is devoid of any antioxidant effect that could prevent β-cell dysfunction, unlike most insulin sensitizers. Following fat infusion, rats either underwent hyperglycemic clamps for assessment of β-cell function in vivo or islets were isolated for ex vivo assessment of glucose-stimulated insulin secretion (GSIS). We also incubated islets with oleate or palmitate and BPV for in vitro assessment of GSIS and Akt (protein kinase B) phosphorylation. Next, mice with β-cell specific deletion of PTEN (phosphatase and tensin homolog; negative regulator of insulin signaling) and littermate controls were infused with oleate for 48 hours, followed by hyperglycemic clamps or ex vivo evaluation of GSIS. In rat experiments, BPV protected against fat-induced impairment of β-cell function in vivo, ex vivo, and in vitro. In mice, β-cell specific deletion of PTEN protected against oleate-induced β-cell dysfunction in vivo and ex vivo. These data support the hypothesis that β-cell insulin resistance plays a causal role in FFA-induced β-cell dysfunction.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Phosphatase and tensin homolog\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Phosphatase and tensin homolog"
+    },
+    {
+        "Title": "Extracellular Vesicles in Environmental Toxicological Studies: Association between Urinary Concentrations of Phthalate Metabolites and Exosomal miRNA Expression Profiles.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "38732095",
+        "PMC": "PMC11084695",
+        "DOI": "10.3390/ijms25094876",
+        "Release Date": "30-04-2024",
+        "Abstract": "Phthalates are chemical compounds, mainly used as additives in plastics, which are known to induce harmful impacts to the environment and human health due to their ability to act as hormone-mimics. Few studies have been reported on the relationship between human exposure to phthalates and the level of circulating microRNAs (miRs), especially those miRs encapsulated in extracellular vesicles/exosomes or exosome-like vesicles (ELVs). We examined the relationship of ELV-miR expression patterns and urine of adult men with five phthalate metabolites (i.e., mono isobutyl phthalate, mono-n-butyl phthalate, mono benzyl phthalate, mono-(2-ethyl-5-oxohexyl) phthalate, mono-(2-ethylhexyl) phthalate) to identify potential biomarkers and relevant pathways. We found significant positive associations which were further confirmed by multivariable analysis. Overall, our analyses showed that the Σ phthalate metabolite concentration was associated with a significant increase in the expression level of two miRs found in ELV: miR-202 and miR-543. Different pathways including cancer and immune-related responses were predicted to be involved in this relationship. Analyzing the specific downstream target genes of miR-202 and miR-543, we identified the phosphatase and tensin homolog (PTEN) as the key gene in several converging pathways. In summary, the obtained results demonstrate that exposure to environmental phthalates could be related to altered expression profiles of specific ELV-miRs in adult men, thereby demonstrating the potential of miRs carried by exosomes to act as early effect biomarkers.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Phosphatase and tensin homolog\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Phosphatase and tensin homolog"
+    },
+    {
+        "Title": "Extracellular Vesicles in Environmental Toxicological Studies: Association between Urinary Concentrations of Phthalate Metabolites and Exosomal miRNA Expression Profiles.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "38732095",
+        "PMC": "PMC11084695",
+        "DOI": "10.3390/ijms25094876",
+        "Release Date": "30-04-2024",
+        "Abstract": "Phthalates are chemical compounds, mainly used as additives in plastics, which are known to induce harmful impacts to the environment and human health due to their ability to act as hormone-mimics. Few studies have been reported on the relationship between human exposure to phthalates and the level of circulating microRNAs (miRs), especially those miRs encapsulated in extracellular vesicles/exosomes or exosome-like vesicles (ELVs). We examined the relationship of ELV-miR expression patterns and urine of adult men with five phthalate metabolites (i.e., mono isobutyl phthalate, mono-n-butyl phthalate, mono benzyl phthalate, mono-(2-ethyl-5-oxohexyl) phthalate, mono-(2-ethylhexyl) phthalate) to identify potential biomarkers and relevant pathways. We found significant positive associations which were further confirmed by multivariable analysis. Overall, our analyses showed that the Σ phthalate metabolite concentration was associated with a significant increase in the expression level of two miRs found in ELV: miR-202 and miR-543. Different pathways including cancer and immune-related responses were predicted to be involved in this relationship. Analyzing the specific downstream target genes of miR-202 and miR-543, we identified the phosphatase and tensin homolog (PTEN) as the key gene in several converging pathways. In summary, the obtained results demonstrate that exposure to environmental phthalates could be related to altered expression profiles of specific ELV-miRs in adult men, thereby demonstrating the potential of miRs carried by exosomes to act as early effect biomarkers.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Phosphatase and tensin homolog\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Phosphatase and tensin homolog"
+    }
+]

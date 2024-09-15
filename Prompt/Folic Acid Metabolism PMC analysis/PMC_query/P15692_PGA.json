@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Integrative analysis of transcriptomic and metabolomic profiles reveals enhanced arginine metabolism in androgen-independent prostate cancer cells.",
+        "Journal Name": "BMC cancer",
+        "PMID": "38104097",
+        "PMC": "PMC10724921",
+        "DOI": "10.1186/s12885-023-11707-3",
+        "Release Date": "16-12-2023",
+        "Abstract": "Prostate cancer is a common solid tumor that affects a significant number of men worldwide. Conventional androgen deprivation therapy (ADT) increases the risk of developing castration-resistant prostate cancer (CRPC). Effective clinical management of patients with CRPC is challenging due to the limited understanding.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"VEGF\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "VEGF"
+    },
+    {
+        "Title": "A brainstem-hypothalamus neuronal circuit reduces feeding upon heat exposure.",
+        "Journal Name": "Nature",
+        "PMID": "38538787",
+        "PMC": "PMC11041654",
+        "DOI": "10.1038/s41586-024-07232-3",
+        "Release Date": "27-03-2024",
+        "Abstract": "Empirical evidence suggests that heat exposure reduces food intake. However, the neurocircuit architecture and the signalling mechanisms that form an associative interface between sensory and metabolic modalities remain unknown, despite primary thermoceptive neurons in the pontine parabrachial nucleus becoming well characterized",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Vascular endothelial growth factor A\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Vascular endothelial growth factor A"
+    },
+    {
+        "Title": "Integrative analysis of transcriptomic and metabolomic profiles reveals enhanced arginine metabolism in androgen-independent prostate cancer cells.",
+        "Journal Name": "BMC cancer",
+        "PMID": "38104097",
+        "PMC": "PMC10724921",
+        "DOI": "10.1186/s12885-023-11707-3",
+        "Release Date": "16-12-2023",
+        "Abstract": "Prostate cancer is a common solid tumor that affects a significant number of men worldwide. Conventional androgen deprivation therapy (ADT) increases the risk of developing castration-resistant prostate cancer (CRPC). Effective clinical management of patients with CRPC is challenging due to the limited understanding.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"VEGF-A\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "VEGF-A"
+    },
+    {
+        "Title": "A brainstem-hypothalamus neuronal circuit reduces feeding upon heat exposure.",
+        "Journal Name": "Nature",
+        "PMID": "38538787",
+        "PMC": "PMC11041654",
+        "DOI": "10.1038/s41586-024-07232-3",
+        "Release Date": "27-03-2024",
+        "Abstract": "Empirical evidence suggests that heat exposure reduces food intake. However, the neurocircuit architecture and the signalling mechanisms that form an associative interface between sensory and metabolic modalities remain unknown, despite primary thermoceptive neurons in the pontine parabrachial nucleus becoming well characterized",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"VEGFA\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "VEGFA"
+    }
+]

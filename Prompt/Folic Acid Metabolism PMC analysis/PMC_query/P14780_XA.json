@@ -1,0 +1,62 @@
+[
+    {
+        "Title": "Anti-Endometriotic Effects of Pueraria Flower Extract  in Human Endometriotic Cells and Mice.",
+        "Journal Name": "Nutrients",
+        "PMID": "28264481",
+        "PMC": "PMC5372875",
+        "DOI": "10.3390/nu9030212",
+        "Release Date": "28-02-2017",
+        "Abstract": "Pueraria flowers have been used as a vegetable and an ingredient for tea and jelly. In this study, we investigated the effects of Pueraria flower extract (PFE) on endometriosis, a common gynaecological disease characterised by local sterile inflammation of peritoneal cavity. PFE suppressed the adhesion of human endometriotic cells 11Z and 12Z to human mesothelial Met5A cells. In addition, PFE significantly inhibited the migration of 11Z and 12Z cells as shown by woundhealing and transwell migration assays. PFE reduced the protein and mRNA levels of matrix metalloproteinase (MMP)-2 and MMP-9 in endometriotic cells. Moreover, extracellular signalregulated kinase (ERK)1/2 was activated by PFE treatment, and an ERK1/2 inhibitor, PD98059, significantly inhibited PFE-inhibited cell migration in endometriotic cells. Furthermore, PFE significantly suppressed endometriotic lesion formation in a mouse model. These data suggest that Pueraria flower is a potential anti-endometriotic agent for the inhibition of endometriotic cell adhesion, migration, and MMP expression.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"MMP-9\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "MMP-9"
+    },
+    {
+        "Title": "Interleukin-21 induces migration and invasion of fibroblast-like synoviocytes from patients with rheumatoid arthritis.",
+        "Journal Name": "Clinical and experimental immunology",
+        "PMID": "26646950",
+        "PMC": "PMC4837236",
+        "DOI": "10.1111/cei.12751",
+        "Release Date": "15-02-2016",
+        "Abstract": "Rheumatoid arthritis (RA) is a chronic inflammatory disease characterized by synovial fibroblast hyperplasia and bone erosion. Fibroblast-like synoviocytes (FLS) play a pivotal role in RA pathogenesis through aggressive migration and matrix invasion, and certain proinflammatory cytokines may affect synoviocyte invasion. Whether interleukin (IL)-21 influences this process remains controversial. Here, we evaluated the potential regulatory effect of IL-21 on the migration, invasion and matrix metalloproteinase (MMP) expression in RA-FLS. We found that IL-21 promoted the migration, invasion and MMP (MMP-2, MMP-3, MMP-9, MMP-13) production in RA-FLS. Moreover, IL-21 induced activation of the phosphoinositide 3-kinase (PI3K), signal transducer and activator of transcription-3 (STAT-3) and extracellular signal-regulated protein kinases 1 and 2 (ERK1/2) pathways, and blockage of these pathways [PI3K/protein kinase B (AKT) inhibitor LY294002, STAT-3 inhibitor STA-21 and ERK1/2 inhibitor PD98059] attenuated IL-21-induced migration and secretion of MMP-3 and MMP-9. In conclusion, our results suggest that IL-21 promotes migration and invasion of RA-FLS. Therefore, therapeutic strategies targeting IL-21 might be effective for the treatment of RA.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"MMP-9\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "MMP-9"
+    },
+    {
+        "Title": "Cdc42 is involved in NC1 peptide-regulated BTB dynamics through actin and microtubule cytoskeletal reorganization.",
+        "Journal Name": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+        "PMID": "31682474",
+        "PMC": "PMC6894087",
+        "DOI": "10.1096/fj.201900991R",
+        "Release Date": "02-11-2019",
+        "Abstract": "Noncollagenous domain 1 (NC1)-peptide is a biologically active peptide derived from the C-terminal region of collagen α3(IV) chain, a structural constituent protein at the basement membrane in the rat testis, likely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Matrix metalloproteinase-9\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Matrix metalloproteinase-9"
+    },
+    {
+        "Title": "PD 098059, an inhibitor of ERK1 activation, attenuates the in vivo invasiveness of head and neck squamous cell carcinoma.",
+        "Journal Name": "British journal of cancer",
+        "PMID": "10424744",
+        "PMC": "PMC2363077",
+        "DOI": "10.1038/sj.bjc.6690537",
+        "Release Date": "--",
+        "Abstract": "Increased mortality of patients with oral cancer largely reflects the local and regional spread of the disease. The invasiveness of these tumours requires hydrolases which are regulated through AP-1-dependent transcriptional mechanisms. Since the amount/activity of transcription factors bound to the AP-1 motif are regulated partly through the extracellular signal-regulated kinases (ERK1/ERK2), we determined the effect of PD 098059, an inhibitor of ERK1/ERK2 activation, on the in vivo invasiveness of a human squamous cell carcinoma cell line (UM-SCC-1) derived from the oral cavity. We utilized the floor of mouth musculature consisting of the mylohyoid, geniohyoid and genioglossus muscle (which are sequentially arranged), as a natural barrier to assess tumour spread in vivo in the nude mouse. Mice were inoculated with tumour cells superficial to the mylohyoid muscle. After 18 days, tumours were injected with either empty liposomes (control) or liposomes containing 5 microM PD 098059 and, after an additional 22 days, the jaws of mice examined histologically. Highly infiltrative tumours, which had penetrated the genioglossus muscle, were evident in 10/12 control mice. In contrast, in 9/12 mice in which the tumours were injected with PD 098059, tumours did not extend beyond the mylohyoid or geniohyoid muscles. Tumours penetrated bone nutrient canals in 7/12 control mice but in only 3/12 PD 098059-treated mice. Neurotropism, characteristic of aggressive oral squamous cell carcinoma, was evident in 6/12 control mice but was completely abolished (0/12 mice) in the PD 098059-treated mice. Using a staging system based on the muscle layer involved, neurotropism, as well as bone involvement, we found the inhibition of invasion to be statistically significant (P < 0.01). The reduced invasiveness of the PD 098059-liposome-treated oral cancers was associated with diminished 92-kDa type IV collagenase and ERK1/ERK2 activities but was not a consequence of a slower tumour growth rate. This is the first study to demonstrate reduced in vivo invasiveness of a malignancy brought about by an inhibitor of ERK1/ERK2 activation. These results raise the exciting possibility that second generation PD 098059 congeners may reduce the spread of the disease in patients afflicted with oral cancers.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"92 kDa type IV collagenase\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "92 kDa type IV collagenase"
+    },
+    {
+        "Title": "Stress stimuli increase calcium-induced arachidonic acid release through phosphorylation of cytosolic phospholipase A2.",
+        "Journal Name": "The Biochemical journal",
+        "PMID": "10567216",
+        "PMC": "PMC1220651",
+        "DOI": "",
+        "Release Date": "--",
+        "Abstract": "Stress stimuli such as free radicals, high osmolarity or arsenite activate stress-activated protein kinases (SAPKs) in a wide variety of cells. In the present study, we have investigated the ability of several stress stimuli to activate SAPKs in platelets and to induce phosphorylation of their substrates. Treatment of human platelets with H(2)O(2) stimulated SAPK2a and its downstream target mitogen-activated protein kinase-activated protein kinase-2 (MAPKAP-K2). Kinase activity reached a maximum after 2-5 min and declined towards basal levels after 15 min. Arsenite caused a steady increase of MAPKAP-K2 activity up to 15 min. The level of maximal kinase activation by H(2)O(2) and arsenite was comparable with the effect caused by the physiological platelet stimulus thrombin. A high osmolarity solution of sorbitol induced comparatively small activation of SAPK2a and MAPKAP-K2. The 42-kDa extracellular signal-regulated kinase (ERK) 2 was not activated by H(2)O(2), sorbitol or arsenite. None of these stimuli triggered significant arachidonic acid release on their own. However, H(2)O(2) and sorbitol enhanced the release of arachidonic acid induced by the calcium ionophore A23187. This effect was reversed by the inhibitor of SAPK2a, 4-(4-fluorophenyl)-2-(4-methylsulphinylphenyl)-5-(4-pyridyl) imidazole (SB 203580), but not by the inhibitor of the ERK2-activating pathway, 2-(2-amino-3-methoxyphenyl)-oxanaphthalen-4-one (PD 98059). Both H(2)O(2) and sorbitol increased phosphorylation of cytosolic phospholipase A(2) (cPLA(2)) and its intrinsic activity; both responses were blocked by SB 203580. Phosphorylation of cPLA(2) by H(2)O(2) occurred on Ser-505, a reaction that is known to increase the intrinsic lipase activity of the enzyme. Our results demonstrate that activation of SAPKs by stress stimuli primes cPLA(2) activation through phosphorylation. In vivo, this mechanism would lead to the sensitization of platelet activation and may be an important risk factor in thrombotic disease.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GELB\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "GELB"
+    }
+]

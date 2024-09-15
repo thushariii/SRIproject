@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "NKT cells adopt a glutamine-addicted phenotype to regulate their homeostasis and function.",
+        "Journal Name": "Cell reports",
+        "PMID": "36288696",
+        "PMC": "PMC9664378",
+        "DOI": "10.1016/j.celrep.2022.111516",
+        "Release Date": "--",
+        "Abstract": "Natural killer T (NKT) cells operate distinctly different metabolic programming from CD4 T cells, including a strict requirement for glutamine to regulate cell homeostasis. However, the underlying mechanisms remain unknown. Here, we report that at a steady state, NKT cells have higher glutamine levels than CD4 T cells and that NKT cells increase glutaminolysis on activation. Activated NKT cells use glutamine to fuel the tricarboxylic acid cycle and glutathione synthesis. In addition, glutamine-derived nitrogen enables protein glycosylation via the hexosamine biosynthesis pathway (HBP). Each of these branches of glutamine metabolism seems to be critical for NKT cell homeostasis and mitochondrial functions. Glutaminolysis and HBP differentially regulate interleukin-4 (IL-4) and interferon γ (IFNγ) production. Glutamine metabolism appears to be controlled by AMP-activated protein kinase (AMPK)-mammalian target of rapamycin complex 1 (mTORC1) signaling. These findings highlight a distinct metabolic requirement of NKT cells compared with CD4 T cells, which may have therapeutic implications in the treatment of certain nutrient-restricted diseases.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin 4\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Interleukin 4"
+    }
+]

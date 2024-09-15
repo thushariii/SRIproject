@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Small-molecule Akt-activation in airway cells induces NO production and reduces IL-8 transcription through Nrf-2.",
+        "Journal Name": "Respiratory research",
+        "PMID": "34666758",
+        "PMC": "PMC8525858",
+        "DOI": "10.1186/s12931-021-01865-y",
+        "Release Date": "19-10-2021",
+        "Abstract": "The non-cancerous functions of Akt in the airway are understudied. In some tissues, Akt phosphorylates and activates endothelial nitric oxide synthase (eNOS) to produce nitric oxide (NO) that has anti-inflammatory effects. NO production has antibacterial and antiviral effects in the airway, and increasing NO may be a useful anti-pathogen strategy. Akt also stimulates the nuclear factor erythroid 2-related factor 2 (Nrf-2) transcription factor, which transcribes antioxidant genes. Therefore, we hypothesized that activation of the Akt/eNOS pathway, which also activates Nrf-2, may have protective effects in human airway cells against injury.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CXCL8\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "CXCL8"
+    },
+    {
+        "Title": "Activation of the Classical Mitogen-Activated Protein Kinases Is Part of the Shiga Toxin-Induced Ribotoxic Stress Response and May Contribute to Shiga Toxin-Induced Inflammation.",
+        "Journal Name": "Infection and immunity",
+        "PMID": "26483408",
+        "PMC": "PMC4694011",
+        "DOI": "10.1128/IAI.00977-15",
+        "Release Date": "19-10-2015",
+        "Abstract": "Infection with enterohemorrhagic Escherichia coli (EHEC) can result in severe disease, including hemorrhagic colitis and the hemolytic uremic syndrome. Shiga toxins (Stx) are the key EHEC virulence determinant contributing to severe disease. Despite inhibiting protein synthesis, Shiga toxins paradoxically induce the expression of proinflammatory cytokines from various cell types in vitro, including intestinal epithelial cells (IECs). This effect is mediated in large part by the ribotoxic stress response (RSR). The Shiga toxin-induced RSR is known to involve the activation of the stress-activated protein kinases (SAPKs) p38 and JNK. In some cell types, Stx also can induce the classical mitogen-activated protein kinases (MAPKs) or ERK1/2, but the mechanism(s) by which this activation occurs is unknown. In this study, we investigated the mechanism by which Stx activates ERK1/2s in IECs and the contribution of ERK1/2 activation to interleukin-8 (IL-8) expression. We demonstrate that Stx1 activates ERK1/2 in a biphasic manner: the first phase occurs in response to StxB1 subunit, while the second phase requires StxA1 subunit activity. We show that the A subunit-dependent ERK1/2 activation is mediated through ZAK-dependent signaling, and inhibition of ERK1/2 activation via the MEK1/2 inhibitors U0126 and PD98059 results in decreased Stx1-mediated IL-8 mRNA. Finally, we demonstrate that ERK1/2 are activated in vivo in the colon of Stx2-intoxicated infant rabbits, a model in which Stx2 induces a primarily neutrophilic inflammatory response. Together, our data support a role for ERK1/2 activation in the development of Stx-mediated intestinal inflammation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"CXCL8\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "CXCL8"
+    },
+    {
+        "Title": "Acid external and internal environment exchange the",
+        "Journal Name": "Frontiers in immunology",
+        "PMID": "36225935",
+        "PMC": "PMC9549756",
+        "DOI": "10.3389/fimmu.2022.1012078",
+        "Release Date": "26-09-2022",
+        "Abstract": "The water environment plays an important role in animal physiology. In this study, we sought to evaluate the effect of the acid environment on the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL8\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IL8"
+    },
+    {
+        "Title": "Acid external and internal environment exchange the",
+        "Journal Name": "Frontiers in immunology",
+        "PMID": "36225935",
+        "PMC": "PMC9549756",
+        "DOI": "10.3389/fimmu.2022.1012078",
+        "Release Date": "26-09-2022",
+        "Abstract": "The water environment plays an important role in animal physiology. In this study, we sought to evaluate the effect of the acid environment on the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-8\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IL-8"
+    }
+]

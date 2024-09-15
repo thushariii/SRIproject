@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Overexpression of",
+        "Journal Name": "Plants (Basel, Switzerland)",
+        "PMID": "38794377",
+        "PMC": "PMC11124926",
+        "DOI": "10.3390/plants13101306",
+        "Release Date": "09-05-2024",
+        "Abstract": "A breakthrough \"Green Revolution\" in rice enhanced lodging resistance by using gibberellin-deficient semi-dwarf varieties. However, the gibberellic acid (GA) signaling regulation on rice disease resistance remains unclear. The resistance test showed that a positive GA signaling regulator",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"2-amino-4-oxo-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-oxo-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    },
+    {
+        "Title": "Overexpression of",
+        "Journal Name": "Plants (Basel, Switzerland)",
+        "PMID": "38794377",
+        "PMC": "PMC11124926",
+        "DOI": "10.3390/plants13101306",
+        "Release Date": "09-05-2024",
+        "Abstract": "A breakthrough \"Green Revolution\" in rice enhanced lodging resistance by using gibberellin-deficient semi-dwarf varieties. However, the gibberellic acid (GA) signaling regulation on rice disease resistance remains unclear. The resistance test showed that a positive GA signaling regulator",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"2-amino-4-hydroxy-6-pteridinecarboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-hydroxy-6-pteridinecarboxylic acid",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    },
+    {
+        "Title": "Molecular Evolution of RAMOSA1 (RA1) in Land Plants.",
+        "Journal Name": "Biomolecules",
+        "PMID": "38785957",
+        "PMC": "PMC11117814",
+        "DOI": "10.3390/biom14050550",
+        "Release Date": "03-05-2024",
+        "Abstract": "RAMOSA1 (RA1) is a Cys2-His2-type (C2H2) zinc finger transcription factor that controls plant meristem fate and identity and has played an important role in maize domestication. Despite its importance, the origin of RA1 is unknown, and the evolution in plants is only partially understood. In this paper, we present a well-resolved phylogeny based on 73 amino acid sequences from 48 embryophyte species. The recovered tree topology indicates that, during grass evolution, RA1 arose from two consecutive SUPERMAN duplications, resulting in three distinct grass sequence lineages: RA1-like A, RA1-like B, and RA1; however, most of these copies have unknown functions. Our findings indicate that RA1 and RA1-like play roles in the nucleus despite lacking a traditional nuclear localization signal. Here, we report that copies diversified their coding region and, with it, their protein structure, suggesting different patterns of DNA binding and protein-protein interaction. In addition, each of the retained copies diversified regulatory elements along their promoter regions, indicating differences in their upstream regulation. Taken together, the evidence indicates that the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"2-amino-4-hydroxy-6-pteridinecarboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-hydroxy-6-pteridinecarboxylic acid",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    },
+    {
+        "Title": "Overexpression of",
+        "Journal Name": "Plants (Basel, Switzerland)",
+        "PMID": "38794377",
+        "PMC": "PMC11124926",
+        "DOI": "10.3390/plants13101306",
+        "Release Date": "09-05-2024",
+        "Abstract": "A breakthrough \"Green Revolution\" in rice enhanced lodging resistance by using gibberellin-deficient semi-dwarf varieties. However, the gibberellic acid (GA) signaling regulation on rice disease resistance remains unclear. The resistance test showed that a positive GA signaling regulator",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"2-amino-4-keto-1H-pteridine-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-4-keto-1H-pteridine-6-carboxylic acid",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    },
+    {
+        "Title": "Overexpression of",
+        "Journal Name": "Plants (Basel, Switzerland)",
+        "PMID": "38794377",
+        "PMC": "PMC11124926",
+        "DOI": "10.3390/plants13101306",
+        "Release Date": "09-05-2024",
+        "Abstract": "A breakthrough \"Green Revolution\" in rice enhanced lodging resistance by using gibberellin-deficient semi-dwarf varieties. However, the gibberellic acid (GA) signaling regulation on rice disease resistance remains unclear. The resistance test showed that a positive GA signaling regulator",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    },
+    {
+        "Title": "Transcriptome analysis of resistant soybean roots infected by Meloidogyne javanica.",
+        "Journal Name": "Genetics and molecular biology",
+        "PMID": "22802712",
+        "PMC": "PMC3392879",
+        "DOI": "10.1590/S1415-47572012000200008",
+        "Release Date": "--",
+        "Abstract": "Soybean is an important crop for Brazilian agribusiness. However, many factors can limit its production, especially root-knot nematode infection. Studies on the mechanisms employed by the resistant soybean genotypes to prevent infection by these nematodes are of great interest for breeders. For these reasons, the aim of this work is to characterize the transcriptome of soybean line PI 595099-Meloidogyne javanica interaction through expression analysis. Two cDNA libraries were obtained using a pool of RNA from PI 595099 uninfected and M. javanica (J(2)) infected roots, collected at 6, 12, 24, 48, 96, 144 and 192 h after inoculation. Around 800 ESTs (Expressed Sequence Tags) were sequenced and clustered into 195 clusters. In silico subtraction analysis identified eleven differentially expressed genes encoding putative proteins sharing amino acid sequence similarities by using BlastX: metallothionein, SLAH4 (SLAC1 Homologue 4), SLAH1 (SLAC1 Homologue 1), zinc-finger proteins, AN1-type proteins, auxin-repressed proteins, thioredoxin and nuclear transport factor 2 (NTF-2). Other genes were also found exclusively in nematode stressed soybean roots, such as NAC domain-containing proteins, MADS-box proteins, SOC1 (suppressor of overexpression of constans 1) proteins, thioredoxin-like protein 4-Coumarate-CoA ligase and the transcription factor (TF) MYBZ2. Among the genes identified in non-stressed roots only were Ser/Thr protein kinases, wound-induced basic protein, ethylene-responsive family protein, metallothionein-like protein cysteine proteinase inhibitor (cystatin) and Putative Kunitz trypsin protease inhibitor. An understanding of the roles of these differentially expressed genes will provide insights into the resistance mechanisms and candidate genes involved in soybean-M. javanica interaction and contribute to more effective control of this pathogen.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein 272\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Zinc finger protein 272"
+    }
+]

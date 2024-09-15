@@ -1,0 +1,110 @@
+[
+    {
+        "Title": "Mechanism of Anti-Inflammatory Activity of TLR4-Interacting SPA4 Peptide.",
+        "Journal Name": "ImmunoHorizons",
+        "PMID": "34429343",
+        "PMC": "PMC8673433",
+        "DOI": "10.4049/immunohorizons.2100067",
+        "Release Date": "24-08-2021",
+        "Abstract": "The TLR4-interacting SPA4 peptide suppresses inflammation. We assessed the structural and physicochemical properties and binding of SPA4 peptide to TLR4-MD2. We also studied the changes at the whole transcriptome level, cell morphology, viability, secreted cytokines and chemokines, and cell influx in cell systems and mouse models challenged with LPS and treated with SPA4 peptide. Our results demonstrated that the SPA4 peptide did not alter the cell viability and size and only moderately affected the transcriptome of the cells. Computational docking and rendering suggested that the SPA4 peptide intercalates with LPS-induced TLR4-MD2 complex. Results with alanine mutations of D-2 amino acid and NYTXXXRG-12-19 motif of SPA4 peptide suggested their role in binding to TLR4 and in reducing the cytokine response against LPS stimulus. Furthermore, therapeutically administered SPA4 peptide significantly suppressed the secreted levels of cytokines and chemokines in cells and bronchoalveolar lavage fluids of LPS-challenged mice. The results suggest that the SPA4 peptide intercalates with LPS-induced TLR4 complex and signaling for the suppression of inflammation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Toll-like receptor 4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Toll-like receptor 4"
+    },
+    {
+        "Title": "Quest for Novel Preventive and Therapeutic Options Against Multidrug-Resistant",
+        "Journal Name": "International journal of peptide research and therapeutics",
+        "PMID": "34393689",
+        "PMC": "PMC8351238",
+        "DOI": "10.1007/s10989-021-10255-3",
+        "Release Date": "09-08-2021",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TLR4\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "TLR4"
+    },
+    {
+        "Title": "Mechanism of Anti-Inflammatory Activity of TLR4-Interacting SPA4 Peptide.",
+        "Journal Name": "ImmunoHorizons",
+        "PMID": "34429343",
+        "PMC": "PMC8673433",
+        "DOI": "10.4049/immunohorizons.2100067",
+        "Release Date": "24-08-2021",
+        "Abstract": "The TLR4-interacting SPA4 peptide suppresses inflammation. We assessed the structural and physicochemical properties and binding of SPA4 peptide to TLR4-MD2. We also studied the changes at the whole transcriptome level, cell morphology, viability, secreted cytokines and chemokines, and cell influx in cell systems and mouse models challenged with LPS and treated with SPA4 peptide. Our results demonstrated that the SPA4 peptide did not alter the cell viability and size and only moderately affected the transcriptome of the cells. Computational docking and rendering suggested that the SPA4 peptide intercalates with LPS-induced TLR4-MD2 complex. Results with alanine mutations of D-2 amino acid and NYTXXXRG-12-19 motif of SPA4 peptide suggested their role in binding to TLR4 and in reducing the cytokine response against LPS stimulus. Furthermore, therapeutically administered SPA4 peptide significantly suppressed the secreted levels of cytokines and chemokines in cells and bronchoalveolar lavage fluids of LPS-challenged mice. The results suggest that the SPA4 peptide intercalates with LPS-induced TLR4 complex and signaling for the suppression of inflammation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TLR4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "TLR4"
+    },
+    {
+        "Title": "Quest for Novel Preventive and Therapeutic Options Against Multidrug-Resistant",
+        "Journal Name": "International journal of peptide research and therapeutics",
+        "PMID": "34393689",
+        "PMC": "PMC8351238",
+        "DOI": "10.1007/s10989-021-10255-3",
+        "Release Date": "09-08-2021",
+        "Abstract": "",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TLR-4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "TLR-4"
+    },
+    {
+        "Title": "2-Amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine is an anti-inflammatory TLR-2, -4 and -5 response mediator in human monocytes.",
+        "Journal Name": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+        "PMID": "26613980",
+        "PMC": "PMC4703520",
+        "DOI": "10.1007/s00011-015-0891-0",
+        "Release Date": "27-11-2015",
+        "Abstract": "To elucidate the influence of 2-amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine (AMBMP), a canonical Wnt/β-catenin pathway activator, on the inflammatory response of TLR-engaged innate cells in vitro.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"toll like receptor 4\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "toll like receptor 4"
+    },
+    {
+        "Title": "2-Amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine is an anti-inflammatory TLR-2, -4 and -5 response mediator in human monocytes.",
+        "Journal Name": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+        "PMID": "26613980",
+        "PMC": "PMC4703520",
+        "DOI": "10.1007/s00011-015-0891-0",
+        "Release Date": "27-11-2015",
+        "Abstract": "To elucidate the influence of 2-amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine (AMBMP), a canonical Wnt/β-catenin pathway activator, on the inflammatory response of TLR-engaged innate cells in vitro.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"toll like receptor 4\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "toll like receptor 4"
+    },
+    {
+        "Title": "Mechanism of Anti-Inflammatory Activity of TLR4-Interacting SPA4 Peptide.",
+        "Journal Name": "ImmunoHorizons",
+        "PMID": "34429343",
+        "PMC": "PMC8673433",
+        "DOI": "10.4049/immunohorizons.2100067",
+        "Release Date": "24-08-2021",
+        "Abstract": "The TLR4-interacting SPA4 peptide suppresses inflammation. We assessed the structural and physicochemical properties and binding of SPA4 peptide to TLR4-MD2. We also studied the changes at the whole transcriptome level, cell morphology, viability, secreted cytokines and chemokines, and cell influx in cell systems and mouse models challenged with LPS and treated with SPA4 peptide. Our results demonstrated that the SPA4 peptide did not alter the cell viability and size and only moderately affected the transcriptome of the cells. Computational docking and rendering suggested that the SPA4 peptide intercalates with LPS-induced TLR4-MD2 complex. Results with alanine mutations of D-2 amino acid and NYTXXXRG-12-19 motif of SPA4 peptide suggested their role in binding to TLR4 and in reducing the cytokine response against LPS stimulus. Furthermore, therapeutically administered SPA4 peptide significantly suppressed the secreted levels of cytokines and chemokines in cells and bronchoalveolar lavage fluids of LPS-challenged mice. The results suggest that the SPA4 peptide intercalates with LPS-induced TLR4 complex and signaling for the suppression of inflammation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"toll like receptor 4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "toll like receptor 4"
+    },
+    {
+        "Title": "A naturally derived small molecule NDSM253 inhibits IKK1 to suppress inflammation response and promote bone healing after fracture.",
+        "Journal Name": "American journal of translational research",
+        "PMID": "33527006",
+        "PMC": "PMC7847520",
+        "DOI": "",
+        "Release Date": "15-01-2021",
+        "Abstract": "Bone fracture induces an acute inflammatory response in the resident and peripheral monocyte/macrophage cells. Excessive amounts of proinflammatory cytokines can cause severe tissue damage and inhibit bone healing. The proinflammatory cytokine genes are mainly controlled by TLR4/NF-κB (Toll-like receptor 4/Nuclear factor κB). Thus, targeting the molecules in this signaling pathway to decrease the expression of proinflammatory cytokines is an effective strategy to inhibit the inflammatory response. Herein, we identified a naturally derived small molecule NDSM253 that specifically inhibited IKKα (Inhibitor of NF-κB kinase subunit-alpha), a critical component of TLR4/NF-κB signaling. Biochemically, NDMS253 decreased phosphorylation of IκB (Inhibitor of NF-κB), thereby increasing the binding of IκB-NF-κB and suppressing the proinflammatory cytokine gene expression. NDMS253 showed a much stronger inhibitory effect on proinflammatory cytokine gene expression than did the known IKK inhibitors, including ACHP (2-Amino-6-[2-(cyclopropylmethoxy)-6-hydroxyphenyl]-4-(4-piperidinyl)-3-pyridinecarbonitrile), IKK16, and Amlexanox. Administration of these IKK inhibitors in a mouse femoral fracture model showed that NDSM253 suppressed proinflammatory cytokine genes, thereby promoting bone healing, while the other three IKK inhibitors showed a weaker improvement of both bone healing and circulating proinflammatory cytokines. Collectively, our data suggested that NDSM253 might be an effective inhibitor of IKKα that could inhibit inflammatory cytokine action in bone injury.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"toll like receptor 4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "toll like receptor 4"
+    },
+    {
+        "Title": "Short-Term Regulation of Fc",
+        "Journal Name": "Mediators of inflammation",
+        "PMID": "28894350",
+        "PMC": "PMC5574301",
+        "DOI": "10.1155/2017/2086840",
+        "Release Date": "15-08-2017",
+        "Abstract": "TLRs recognize a broad spectrum of microorganism molecules, triggering a variety of cellular responses. Among them, phagocytosis is a critical process for host defense. Leukotrienes (LTs), lipid mediators produced from 5-lipoxygenase (5-LO) enzyme, increase Fc",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"toll like receptor 4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "toll like receptor 4"
+    }
+]

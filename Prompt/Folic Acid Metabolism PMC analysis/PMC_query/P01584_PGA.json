@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Dietary Protein Optimization for Growth and Immune Enhancement in Juvenile Hybrid Sturgeon (",
+        "Journal Name": "Biology",
+        "PMID": "38785806",
+        "PMC": "PMC11117904",
+        "DOI": "10.3390/biology13050324",
+        "Release Date": "06-05-2024",
+        "Abstract": "This study aimed to evaluate the effects of dietary protein levels on growth performance, serum indices, body amino acid composition, and intestinal gene expression in juvenile hybrid sturgeon (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL1beta\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "IL1beta"
+    },
+    {
+        "Title": "Psychosocial Crowding Stress-Induced Changes in Synaptic Transmission and Glutamate Receptor Expression in the Rat Frontal Cortex.",
+        "Journal Name": "Biomolecules",
+        "PMID": "33669305",
+        "PMC": "PMC7920072",
+        "DOI": "10.3390/biom11020294",
+        "Release Date": "16-02-2021",
+        "Abstract": "This study demonstrates how exposure to psychosocial crowding stress (CS) for 3, 7, and 14 days affects glutamate synapse functioning and signal transduction in the frontal cortex (FC) of rats. CS effects on synaptic activity were evaluated in FC slices of the primary motor cortex (M1) by measuring field potential (FP) amplitude, paired-pulse ratio (PPR), and long-term potentiation (LTP). Protein expression of GluA1, GluN2B mGluR1a/5, VGLUT1, and VGLUT2 was assessed in FC by western blot. The body's response to CS was evaluated by measuring body weight and the plasma level of plasma corticosterone (CORT), adrenocorticotropic hormone (ACTH), and interleukin 1 beta (IL1B). CS 3 14d increased FP and attenuated LTP in M1, while PPR was augmented in CS 14d. The expression of GluA1, GluN2B, and mGluR1a/5 was up-regulated in CS 3d and downregulated in CS 14d. VGLUTs expression tended to increase in CS 7d. The failure to blunt the effects of chronic CS on FP and LTP in M1 suggests the impairment of habituation mechanisms by psychosocial stressors. PPR augmented by chronic CS with increased VGLUTs level in the CS 7d indicates that prolonged CS exposure changed presynaptic signaling within the FC. The CS bidirectional profile of changes in glutamate receptors' expression seems to be a common mechanism evoked by stress in the FC.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin-1 beta\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Interleukin-1 beta"
+    },
+    {
+        "Title": "Differences in peripheral and central metabolites and gut microbiome of laying hens with different feather-pecking phenotypes.",
+        "Journal Name": "Frontiers in microbiology",
+        "PMID": "36937288",
+        "PMC": "PMC10017472",
+        "DOI": "10.3389/fmicb.2023.1132866",
+        "Release Date": "02-03-2023",
+        "Abstract": "Feather pecking (FP) is a maladaptive behavior in laying hens that is associated with numerous physiological traits, including those involving the central neurotransmitter system and the immune system, which have been identified in many species as being regulated by the gut microbiota",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "IL-1"
+    }
+]

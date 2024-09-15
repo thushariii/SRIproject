@@ -1,0 +1,110 @@
+[
+    {
+        "Title": "Jing-an oral liquid alleviates Tourette syndrome via the NMDAR/MAPK/CREB pathway",
+        "Journal Name": "Pharmaceutical biology",
+        "PMID": "36102587",
+        "PMC": "PMC9487928",
+        "DOI": "10.1080/13880209.2022.2116056",
+        "Release Date": "--",
+        "Abstract": "Jing-an oral liquid (JA) is a Chinese herbal formula used in the treatment of Tourette syndrome (TS); however, its mechanism is unclear.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"p38\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "p38"
+    },
+    {
+        "Title": "Integrated molecular analysis of Tamoxifen-resistant invasive lobular breast cancer cells identifies MAPK and GRM/mGluR signaling as therapeutic vulnerabilities.",
+        "Journal Name": "Molecular and cellular endocrinology",
+        "PMID": "28935545",
+        "PMC": "PMC5858970",
+        "DOI": "10.1016/j.mce.2017.09.024",
+        "Release Date": "19-09-2017",
+        "Abstract": "Invasive lobular breast cancer (ILC) is an understudied malignancy with distinct clinical, pathological, and molecular features that distinguish it from the more common invasive ductal carcinoma (IDC). Mounting evidence suggests that estrogen receptor-alpha positive (ER+) ILC has a poor response to Tamoxifen (TAM), but the mechanistic drivers of this are undefined. In the current work, we comprehensively characterize the SUM44/LCCTam ILC cell model system through integrated analysis of gene expression, copy number, and mutation, with the goal of identifying actionable alterations relevant to clinical ILC that can be co-targeted along with ER to improve treatment outcomes. We show that TAM has several distinct effects on the transcriptome of LCCTam cells, that this resistant cell model has acquired copy number alterations and mutations that impinge on MAPK and metabotropic glutamate receptor (GRM/mGluR) signaling networks, and that pharmacological inhibition of either improves or restores the growth-inhibitory actions of endocrine therapy.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"MAPK1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "MAPK1"
+    },
+    {
+        "Title": "Excess glutamate release triggers subunit-specific homeostatic receptor scaling.",
+        "Journal Name": "Cell reports",
+        "PMID": "37436892",
+        "PMC": "PMC10529671",
+        "DOI": "10.1016/j.celrep.2023.112775",
+        "Release Date": "11-07-2023",
+        "Abstract": "Ionotropic glutamate receptors (GluRs) are targets for modulation in Hebbian and homeostatic synaptic plasticity and are remodeled by development, experience, and disease. We have probed the impact of synaptic glutamate levels on the two postsynaptic GluR subtypes at the Drosophila neuromuscular junction, GluRA and GluRB. We first demonstrate that GluRA and GluRB compete to establish postsynaptic receptive fields, and that proper GluR abundance and composition can be orchestrated in the absence of any synaptic glutamate release. However, excess glutamate adaptively tunes postsynaptic GluR abundance, echoing GluR scaling observed in mammalian systems. Furthermore, when GluRA vs. GluRB competition is eliminated, GluRB becomes insensitive to glutamate modulation. In contrast, GluRA is now homeostatically regulated by excess glutamate to maintain stable miniature activity, where Ca",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"p40\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "p40"
+    },
+    {
+        "Title": "Phosphorylation of connexin 43 at MAPK, PKC or CK1 sites each distinctly alter the kinetics of epidermal wound repair.",
+        "Journal Name": "Journal of cell science",
+        "PMID": "31427427",
+        "PMC": "PMC6765181",
+        "DOI": "10.1242/jcs.234633",
+        "Release Date": "23-09-2019",
+        "Abstract": "The gap junction protein connexin 43 (Cx43) is a key player in wound healing, and inhibitors of Cx43, which speed epidermal wound healing, are currently in clinical trials. Here, we provide direct",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"MAP kinase 1, MAPK 1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "MAP kinase 1, MAPK 1"
+    },
+    {
+        "Title": "Chronic impairment of ERK signaling in glutamatergic neurons of the forebrain does not affect spatial memory retention and LTP in the same manner as acute blockade of the ERK pathway.",
+        "Journal Name": "Hippocampus",
+        "PMID": "28833860",
+        "PMC": "PMC5783323",
+        "DOI": "10.1002/hipo.22769",
+        "Release Date": "07-09-2017",
+        "Abstract": "The ERK/MAPK signaling pathway has been extensively studied in the context of learning and memory. Defects in this pathway underlie genetic diseases associated with intellectual disability, including impaired learning and memory. Numerous studies have investigated the impact of acute ERK/MAPK inhibition on long-term potentiation and spatial memory. However, genetic knockouts of the ERKs have not been utilized to determine whether developmental perturbations of ERK/MAPK signaling affect LTP and memory formation in postnatal life. In this study, two different ERK2 conditional knockout mice were generated that restrict loss of ERK2 to excitatory neurons in the forebrain, but at different time-points (embryonically and post-natally). We found that embryonic loss of ERK2 had minimal effect on spatial memory retention and novel object recognition, while loss of ERK2 post-natally had more pronounced effects in these behaviors. Loss of ERK2 in both models showed intact LTP compared to control animals, while loss of both ERK1 and ERK2 impaired late phase LTP. These findings indicate that ERK2 is not necessary for LTP and spatial memory retention and provide new insights into the functional deficits associated with the chronic impairment of ERK signaling.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERK2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "ERK2"
+    },
+    {
+        "Title": "ERK2 Mediates Metabolic Stress Response to Regulate Cell Fate.",
+        "Journal Name": "Molecular cell",
+        "PMID": "26190261",
+        "PMC": "PMC4530034",
+        "DOI": "10.1016/j.molcel.2015.06.020",
+        "Release Date": "16-07-2015",
+        "Abstract": "Insufficient nutrients disrupt physiological homeostasis, resulting in diseases and even death. Considering the physiological and pathological consequences of this metabolic stress, the adaptive responses that cells utilize under this condition are of great interest. We show that under low-glucose conditions, cells initiate adaptation followed by apoptosis responses using PERK/Akt and MEK1/ERK2 signaling, respectively. For adaptation, cells engage the ER stress-induced unfolded protein response, which results in PERK/Akt activation and cell survival. Sustained and extreme energetic stress promotes a switch to isoform-specific MEK1/ERK2 signaling, induction of GCN2/eIF2α phosphorylation, and ATF4 expression, which overrides PERK/Akt-mediated adaptation and induces apoptosis through ATF4-dependent expression of pro-apoptotic factors including Bid and Trb3. ERK2 activation during metabolic stress contributes to changes in TCA cycle and amino acid metabolism, and cell death, which is suppressed by glutamate and α-ketoglutarate supplementation. Taken together, our results reveal promising targets to protect cells or tissues from metabolic stress.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERK2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "ERK2"
+    },
+    {
+        "Title": "Ionotropic glutamate receptors activate cell signaling in response to glutamate in Schwann cells.",
+        "Journal Name": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+        "PMID": "28073836",
+        "PMC": "PMC5349802",
+        "DOI": "10.1096/fj.201601121R",
+        "Release Date": "10-01-2017",
+        "Abstract": "In the peripheral nervous system, Schwann cells (SCs) demonstrate surveillance activity, detecting injury and undergoing",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Mitogen-activated protein kinase 1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Mitogen-activated protein kinase 1"
+    },
+    {
+        "Title": "Rostral Ventrolateral Medulla EP3 Receptor Mediates the Sympathoexcitatory and Pressor Effects of Prostaglandin E2 in Conscious Rats.",
+        "Journal Name": "The Journal of pharmacology and experimental therapeutics",
+        "PMID": "27572469",
+        "PMC": "PMC5074484",
+        "DOI": "10.1124/jpet.116.233502",
+        "Release Date": "29-08-2016",
+        "Abstract": "Whereas few studies have dealt with the central sympathoexcitatory action of the inflammatory prostanoid prostaglandin E",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Mitogen-activated protein kinase 1\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Mitogen-activated protein kinase 1"
+    },
+    {
+        "Title": "Neuroretinal Cell Culture Model as a Tool for the Development of New Therapeutic Approaches for Oxidative Stress-Induced Ocular Diseases, with a Focus on Glaucoma.",
+        "Journal Name": "Cells",
+        "PMID": "38727311",
+        "PMC": "PMC11083839",
+        "DOI": "10.3390/cells13090775",
+        "Release Date": "01-05-2024",
+        "Abstract": "Glaucoma is a heterogeneous group of optic neuropathies characterized by a progressive degeneration of the retinal ganglion cells (RGCs), leading to irreversible vision loss. Nowadays, the traditional therapeutic approach to glaucoma consists of lowering the intraocular pressure (IOP), which does not address the neurodegenerative features of the disease. Besides animal models of glaucoma, there is a considerable need for in vitro experimental models to propose new therapeutic strategies for this ocular disease. In this study, we elucidated the pathological mechanisms leading to neuroretinal R28 cell death after exposure to glutamate and hydrogen peroxide (H",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"ERK\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "ERK"
+    }
+]

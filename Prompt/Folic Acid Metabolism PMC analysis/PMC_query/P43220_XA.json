@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Discovery of small molecule positive allosteric modulators of the secretin receptor.",
+        "Journal Name": "Biochemical pharmacology",
+        "PMID": "33545115",
+        "PMC": "PMC8146373",
+        "DOI": "10.1016/j.bcp.2021.114451",
+        "Release Date": "03-02-2021",
+        "Abstract": "The secretin receptor (SCTR) is a prototypic Class B1 G protein-coupled receptor (GPCR) that represents a key target for the development of therapeutics for the treatment of cardiovascular, gastrointestinal, and metabolic disorders. However, no non-peptidic molecules targeting this receptor have yet been disclosed. Using a high-throughput screening campaign directed at SCTR to identify small molecule modulators, we have identified three structurally related scaffolds positively modulating SCTRs. Here we outline a comprehensive study comprising a structure-activity series based on commercially available analogs of the three hit scaffold sets A (2-sulfonyl pyrimidines), B (2-mercapto pyrimidines) and C (2-amino pyrimidines), which revealed determinants of activity, cooperativity and specificity. Structural optimization of original hits resulted in analog B2, which substantially enhances signaling of truncated secretin peptides and prolongs residence time of labeled secretin up to 13-fold in a dose-dependent manner. Furthermore, we found that investigated compounds display structural similarity to positive allosteric modulators (PAMs) active at the glucagon-like peptide-1 receptor (GLP-1R), and we were able to confirm cross-recognition of that receptor by a subset of analogs. Studies using SCTR and GLP-1R mutants revealed that scaffold A, but not B and C, likely acts via two distinct mechanisms, one of which constitutes covalent modification of Cys-347",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon-like peptide 1 receptor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "glucagon-like peptide 1 receptor"
+    },
+    {
+        "Title": "Discovery of small molecule positive allosteric modulators of the secretin receptor.",
+        "Journal Name": "Biochemical pharmacology",
+        "PMID": "33545115",
+        "PMC": "PMC8146373",
+        "DOI": "10.1016/j.bcp.2021.114451",
+        "Release Date": "03-02-2021",
+        "Abstract": "The secretin receptor (SCTR) is a prototypic Class B1 G protein-coupled receptor (GPCR) that represents a key target for the development of therapeutics for the treatment of cardiovascular, gastrointestinal, and metabolic disorders. However, no non-peptidic molecules targeting this receptor have yet been disclosed. Using a high-throughput screening campaign directed at SCTR to identify small molecule modulators, we have identified three structurally related scaffolds positively modulating SCTRs. Here we outline a comprehensive study comprising a structure-activity series based on commercially available analogs of the three hit scaffold sets A (2-sulfonyl pyrimidines), B (2-mercapto pyrimidines) and C (2-amino pyrimidines), which revealed determinants of activity, cooperativity and specificity. Structural optimization of original hits resulted in analog B2, which substantially enhances signaling of truncated secretin peptides and prolongs residence time of labeled secretin up to 13-fold in a dose-dependent manner. Furthermore, we found that investigated compounds display structural similarity to positive allosteric modulators (PAMs) active at the glucagon-like peptide-1 receptor (GLP-1R), and we were able to confirm cross-recognition of that receptor by a subset of analogs. Studies using SCTR and GLP-1R mutants revealed that scaffold A, but not B and C, likely acts via two distinct mechanisms, one of which constitutes covalent modification of Cys-347",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GLP-1R\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "GLP-1R"
+    },
+    {
+        "Title": "Discovery of small molecule positive allosteric modulators of the secretin receptor.",
+        "Journal Name": "Biochemical pharmacology",
+        "PMID": "33545115",
+        "PMC": "PMC8146373",
+        "DOI": "10.1016/j.bcp.2021.114451",
+        "Release Date": "03-02-2021",
+        "Abstract": "The secretin receptor (SCTR) is a prototypic Class B1 G protein-coupled receptor (GPCR) that represents a key target for the development of therapeutics for the treatment of cardiovascular, gastrointestinal, and metabolic disorders. However, no non-peptidic molecules targeting this receptor have yet been disclosed. Using a high-throughput screening campaign directed at SCTR to identify small molecule modulators, we have identified three structurally related scaffolds positively modulating SCTRs. Here we outline a comprehensive study comprising a structure-activity series based on commercially available analogs of the three hit scaffold sets A (2-sulfonyl pyrimidines), B (2-mercapto pyrimidines) and C (2-amino pyrimidines), which revealed determinants of activity, cooperativity and specificity. Structural optimization of original hits resulted in analog B2, which substantially enhances signaling of truncated secretin peptides and prolongs residence time of labeled secretin up to 13-fold in a dose-dependent manner. Furthermore, we found that investigated compounds display structural similarity to positive allosteric modulators (PAMs) active at the glucagon-like peptide-1 receptor (GLP-1R), and we were able to confirm cross-recognition of that receptor by a subset of analogs. Studies using SCTR and GLP-1R mutants revealed that scaffold A, but not B and C, likely acts via two distinct mechanisms, one of which constitutes covalent modification of Cys-347",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"glucagon like peptide 1 receptor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "glucagon like peptide 1 receptor"
+    },
+    {
+        "Title": "Discovery of small molecule positive allosteric modulators of the secretin receptor.",
+        "Journal Name": "Biochemical pharmacology",
+        "PMID": "33545115",
+        "PMC": "PMC8146373",
+        "DOI": "10.1016/j.bcp.2021.114451",
+        "Release Date": "03-02-2021",
+        "Abstract": "The secretin receptor (SCTR) is a prototypic Class B1 G protein-coupled receptor (GPCR) that represents a key target for the development of therapeutics for the treatment of cardiovascular, gastrointestinal, and metabolic disorders. However, no non-peptidic molecules targeting this receptor have yet been disclosed. Using a high-throughput screening campaign directed at SCTR to identify small molecule modulators, we have identified three structurally related scaffolds positively modulating SCTRs. Here we outline a comprehensive study comprising a structure-activity series based on commercially available analogs of the three hit scaffold sets A (2-sulfonyl pyrimidines), B (2-mercapto pyrimidines) and C (2-amino pyrimidines), which revealed determinants of activity, cooperativity and specificity. Structural optimization of original hits resulted in analog B2, which substantially enhances signaling of truncated secretin peptides and prolongs residence time of labeled secretin up to 13-fold in a dose-dependent manner. Furthermore, we found that investigated compounds display structural similarity to positive allosteric modulators (PAMs) active at the glucagon-like peptide-1 receptor (GLP-1R), and we were able to confirm cross-recognition of that receptor by a subset of analogs. Studies using SCTR and GLP-1R mutants revealed that scaffold A, but not B and C, likely acts via two distinct mechanisms, one of which constitutes covalent modification of Cys-347",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"GLP1R\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "GLP1R"
+    }
+]

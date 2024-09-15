@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "The active site structure and catalytic mechanism of arsenite oxidase.",
+        "Journal Name": "Scientific reports",
+        "PMID": "28496149",
+        "PMC": "PMC5432002",
+        "DOI": "10.1038/s41598-017-01840-y",
+        "Release Date": "11-05-2017",
+        "Abstract": "Arsenite oxidase is thought to be an ancient enzyme, originating before the divergence of the Archaea and the Bacteria. We have investigated the nature of the molybdenum active site of the arsenite oxidase from the Alphaproteobacterium Rhizobium sp. str. NT-26 using a combination of X-ray absorption spectroscopy and computational chemistry. Our analysis indicates an oxidized Mo(VI) active site with a structure that is far from equilibrium. We propose that this is an entatic state imposed by the protein on the active site through relative orientation of the two molybdopterin cofactors, in a variant of the Rây-Dutt twist of classical coordination chemistry, which we call the pterin twist hypothesis. We discuss the implications of this hypothesis for other putatively ancient molybdopterin-based enzymes.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"p41\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "p41"
+    }
+]

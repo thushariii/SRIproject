@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Activation of integrin and ceramide signalling pathways can inhibit the mitogenic effect of insulin-like growth factor I (IGF-I) in human breast cancer cell lines.",
+        "Journal Name": "British journal of cancer",
+        "PMID": "10070857",
+        "PMC": "PMC2362662",
+        "DOI": "10.1038/sj.bjc.6690113",
+        "Release Date": "--",
+        "Abstract": "Cell counting, cell cycle analysis and Western immunoblotting were used to examine the effects of non-apoptotic doses of a ceramide analogue, C2, and a synthetic arginine-glycine-aspartic acid (RGD)-containing peptide, RGD, in MCF-7 and T47D cells to determine whether activation of these signalling pathways could alter the mitogenic potential of insulin-like growth factor I (IGF-I). IGF-I alone increased total cell number in both cell lines, associated with a rise in the percentage of cells in the S-phase of the cell cycle and a co-incident increase in cyclin A production. Treatments alone had no effects on cell number or cyclin A production relative to controls. C2 inhibited IGF-I-induced mitogenesis in both lines, whereas RGD was only effective in the T47D line. Despite inhibition of cell proliferation, IGF-I stimulation of cells in S-phase and of cyclin A levels were unaffected; however, an IGF-I-induced increase in cyclin B1 levels was inhibited by 30%. Low-dose induction of integrin and ceramide signalling pathways causes cells to be blocked in S-phase, thereby inhibiting the normal cycle of events associated with the IGF-I-induced mitotic signal. Activating these pathways may not only restrict tumour growth by induction of apoptosis but they may also directly inhibit IGF-I-induced cell proliferation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclin-A\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Cyclin-A"
+    }
+]

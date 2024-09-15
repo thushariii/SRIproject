@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Apoptosis Induction by New Coumarin Derivatives in a Mice Model of Breast Cancer.",
+        "Journal Name": "Archives of Razi Institute",
+        "PMID": "38590672",
+        "PMC": "PMC10998944",
+        "DOI": "10.22092/ARI.2023.78.5.1430",
+        "Release Date": "31-10-2023",
+        "Abstract": "In the last decades, numerous studies have focused on the search for new agents to suppress the growth of cancer cells. In this study, we investigated the effect of two novel synthetic coumarin derivatives, namely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"bHLHe39\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "bHLHe39"
+    },
+    {
+        "Title": "Apoptosis Induction by New Coumarin Derivatives in a Mice Model of Breast Cancer.",
+        "Journal Name": "Archives of Razi Institute",
+        "PMID": "38590672",
+        "PMC": "PMC10998944",
+        "DOI": "10.22092/ARI.2023.78.5.1430",
+        "Release Date": "31-10-2023",
+        "Abstract": "In the last decades, numerous studies have focused on the search for new agents to suppress the growth of cancer cells. In this study, we investigated the effect of two novel synthetic coumarin derivatives, namely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"bHLHe39\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "bHLHe39"
+    },
+    {
+        "Title": "Apoptosis Induction by New Coumarin Derivatives in a Mice Model of Breast Cancer.",
+        "Journal Name": "Archives of Razi Institute",
+        "PMID": "38590672",
+        "PMC": "PMC10998944",
+        "DOI": "10.22092/ARI.2023.78.5.1430",
+        "Release Date": "31-10-2023",
+        "Abstract": "In the last decades, numerous studies have focused on the search for new agents to suppress the growth of cancer cells. In this study, we investigated the effect of two novel synthetic coumarin derivatives, namely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"bHLHe39\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "bHLHe39"
+    },
+    {
+        "Title": "Drug Discovery Targeting the Disorder-To-Order Transition Regions through the Conformational Diversity Mimicking and Statistical Analysis.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "32722024",
+        "PMC": "PMC7432763",
+        "DOI": "10.3390/ijms21155248",
+        "Release Date": "24-07-2020",
+        "Abstract": "Intrinsically disordered proteins exist as highly dynamic conformational ensembles of diverse forms. However, the majority of virtual screening only focuses on proteins with defined structures. This means that computer-aided drug discovery is restricted. As a breakthrough, understanding the structural characteristics of intrinsically disordered proteins and its application can open the gate for unrestricted drug discovery. First, we segmented the target disorder-to-order transition region into a series of overlapping 20-amino-acid-long peptides. Folding prediction generated diverse conformations of these peptides. Next, we applied molecular docking, new evaluation score function, and statistical analysis. This approach successfully distinguished known compounds and their corresponding binding regions. Especially, Myc proto-oncogene protein (MYC) inhibitor 10058F4 was well distinguished from others of the chemical compound library. We also studied differences between the two Methyl-CpG-binding domain protein 2 (MBD2) inhibitors (ABA (2-amino-N-[[(3S)-2,3-dihydro-1,4-benzodioxin-3-yl]methyl]-acetamide) and APC ((R)-(3-(2-Amino-acetylamino)-pyrrolidine-1-carboxylic acid tert-butyl ester))). Both compounds bind MBD2 through electrostatic interaction behind its p66α-binding site. ABA is also able to bind p66α through electrostatic interaction behind its MBD2-binding site while APC-p66α binding was nonspecific. Therefore, structural heterogeneity mimicking of the disorder-to-order transition region at the peptide level and utilization of the new docking score function represent a useful approach that can efficiently discriminate compounds for expanded virtual screening toward intrinsically disordered proteins.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Myc proto-oncogene protein\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Myc proto-oncogene protein"
+    }
+]

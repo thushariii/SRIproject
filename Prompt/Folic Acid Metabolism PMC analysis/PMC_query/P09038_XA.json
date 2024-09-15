@@ -1,0 +1,62 @@
+[
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"bFGF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "bFGF"
+    },
+    {
+        "Title": "Effect of Whole Tissue Culture and Basic Fibroblast Growth Factor on Maintenance of Tie2 Molecule Expression in Human Nucleus Pulposus Cells.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "33946902",
+        "PMC": "PMC8124367",
+        "DOI": "10.3390/ijms22094723",
+        "Release Date": "29-04-2021",
+        "Abstract": "Previous work showed a link between Tie2",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Basic fibroblast growth factor\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Basic fibroblast growth factor"
+    },
+    {
+        "Title": "Down-regulation by resveratrol of basic fibroblast growth factor-stimulated osteoprotegerin synthesis through suppression of Akt in osteoblasts.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "25290095",
+        "PMC": "PMC4227195",
+        "DOI": "10.3390/ijms151017886",
+        "Release Date": "06-10-2014",
+        "Abstract": "It is firmly established that resveratrol, a natural food compound abundantly found in grape skins and red wine, has beneficial properties for human health. In the present study, we investigated the effect of basic fibroblast growth factor (FGF-2) on osteoprotegerin (OPG) synthesis in osteoblast-like MC3T3-E1 cells and whether resveratrol affects the OPG synthesis. FGF-2 stimulated both the OPG release and the expression of OPG mRNA. Resveratrol significantly suppressed the FGF-2-stimulated OPG release and the mRNA levels of OPG. SRT1720, an activator of SIRT1, reduced the FGF-2-induced OPG release and the OPG mRNA expression. PD98059, an inhibitor of upstream kinase activating p44/p42 mitogen-activated protein (MAP) kinase, had little effect on the FGF-2-stimulated OPG release. On the other hand, SB203580, an inhibitor of p38 MAP kinase, SP600125, an inhibitor of stress-activated protein kinase/c-Jun N-terminal kinase (SAPK/JNK), and Akt inhibitor suppressed the OPG release induced by FGF-2. Resveratrol failed to affect the FGF-2-induced phosphorylation of p44/p42 MAP kinase, p38 MAP kinase or SAPK/JNK. The phosphorylation of Akt induced by FGF-2 was significantly suppressed by resveratrol or SRT1720. These findings strongly suggest that resveratrol down-regulates FGF-2-stimulated OPG synthesis through the suppression of the Akt pathway in osteoblasts and that the inhibitory effect of resveratrol is mediated at least in part by SIRT1 activation.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"FGF-2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "FGF-2"
+    },
+    {
+        "Title": "Effect of Whole Tissue Culture and Basic Fibroblast Growth Factor on Maintenance of Tie2 Molecule Expression in Human Nucleus Pulposus Cells.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "33946902",
+        "PMC": "PMC8124367",
+        "DOI": "10.3390/ijms22094723",
+        "Release Date": "29-04-2021",
+        "Abstract": "Previous work showed a link between Tie2",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"FGF2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "FGF2"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Drug design, development and therapy",
+        "PMID": "37954484",
+        "PMC": "PMC10638910",
+        "DOI": "10.2147/DDDT.S426345",
+        "Release Date": "07-11-2023",
+        "Abstract": "Combination of",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"BFGF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "BFGF"
+    }
+]

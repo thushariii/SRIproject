@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Fluid shear stress activation of egr-1 transcription in cultured human endothelial and epithelial cells is mediated via the extracellular signal-related kinase 1/2 mitogen-activated protein kinase pathway.",
+        "Journal Name": "The Journal of clinical investigation",
+        "PMID": "9616225",
+        "PMC": "PMC508843",
+        "DOI": "10.1172/JCI1404",
+        "Release Date": "--",
+        "Abstract": "The primary response transcription factor, early growth response-1 (Egr-1), is rapidly activated by a variety of extracellular stimuli. Egr-1 binds to a sequence found in the promoters of genes involved in vascular injury, such as PDGF-A and tissue factor, and trans-activates their expression in endothelial cells in response to fluid shear stress. Here we show that egr-1 mRNA is increased after 30 min of flow in human aortic endothelial cell and HeLa cell cultures. Transient transfection of HeLa cells with reporter gene constructs driven by the murine or human egr-1 5' flanking sequence revealed a five- and ninefold induction, respectively, in transcriptional activity after exposure to a shear stress of 5 dynes/cm2 for 3 h. Deletion of sequences in the murine promoter containing two AP1 sites and an inhibitory Egr-1 binding sequence, did not reduce shear stress inducibility. However, progressive deletion of five serum response elements, reduced both the basal promoter activity and its capacity to be activated by shear stress. Further examination indicated that the three upstream serum response elements are predominantly responsible for shear stress activation of the egr-1 promoter. Treatment of cells with PD98059, a specific inhibitor of mitogen-activated protein kinase-1 inhibited shear stress activation of egr-1. We suggest that egr-1 activation by shear stress involves activation of Elk-1 but not c-jun activity. These data, which are consistent with previous findings for shear mediated signaling via the mitogen-activated protein kinase cascade, now implicate shear modulation of the Egr-1 transcription factor in this pathway.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PDGF-A\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "PDGF-A"
+    }
+]

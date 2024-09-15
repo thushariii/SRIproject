@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Mulberry leaf and konjac flour compound dietary fiber improves digestion and metabolism in elderly mice with high-fish-protein diet by regulating gut microbiota structure and intestinal tissue repair.",
+        "Journal Name": "Food chemistry: X",
+        "PMID": "38550885",
+        "PMC": "PMC10972792",
+        "DOI": "10.1016/j.fochx.2024.101295",
+        "Release Date": "16-03-2024",
+        "Abstract": "Ensuring sufficient protein intake, efficient digestion, and optimal absorption are crucial for the elderly. This study aims to investigate the potential of a compound dietary fiber, consisting of mulberry leaf and konjac flour (CMK), to enhance the digestion and absorption of a high-fish-protein diet in elderly mice. Results showed that CMK effectively reduced the number of unique peptide segments, generated short-chain fatty acids (SCFA) in feces, improved the content of glutamic pyruvic transaminase (GPT), glutamic oxaloacetic transaminase (GOT), amino acid, and urea nitrogen in serum, activated the contents of pepsin, trypsin, and erepsin, and enhanced the expression of glutamate dehydrogenase (GDH), peptide transporter 1 (PepT1), and aminopeptidase N (APN). Furthermore, CMK demonstrated its ability to decrease the levels of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), interleukin-10 (IL-10), lipopolysaccharide (LPS), and lipopolysaccharide binding protein (LBP), while increase the abundance of beneficial bacteria, such as",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"interleukin 10\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "interleukin 10"
+    },
+    {
+        "Title": "Mulberry leaf and konjac flour compound dietary fiber improves digestion and metabolism in elderly mice with high-fish-protein diet by regulating gut microbiota structure and intestinal tissue repair.",
+        "Journal Name": "Food chemistry: X",
+        "PMID": "38550885",
+        "PMC": "PMC10972792",
+        "DOI": "10.1016/j.fochx.2024.101295",
+        "Release Date": "16-03-2024",
+        "Abstract": "Ensuring sufficient protein intake, efficient digestion, and optimal absorption are crucial for the elderly. This study aims to investigate the potential of a compound dietary fiber, consisting of mulberry leaf and konjac flour (CMK), to enhance the digestion and absorption of a high-fish-protein diet in elderly mice. Results showed that CMK effectively reduced the number of unique peptide segments, generated short-chain fatty acids (SCFA) in feces, improved the content of glutamic pyruvic transaminase (GPT), glutamic oxaloacetic transaminase (GOT), amino acid, and urea nitrogen in serum, activated the contents of pepsin, trypsin, and erepsin, and enhanced the expression of glutamate dehydrogenase (GDH), peptide transporter 1 (PepT1), and aminopeptidase N (APN). Furthermore, CMK demonstrated its ability to decrease the levels of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), interleukin-10 (IL-10), lipopolysaccharide (LPS), and lipopolysaccharide binding protein (LBP), while increase the abundance of beneficial bacteria, such as",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin-10\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Interleukin-10"
+    },
+    {
+        "Title": "Dietary Protein Optimization for Growth and Immune Enhancement in Juvenile Hybrid Sturgeon (",
+        "Journal Name": "Biology",
+        "PMID": "38785806",
+        "PMC": "PMC11117904",
+        "DOI": "10.3390/biology13050324",
+        "Release Date": "06-05-2024",
+        "Abstract": "This study aimed to evaluate the effects of dietary protein levels on growth performance, serum indices, body amino acid composition, and intestinal gene expression in juvenile hybrid sturgeon (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-10\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "IL-10"
+    },
+    {
+        "Title": "Dietary Protein Optimization for Growth and Immune Enhancement in Juvenile Hybrid Sturgeon (",
+        "Journal Name": "Biology",
+        "PMID": "38785806",
+        "PMC": "PMC11117904",
+        "DOI": "10.3390/biology13050324",
+        "Release Date": "06-05-2024",
+        "Abstract": "This study aimed to evaluate the effects of dietary protein levels on growth performance, serum indices, body amino acid composition, and intestinal gene expression in juvenile hybrid sturgeon (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL10\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "IL10"
+    }
+]

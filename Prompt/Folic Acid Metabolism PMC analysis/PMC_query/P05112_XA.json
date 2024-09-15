@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Interleukin (IL)-4 and IL-13 up-regulate monocyte chemoattractant protein-1 expression in human bronchial epithelial cells: involvement of p38 mitogen-activated protein kinase, extracellular signal-regulated kinase 1/2 and Janus kinase-2 but not c-Jun NH2-terminal kinase 1/2 signalling pathways.",
+        "Journal Name": "Clinical and experimental immunology",
+        "PMID": "16792687",
+        "PMC": "PMC1942012",
+        "DOI": "10.1111/j.1365-2249.2006.03085.x",
+        "Release Date": "--",
+        "Abstract": "The Th2 cytokines interleukin (IL)-4 and IL-13 and chemokine monocyte chemoattractant protein-1 (MCP-1) are significantly involved in bronchial hyperreactivity (BHR) and remodelling in allergic asthma. Although IL-4 and IL-13 can regulate a number of chemokines from bronchial epithelium, their regulatory effect on the expression of MCP-1 is as yet unproved. We aim to investigate the intracellular signalling mechanisms of IL-4 and IL-13 regulating the expression and secretion of MCP-1 from human bronchial epithelial cells. BEAS-2B cells, derived from a human bronchial epithelial cell line, were activated with or without IL-4 and/or IL-13 for different time intervals. MCP-1 gene expression and protein secretion were measured by reverse transcription-polymerase chain reaction and enzyme-linked immunosorbent assay, respectively. Activation of signalling molecules p38 mitogen-activated protein kinase (MAPK), extracellular signal-regulated kinase (ERK), c-Jun NH2-terminal kinase (JNK) and Janus kinase-2 (JAK-2) was accessed by Western blotting. IL-4 and IL-13 were found to up-regulate gene expression and significantly increase the release of MCP-1 from BEAS-2B cells. Both cytokines could activate p38 MAPK, ERK and JAK-2, but not JNK activity. Inhibition of p38 MAPK, ERK and JAK-2 activities by pretreating the cells with their corresponding inhibitors SB203580, PD98059 and AG490, respectively, significantly suppressed IL-4- and IL-13-induced MCP-1 production in BEAS-2B cells. Together, the above results illustrate that the activation of p38 MAPK, ERK and JAK-2 but not JNK is crucial for IL-4- and IL-13-induced MCP-1 release in human bronchial epithelial cells. Our findings may provide insight into the future development of more effective therapeutic agents for treating allergic asthma.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin-4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Interleukin-4"
+    },
+    {
+        "Title": "Interleukin (IL)-4 and IL-13 up-regulate monocyte chemoattractant protein-1 expression in human bronchial epithelial cells: involvement of p38 mitogen-activated protein kinase, extracellular signal-regulated kinase 1/2 and Janus kinase-2 but not c-Jun NH2-terminal kinase 1/2 signalling pathways.",
+        "Journal Name": "Clinical and experimental immunology",
+        "PMID": "16792687",
+        "PMC": "PMC1942012",
+        "DOI": "10.1111/j.1365-2249.2006.03085.x",
+        "Release Date": "--",
+        "Abstract": "The Th2 cytokines interleukin (IL)-4 and IL-13 and chemokine monocyte chemoattractant protein-1 (MCP-1) are significantly involved in bronchial hyperreactivity (BHR) and remodelling in allergic asthma. Although IL-4 and IL-13 can regulate a number of chemokines from bronchial epithelium, their regulatory effect on the expression of MCP-1 is as yet unproved. We aim to investigate the intracellular signalling mechanisms of IL-4 and IL-13 regulating the expression and secretion of MCP-1 from human bronchial epithelial cells. BEAS-2B cells, derived from a human bronchial epithelial cell line, were activated with or without IL-4 and/or IL-13 for different time intervals. MCP-1 gene expression and protein secretion were measured by reverse transcription-polymerase chain reaction and enzyme-linked immunosorbent assay, respectively. Activation of signalling molecules p38 mitogen-activated protein kinase (MAPK), extracellular signal-regulated kinase (ERK), c-Jun NH2-terminal kinase (JNK) and Janus kinase-2 (JAK-2) was accessed by Western blotting. IL-4 and IL-13 were found to up-regulate gene expression and significantly increase the release of MCP-1 from BEAS-2B cells. Both cytokines could activate p38 MAPK, ERK and JAK-2, but not JNK activity. Inhibition of p38 MAPK, ERK and JAK-2 activities by pretreating the cells with their corresponding inhibitors SB203580, PD98059 and AG490, respectively, significantly suppressed IL-4- and IL-13-induced MCP-1 production in BEAS-2B cells. Together, the above results illustrate that the activation of p38 MAPK, ERK and JAK-2 but not JNK is crucial for IL-4- and IL-13-induced MCP-1 release in human bronchial epithelial cells. Our findings may provide insight into the future development of more effective therapeutic agents for treating allergic asthma.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin 4\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Interleukin 4"
+    }
+]

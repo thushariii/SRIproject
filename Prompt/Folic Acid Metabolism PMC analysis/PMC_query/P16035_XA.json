@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Praeruptorin A Inhibits Human Cervical Cancer Cell Growth and Invasion by Suppressing MMP-2 Expression and ERK1/2 Signaling.",
+        "Journal Name": "International journal of molecular sciences",
+        "PMID": "29267213",
+        "PMC": "PMC5795962",
+        "DOI": "10.3390/ijms19010010",
+        "Release Date": "21-12-2017",
+        "Abstract": "Praeruptorin A (PA) is a pyranocumarin present in the dried root of Peucedanumpraeruptorum Dunn that has anticancer effects against several types of cells. However, the effect of PA on human cervical cancer cells is unknown. Our results indicate that PA significantly inhibited cell proliferation, colony formation, migration, invasion, and wound closure of HeLa and SiHa cells, induced cell cycle arrest at G0/G1 phase, upregulated Rb, p16, p21 and p27 proteins and downregulated cyclin D1 and S-phase kinase-associated protein 2 (Skp2) proteins. PA also significantly reduced expression of matrix metalloproteinase-2 (MMP-2) and increased expression of tissue inhibitor of metalloproteinase-2 (TIMP-2). In addition, PA suppressed ERK1/2 activation and increased the effect of PD98059 (a specific MEK1/2 inhibitor) in downregulation of MMP-2 and upregulation of TIMP-2. PA treatment inhibited the effect of 12-",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"TIMP-2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "TIMP-2"
+    }
+]

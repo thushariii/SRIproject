@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Agonistic analogs of growth hormone releasing hormone (GHRH) promote wound healing by stimulating the proliferation and survival of human dermal fibroblasts through ERK and AKT pathways.",
+        "Journal Name": "Oncotarget",
+        "PMID": "27494841",
+        "PMC": "PMC5288139",
+        "DOI": "10.18632/oncotarget.11024",
+        "Release Date": "--",
+        "Abstract": "Decreased or impaired proliferation capability of dermal fibroblasts interferes with successful wound healing. Several growth factors tested failed to fully restore the growth of fibroblasts, possibly due to their rapid degradation by proteases. It is therefore critical to find new agents which have stimulatory effects on fibroblasts while being highly resistant to degradation. In such a scenario, the activities of two agonistic analogs of growth hormone releasing hormone (GHRH), MR-409 and MR-502, were evaluated for their impact on proliferation and survival of primary human dermal fibroblasts. In vitro, both analogs significantly stimulated cell growth by more than 50%. Under serum-depletion induced stress, fibroblasts treated with MR-409 or MR-502 demonstrated better survival rates than control. These effects can be inhibited by either PD98059 or wortmannin. Signaling through MEK/ERK1/2 and PI3K/AKT in an IGF-1 receptor-independent manner is required. In vivo, MR-409 promoted wound closure. Animals treated topically with MR-409 healed earlier than controls in a dose-dependent manner. Histologic examination revealed better wound contraction and less fibrosis in treated groups. In conclusion, MR-409 is a potent mitogenic and anti-apoptotic factor for primary human dermal fibroblasts. Its beneficial effects on wound healing make it a promising agent for future development.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IGF\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IGF"
+    },
+    {
+        "Title": "Potent antitumor activity of the novel HSP90 inhibitors AUY922 and HSP990 in neuroendocrine carcinoid cells.",
+        "Journal Name": "International journal of oncology",
+        "PMID": "24100469",
+        "PMC": "PMC3834873",
+        "DOI": "10.3892/ijo.2013.2130",
+        "Release Date": "04-10-2013",
+        "Abstract": "The heat shock protein (HSP) 90 chaperone machine involved in numerous oncogenic signaling pathways is overexpressed in cancer cells and is currently being evaluated for anticancer therapy. Neuroendocrine tumors (NETs) of the gastroenteropancreatic (GEP) system comprise a heterogeneous group of tumors with increasing incidence and poor prognosis. Here, we report the antiproliferative effects of the HSP90 inhibitors AUY922 and HSP990 in neuroendocrine tumor cells. Treatment of human pancreatic BON1, bronchopulmonary NCI-H727 and midgut carcinoid GOT1 neuroendocrine tumor cells with increasing concentrations of AUY922 and HSP990 dose-dependently suppressed cell viability. Significant effects on neuroendocrine cell viability were observed with inhibitor concentrations as low as 5 nM. Inhibition of cell viability was associated with the induction of apoptosis as demonstrated by an increase in sub-G1 events and PARP cleavage. HSP90 inhibition was associated with decreased neuroendocrine ErbB and IGF-I receptor expression, decreased Erk and Akt phospho-rylation and the induction of HSP70 expression. These findings provide evidence that targeted inhibition of upregulated HSP90 activity could be useful for the treatment of aggressive neuroendocrine tumors resistant to conventional therapy.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IGF-I\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IGF-I"
+    },
+    {
+        "Title": "Involvement of chloride channels in IGF-I-induced proliferation of porcine arterial smooth muscle cells.",
+        "Journal Name": "Cardiovascular research",
+        "PMID": "17126821",
+        "PMC": "PMC1852543",
+        "DOI": "10.1016/j.cardiores.2006.10.012",
+        "Release Date": "27-10-2006",
+        "Abstract": "The existence of Cl- channels in vascular smooth muscle cells (VSMCs) has been increasingly investigated, but the biological functions are not yet clear. Insulin-like growth factor (IGF)-I affects proliferation and migration of VSMCs, and dysregulation of this axis may be involved in atherogenesis and intimal hyperplasia. We examined the effects of Cl- channel blockers on IGF-I-induced proliferation in porcine VSMCs. The siRNA approach was used to support the role of ClC-2, a member of the volume-regulated Cl- channel family, in cell proliferation of VSMCs.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IGF-I\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IGF-I"
+    },
+    {
+        "Title": "ZEB1 protects skeletal muscle from damage and is required for its regeneration.",
+        "Journal Name": "Nature communications",
+        "PMID": "30910999",
+        "PMC": "PMC6434033",
+        "DOI": "10.1038/s41467-019-08983-8",
+        "Release Date": "25-03-2019",
+        "Abstract": "The mechanisms linking muscle injury and regeneration are not fully understood. Here we report an unexpected role for ZEB1 regulating inflammatory and repair responses in dystrophic and acutely injured muscles. ZEB1 is upregulated in the undamaged and regenerating myofibers of injured muscles. Compared to wild-type counterparts, Zeb1-deficient injured muscles exhibit enhanced damage that corresponds with a retarded p38-MAPK-dependent transition of their macrophages towards an anti-inflammatory phenotype. Zeb1-deficient injured muscles also display a delayed and poorer regeneration that is accounted by the retarded anti-inflammatory macrophage transition and their intrinsically deficient muscle satellite cells (MuSCs). Macrophages in Zeb1-deficient injured muscles show lower phosphorylation of p38 and its forced activation reverts the enhanced muscle damage and poorer regeneration. MuSCs require ZEB1 to maintain their quiescence, prevent their premature activation following injury, and drive efficient regeneration in dystrophic muscles. These data indicate that ZEB1 protects muscle from damage and is required for its regeneration.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"insulin like growth factor 1\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "insulin like growth factor 1"
+    },
+    {
+        "Title": "ZEB1 protects skeletal muscle from damage and is required for its regeneration.",
+        "Journal Name": "Nature communications",
+        "PMID": "30910999",
+        "PMC": "PMC6434033",
+        "DOI": "10.1038/s41467-019-08983-8",
+        "Release Date": "25-03-2019",
+        "Abstract": "The mechanisms linking muscle injury and regeneration are not fully understood. Here we report an unexpected role for ZEB1 regulating inflammatory and repair responses in dystrophic and acutely injured muscles. ZEB1 is upregulated in the undamaged and regenerating myofibers of injured muscles. Compared to wild-type counterparts, Zeb1-deficient injured muscles exhibit enhanced damage that corresponds with a retarded p38-MAPK-dependent transition of their macrophages towards an anti-inflammatory phenotype. Zeb1-deficient injured muscles also display a delayed and poorer regeneration that is accounted by the retarded anti-inflammatory macrophage transition and their intrinsically deficient muscle satellite cells (MuSCs). Macrophages in Zeb1-deficient injured muscles show lower phosphorylation of p38 and its forced activation reverts the enhanced muscle damage and poorer regeneration. MuSCs require ZEB1 to maintain their quiescence, prevent their premature activation following injury, and drive efficient regeneration in dystrophic muscles. These data indicate that ZEB1 protects muscle from damage and is required for its regeneration.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Insulin-like growth factor I\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Insulin-like growth factor I"
+    },
+    {
+        "Title": "Increased nuclear stiffness via FAK-ERK1/2 signaling is necessary for synthetic mechano-growth factor E peptide-induced tenocyte migration.",
+        "Journal Name": "Scientific reports",
+        "PMID": "26742689",
+        "PMC": "PMC4705462",
+        "DOI": "10.1038/srep18809",
+        "Release Date": "08-01-2016",
+        "Abstract": "We have previously reported that a synthetic mechano-growth factor (MGF) C-terminal E-domain with 25 amino acids (MGF-C25E) promotes rat tenocyte migration through the FAK-ERK1/2 signaling pathway. However, the role of the nucleus in MGF-C25E-promoted tenocyte migration and the molecular mechanisms involved remain unclear. In this study, we demonstrate that MGF-C25E increases the Young's modulus of tenocytes through the FAK-ERK1/2 signaling pathway. This increase is not accompanied by an obvious change in the expression of Lamin A/C but is accompanied by significant chromatin condensation, indicating that MGF-C25E-induced chromatin condensation may contribute to the increased nuclear stiffness. Moreover, DNA methylation is observed in MGF-C25E-treated tenocytes. Inhibition of DNA methylation suppresses the elevation in chromatin condensation, in nuclear stiffness, and in tenocyte migration induced by MGF-C25E. The inhibition of the focal adhesion kinase (FAK) or extracellular signal regulated kinase 1/2 (ERK1/2) signals represses MGF-C25E-promoted DNA methylation. It also abolishes chromatin condensation, nuclear stiffness, and cell migration. Taken together, our results suggest that MGF-C25E promotes tenocyte migration by increasing nuclear stiffness via the FAK-ERK1/2 signaling pathway. This provides strong evidence for the role of nuclear mechanics in tenocyte migration and new insight into the molecular mechanisms of MGF-promoted tenocyte migration.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Insulin-like growth factor I\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Insulin-like growth factor I"
+    }
+]

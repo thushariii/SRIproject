@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Direct coordination of pterin to Fe",
+        "Journal Name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "PMID": "33876764",
+        "PMC": "PMC8053929",
+        "DOI": "10.1073/pnas.2022379118",
+        "Release Date": "--",
+        "Abstract": "The pterin-dependent nonheme iron enzymes hydroxylate aromatic amino acids to perform the biosynthesis of neurotransmitters to maintain proper brain function. These enzymes activate oxygen using a pterin cofactor and an aromatic amino acid substrate bound to the Fe",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Zinc finger protein HZF8\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "Zinc finger protein HZF8"
+    }
+]

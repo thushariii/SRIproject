@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Therapeutic targeting of PELP1 prevents ovarian cancer growth and metastasis.",
+        "Journal Name": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "PMID": "21421858",
+        "PMC": "PMC3731129",
+        "DOI": "10.1158/1078-0432.CCR-10-2718",
+        "Release Date": "18-03-2011",
+        "Abstract": "Ovarian cancer remains a major threat to women's health, partly due to difficulty in early diagnosis and development of metastases. A critical need exists to identify novel targets that curb the progression and metastasis of ovarian cancer. In this study, we examined whether the nuclear receptor coregulator PELP1 (proline-, glutamic acid-, leucine-rich protein-1) contributes to progression and metastatic potential of ovarian cancer cells and determined whether blocking of the PELP1 signaling axis had a therapeutic effect.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"MMP-2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "MMP-2"
+    },
+    {
+        "Title": "Therapeutic targeting of PELP1 prevents ovarian cancer growth and metastasis.",
+        "Journal Name": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "PMID": "21421858",
+        "PMC": "PMC3731129",
+        "DOI": "10.1158/1078-0432.CCR-10-2718",
+        "Release Date": "18-03-2011",
+        "Abstract": "Ovarian cancer remains a major threat to women's health, partly due to difficulty in early diagnosis and development of metastases. A critical need exists to identify novel targets that curb the progression and metastasis of ovarian cancer. In this study, we examined whether the nuclear receptor coregulator PELP1 (proline-, glutamic acid-, leucine-rich protein-1) contributes to progression and metastatic potential of ovarian cancer cells and determined whether blocking of the PELP1 signaling axis had a therapeutic effect.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Matrix metalloproteinase-2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Matrix metalloproteinase-2"
+    }
+]

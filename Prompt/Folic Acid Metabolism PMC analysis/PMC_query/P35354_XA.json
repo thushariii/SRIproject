@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Design, synthesis, biological and computational screening of novel pyridine-based thiadiazole derivatives as prospective anti-inflammatory agents.",
+        "Journal Name": "Heliyon",
+        "PMID": "38655368",
+        "PMC": "PMC11036016",
+        "DOI": "10.1016/j.heliyon.2024.e29390",
+        "Release Date": "09-04-2024",
+        "Abstract": "In this study, a novel series of pyridine-based thiadiazole derivatives (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Cyclooxygenase-2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Cyclooxygenase-2"
+    },
+    {
+        "Title": "Apoptosis Induction by New Coumarin Derivatives in a Mice Model of Breast Cancer.",
+        "Journal Name": "Archives of Razi Institute",
+        "PMID": "38590672",
+        "PMC": "PMC10998944",
+        "DOI": "10.22092/ARI.2023.78.5.1430",
+        "Release Date": "31-10-2023",
+        "Abstract": "In the last decades, numerous studies have focused on the search for new agents to suppress the growth of cancer cells. In this study, we investigated the effect of two novel synthetic coumarin derivatives, namely",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"COX-2\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "COX-2"
+    },
+    {
+        "Title": "Design, synthesis, biological and computational screening of novel pyridine-based thiadiazole derivatives as prospective anti-inflammatory agents.",
+        "Journal Name": "Heliyon",
+        "PMID": "38655368",
+        "PMC": "PMC11036016",
+        "DOI": "10.1016/j.heliyon.2024.e29390",
+        "Release Date": "09-04-2024",
+        "Abstract": "In this study, a novel series of pyridine-based thiadiazole derivatives (",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"COX-2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "COX-2"
+    },
+    {
+        "Title": "Growth factor regulation of prostaglandin-endoperoxide synthase 2 (Ptgs2) expression in colonic mesenchymal stem cells.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "20018844",
+        "PMC": "PMC2836106",
+        "DOI": "10.1074/jbc.M109.032672",
+        "Release Date": "14-12-2009",
+        "Abstract": "We previously found that a population of colonic stromal cells that constitutively express high levels of prostaglandin-endoperoxide synthase 2 (Ptgs2, also known as Cox-2) altered their location in the lamina propria in response to injury in a Myd88-dependent manner (Brown, S. L., Riehl, T. E., Walker, M. R., Geske, M. J., Doherty, J. M., Stenson, W. F., and Stappenbeck, T. S. (2007) J. Clin. Invest. 117, 258-269). At the time of this study, the identity of these cells and the mechanism by which they expressed high levels of Ptgs2 were unknown. Here we found that these colonic stromal cells were mesenchymal stem cells (MSCs). These colonic MSCs expressed high Ptgs2 levels not through interaction with bacterial products but instead as a consequence of mRNA stabilization downstream of Fgf9 (fibroblast growth factor 9), a growth factor that is constitutively expressed by the intestinal epithelium. This stabilization was mediated partially through a mechanism involving endogenous CUG-binding protein 2 (CUGbp2). These studies suggest that Fgf9 is an important factor in the regulation of Ptgs2 in colonic MSCs and may be a factor involved in its constitutive expression in vivo.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Prostaglandin-endoperoxide synthase 2\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Prostaglandin-endoperoxide synthase 2"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Quantitative N-glycoproteome analysis of bovine milk and yogurt.",
+        "Journal Name": "Current research in food science",
+        "PMID": "35072106",
+        "PMC": "PMC8763629",
+        "DOI": "10.1016/j.crfs.2022.01.003",
+        "Release Date": "12-01-2022",
+        "Abstract": "Post-translational modification structure of food's proteins might be changed during processing, thereby affecting the nutritional characteristics of the food product. In this study, differences in protein N-glycosylation patterns between milk and yogurt were quantitatively compared based on glycopeptide enrichment, liquid chromatography separation, and tandem mass spectrometry analysis. A total of 181 N-glycosites were identified, among which 142 were quantified in milk and yogurt. Significant alterations in the abundance of 13 of these N-glycosites were evident after the fermentation of milk into yogurt. Overall, the N-glycosylation status of the majority of milk proteins remained relatively unchanged in yogurt, suggesting that their conformations, activities, and functions were maintained despite the fermentation process. Among the main milk proteins, N",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Transforming growth factor beta-1 proprotein\") AND (\"2-Amino-4-hydroxypterin-6-carboxylic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4-hydroxypterin-6-carboxylic acid",
+        "Query_ProteinName": "Transforming growth factor beta-1 proprotein"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Basement membrane chondroitin sulfate proteoglycan alterations in a rat model of polycystic kidney disease.",
+        "Journal Name": "The American journal of pathology",
+        "PMID": "7510458",
+        "PMC": "PMC1887104",
+        "DOI": "",
+        "Release Date": "--",
+        "Abstract": "Alterations in basement membrane components, notably proteoglycans, in a rat model of polycystic kidney disease have been investigated. Rats were fed phenol II (2-amino-4-hydroxyphenyl-5-phenyl thiazole) for 4 days and then changed to normal diet for a 7-day recovery period. Marked dilation of distal tubules and collecting ducts was observed by 4 days with phenol II treatment, but the morphology returned to normal after 7 days of subsequent normal diet. Staining of tissue sections with two mouse monoclonal antibodies to a recently described basement membrane chondroitin sulfate proteoglycan (BM-CSPG) core protein was markedly diminished in the basement membranes of dilated cystic tubules. Reduction in staining was evident as early as 2 days. During recovery, BM-CSPG increased in tubular basement membranes and returned to normal after 7 days. Staining with a polyclonal antibody to chondroitin sulfate chains confirmed these changes in cystic tubule basement membranes. During the recovery stage, interstitial chondroitin sulfate (representing a CSPG other than BM-CSPG) was greatly increased around these tubules, along with the glycoprotein fibronectin. Staining with antibody to a basement membrane heparan sulfate proteoglycan core protein related to perlecan did not diminish but rather stained affected tubules intensely, whereas laminin, on the other hand, was apparently diminished in the basement membranes of the cystic tubules. Type IV collagen staining did not change through disease onset or recovery. These results suggest that BM-CSPG, which was rapidly altered in distribution through the onset and recovery phases, may be a sensitive marker of the cystic state, and in addition, the expression of basement membrane proteoglycans may be specifically and separately regulated in this disease.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Laminin\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "Laminin"
+    },
+    {
+        "Title": "Basement membrane chondroitin sulfate proteoglycan alterations in a rat model of polycystic kidney disease.",
+        "Journal Name": "The American journal of pathology",
+        "PMID": "7510458",
+        "PMC": "PMC1887104",
+        "DOI": "",
+        "Release Date": "--",
+        "Abstract": "Alterations in basement membrane components, notably proteoglycans, in a rat model of polycystic kidney disease have been investigated. Rats were fed phenol II (2-amino-4-hydroxyphenyl-5-phenyl thiazole) for 4 days and then changed to normal diet for a 7-day recovery period. Marked dilation of distal tubules and collecting ducts was observed by 4 days with phenol II treatment, but the morphology returned to normal after 7 days of subsequent normal diet. Staining of tissue sections with two mouse monoclonal antibodies to a recently described basement membrane chondroitin sulfate proteoglycan (BM-CSPG) core protein was markedly diminished in the basement membranes of dilated cystic tubules. Reduction in staining was evident as early as 2 days. During recovery, BM-CSPG increased in tubular basement membranes and returned to normal after 7 days. Staining with a polyclonal antibody to chondroitin sulfate chains confirmed these changes in cystic tubule basement membranes. During the recovery stage, interstitial chondroitin sulfate (representing a CSPG other than BM-CSPG) was greatly increased around these tubules, along with the glycoprotein fibronectin. Staining with antibody to a basement membrane heparan sulfate proteoglycan core protein related to perlecan did not diminish but rather stained affected tubules intensely, whereas laminin, on the other hand, was apparently diminished in the basement membranes of the cystic tubules. Type IV collagen staining did not change through disease onset or recovery. These results suggest that BM-CSPG, which was rapidly altered in distribution through the onset and recovery phases, may be a sensitive marker of the cystic state, and in addition, the expression of basement membrane proteoglycans may be specifically and separately regulated in this disease.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Laminin\") AND (\"2-Amino-4,6-dihydroxypteridine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-dihydroxypteridine",
+        "Query_ProteinName": "Laminin"
+    },
+    {
+        "Title": "ZEB1 protects skeletal muscle from damage and is required for its regeneration.",
+        "Journal Name": "Nature communications",
+        "PMID": "30910999",
+        "PMC": "PMC6434033",
+        "DOI": "10.1038/s41467-019-08983-8",
+        "Release Date": "25-03-2019",
+        "Abstract": "The mechanisms linking muscle injury and regeneration are not fully understood. Here we report an unexpected role for ZEB1 regulating inflammatory and repair responses in dystrophic and acutely injured muscles. ZEB1 is upregulated in the undamaged and regenerating myofibers of injured muscles. Compared to wild-type counterparts, Zeb1-deficient injured muscles exhibit enhanced damage that corresponds with a retarded p38-MAPK-dependent transition of their macrophages towards an anti-inflammatory phenotype. Zeb1-deficient injured muscles also display a delayed and poorer regeneration that is accounted by the retarded anti-inflammatory macrophage transition and their intrinsically deficient muscle satellite cells (MuSCs). Macrophages in Zeb1-deficient injured muscles show lower phosphorylation of p38 and its forced activation reverts the enhanced muscle damage and poorer regeneration. MuSCs require ZEB1 to maintain their quiescence, prevent their premature activation following injury, and drive efficient regeneration in dystrophic muscles. These data indicate that ZEB1 protects muscle from damage and is required for its regeneration.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Laminin\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Laminin"
+    }
+]

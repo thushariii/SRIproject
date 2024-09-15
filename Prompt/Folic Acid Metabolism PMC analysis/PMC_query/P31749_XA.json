@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Allosteric modulation of [3H]-CGP39653 binding through the glycine site of the NMDA receptor: further studies in rat and human brain.",
+        "Journal Name": "British journal of pharmacology",
+        "PMID": "11309261",
+        "PMC": "PMC1572734",
+        "DOI": "10.1038/sj.bjp.0704017",
+        "Release Date": "--",
+        "Abstract": "Binding of D,L-(E)-2-amino-4-[(3)H]-propyl-5-phosphono-3-pentenoic acid ([(3)H]-CGP39653), a selective antagonist at the glutamate site of the NMDA receptor, is modulated by glycine in rat brain tissue. We have further investigated this phenomenon in rodent and human brain by means of receptor binding and quantitative autoradiography techniques. In rat cerebral cortical membranes the glycine antagonist 3-[2-(Phenylaminocarbonyl)ethenyl]-4,6-dichloro-indole-2-carboxylic acid sodium salt (GV150526A) did not change basal [(3)H]-CGP39653 binding, but competitively reversed the high affinity component of [(3)H]-CGP39653 binding inhibition by glycine, with a pK(B) value of 8.38, in line with its affinity for the glycine site (pK(i)=8.49 vs. [(3)H]-glycine). Glycine (10 microM) significantly decreased [(3)H]-CGP39653 affinity for the NMDA receptor (with no change in the B(max)), whereas enhanced L-glutamate affinity (P<0.05, paired-samples Student's t-test). In rat brain sections the addition of GV150526A (30 microM) to the incubation medium increased [(3)H]-CGP39653 binding to 208% of control (average between areas), indicating the presence of endogenous glycine. The enhancement presented significant regional differences (P<0.05, two-way ANOVA), with striatum higher than cerebral cortex (282 and 187% of control, respectively; P<0.05, Fisher's LSD). On the contrary, there was not any significant variation in affinity values of [(3)H]-CGP39653, L-glutamate, glycine and GV150526A in striatal and cortical membranes. These results confirmed the existence of regionally distinct NMDA receptors subtypes with different glycine/glutamate allosteric modulation. Whole brain autoradiography revealed an uneven distribution of [(3)H]-CGP39653 binding sites in human brain. High levels of binding were determined in hippocampus and in cingulate, frontoparietal and insular cortex. Intermediate to low levels of binding were found in diencephalic nuclei and basal ganglia. [(3)H]-CGP39653 binding was increased to 216% of control (mean between areas) by 30 microM GV150526A. The enhancement, however, did not present significant regional differences. These results introduce GV150526A as a useful tool to identify NMDA receptor subtypes by means of receptor autoradiography; moreover, they demonstrate that the allosteric inhibition of [(3)H]-CGP39653 binding by glycine parallels an increase in receptor affinity to the endogenous ligand L-glutamate. Finally, this study provides the first detailed anatomical description of the regional distribution of [(3)H]-CGP39653 binding sites in human brain.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PKB\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "PKB"
+    },
+    {
+        "Title": "Growth factor-dependent trafficking of cerebellar NMDA receptors via protein kinase B/Akt phosphorylation of NR2C.",
+        "Journal Name": "Neuron",
+        "PMID": "19477150",
+        "PMC": "PMC2716006",
+        "DOI": "10.1016/j.neuron.2009.04.015",
+        "Release Date": "--",
+        "Abstract": "NMDA receptor subunit composition varies throughout the brain, providing molecular diversity in NMDA receptor function. The NR2 subunits (NR2A-D) in large part dictate the distinct functional properties of NMDA receptors and differentially regulate receptor trafficking. Although the NR2C subunit is highly enriched in cerebellar granule cells and plays a unique role in cerebellar function, little is known about NR2C-specific regulation of NMDA receptors. Here, we demonstrate that PKB/Akt directly phosphorylates NR2C on serine 1096 (S1096). In addition, we identify 14-3-3epsilon as an NR2C interactor, whose binding is dependent on S1096 phosphorylation. Both growth factor stimulation and NMDA receptor activity lead to a robust increase in both phosphorylation of NR2C on S1096 and surface expression of cerebellar NMDA receptors. Finally, we find that NR2C expression, unlike NR2A and NR2B, supports neuronal survival. Thus, our data provide a direct mechanistic link between growth factor stimulation and regulation of cerebellar NMDA receptors.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"PKB\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "PKB"
+    },
+    {
+        "Title": "Octreotide activates autophagy to alleviate lipopolysaccharide-induced human pulmonary epithelial cell injury by inhibiting the protein kinase B (AKT)/mammalian target of rapamycin (mTOR) signaling pathway.",
+        "Journal Name": "Bioengineered",
+        "PMID": "34898367",
+        "PMC": "PMC8805934",
+        "DOI": "10.1080/21655979.2021.2012908",
+        "Release Date": "--",
+        "Abstract": "Octreotide is a synthetic octapeptide of natural somatostatin. We aimed to investigate the influence of Octreotide on lipopolysaccharide (LPS)-stimulated human pulmonary epithelial cell damage. After stimulated by LPS, BEAS-2B cells were treated with various concentrations of Octreotide. CCK-8 assay and LDH kits were to evaluate cell cytotoxicity. ELISA kits were to analyze the levels of inflammatory factors. TUNEL staining was to measure cell apoptosis. Western blot assay was used to assess the expression of apoptosis-related proteins, autophagy-related proteins and AKT/mTOR signaling-related proteins. Then, 3-methyladenine (3-MA) was adopted for treating BEAS-2B cells to determine its effects on inflammation and apoptosis. Afterward, adding AKT agonist (SC79) or mTOR antagonist (rapamycin) to explore the impact of Octreotide on autophagy. Results revealed that Octreotide notably enhanced cell viability and reduced LDH activity. The levels of inflammatory factors were significantly decreased following Octreotide treatment. Additionally, Octreotide attenuated the apoptotic capacity of LPS-induced BEAS-2B cells, led to the up-regulation of Bcl-2 protein level while cut down the protein levels of Bax and cleaved caspase3. Remarkably, the expression of autophagy-related protein LC3II/I and Beclin1 was elevated after Octreotide administration. Importantly, the suppressive effects of Octreotide on the inflammation and apoptosis of LPS-induced BEAS-2B cells was abrogated by 3-MA. Further experiments suggested that Octreotide downregulated p-AKT and mTOR expression in LPS-stimulated BEAS-2B cells. SC79 addition inhibited autophagy, evidenced by downregulated LC3II/I and Beclin1 expression while rapamycin presented the opposite effects. To conclude, Octreotide activates autophagy to alleviate LPS-induced pulmonary epithelial cell injury by inhibiting the AKT/mTOR signaling.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein kinase B\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Protein kinase B"
+    },
+    {
+        "Title": "Lgr4 Deletion Delays the Hair Cycle and Inhibits the Activation of Hair Follicle Stem Cells.",
+        "Journal Name": "The Journal of investigative dermatology",
+        "PMID": "32035093",
+        "PMC": "PMC8507220",
+        "DOI": "10.1016/j.jid.2019.12.034",
+        "Release Date": "06-02-2020",
+        "Abstract": "It is known that LGR4 plays an important role in hair follicle (HF) development, but the impact of LGR4 on the hair cycle is still unclear. In this study, we have found that K14-Cre-mediated skin epithelia-specific deletion of Lgr4 results in delayed anagen entry during the physiological hair cycle and compromised HF regeneration upon transplantation. We show that, although Lgr4 deletion does not appear to affect the number of quiescent HF stem cells, it leads to reduced numbers of LGR5",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Protein kinase B\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Protein kinase B"
+    }
+]

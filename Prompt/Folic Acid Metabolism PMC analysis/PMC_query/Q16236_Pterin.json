@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "New insights into the role of HNF-1β in kidney (patho)physiology.",
+        "Journal Name": "Pediatric nephrology (Berlin, Germany)",
+        "PMID": "29961928",
+        "PMC": "PMC6312759",
+        "DOI": "10.1007/s00467-018-3990-7",
+        "Release Date": "01-07-2018",
+        "Abstract": "Hepatocyte nuclear factor-1β (HNF-1β) is an essential transcription factor that regulates the development and function of epithelia in the kidney, liver, pancreas, and genitourinary tract. Humans who carry HNF1B mutations develop heterogeneous renal abnormalities, including multicystic dysplastic kidneys, glomerulocystic kidney disease, renal agenesis, renal hypoplasia, and renal interstitial fibrosis. In the embryonic kidney, HNF-1β is required for ureteric bud branching, initiation of nephrogenesis, and nephron segmentation. Ablation of mouse Hnf1b in nephron progenitors causes defective tubulogenesis, whereas later inactivation in elongating tubules leads to cyst formation due to downregulation of cystic disease genes, including Umod, Pkhd1, and Pkd2. In the adult kidney, HNF-1β controls the expression of genes required for intrarenal metabolism and solute transport by tubular epithelial cells. Tubular abnormalities observed in HNF-1β nephropathy include hyperuricemia with or without gout, hypokalemia, hypomagnesemia, and polyuria. Recent studies have identified novel post-transcriptional and post-translational regulatory mechanisms that control HNF-1β expression and activity, including the miRNA cluster miR17 ∼ 92 and the interacting proteins PCBD1 and zyxin. Further understanding of the molecular mechanisms upstream and downstream of HNF-1β may lead to the development of new therapeutic approaches in cystic kidney disease and other HNF1B-related renal diseases.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"nuclear factor\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "nuclear factor"
+    },
+    {
+        "Title": "New insights into the role of HNF-1β in kidney (patho)physiology.",
+        "Journal Name": "Pediatric nephrology (Berlin, Germany)",
+        "PMID": "29961928",
+        "PMC": "PMC6312759",
+        "DOI": "10.1007/s00467-018-3990-7",
+        "Release Date": "01-07-2018",
+        "Abstract": "Hepatocyte nuclear factor-1β (HNF-1β) is an essential transcription factor that regulates the development and function of epithelia in the kidney, liver, pancreas, and genitourinary tract. Humans who carry HNF1B mutations develop heterogeneous renal abnormalities, including multicystic dysplastic kidneys, glomerulocystic kidney disease, renal agenesis, renal hypoplasia, and renal interstitial fibrosis. In the embryonic kidney, HNF-1β is required for ureteric bud branching, initiation of nephrogenesis, and nephron segmentation. Ablation of mouse Hnf1b in nephron progenitors causes defective tubulogenesis, whereas later inactivation in elongating tubules leads to cyst formation due to downregulation of cystic disease genes, including Umod, Pkhd1, and Pkd2. In the adult kidney, HNF-1β controls the expression of genes required for intrarenal metabolism and solute transport by tubular epithelial cells. Tubular abnormalities observed in HNF-1β nephropathy include hyperuricemia with or without gout, hypokalemia, hypomagnesemia, and polyuria. Recent studies have identified novel post-transcriptional and post-translational regulatory mechanisms that control HNF-1β expression and activity, including the miRNA cluster miR17 ∼ 92 and the interacting proteins PCBD1 and zyxin. Further understanding of the molecular mechanisms upstream and downstream of HNF-1β may lead to the development of new therapeutic approaches in cystic kidney disease and other HNF1B-related renal diseases.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Nuclear factor\") AND (\"Pterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterin",
+        "Query_ProteinName": "Nuclear factor"
+    },
+    {
+        "Title": "Mutation in the 4a-carbinolamine dehydratase gene leads to mild hyperphenylalaninemia with defective cofactor metabolism.",
+        "Journal Name": "American journal of human genetics",
+        "PMID": "8352282",
+        "PMC": "PMC1682436",
+        "DOI": "",
+        "Release Date": "--",
+        "Abstract": "Hyperphenylalaninemias represent a major class of inherited metabolic disorders. They are most often caused by mutations in the phenylalanine hydroxylase gene and, less frequently but with usually more serious consequences, in genes necessary for the synthesis and regeneration of the cofactor, tetrahydrobiopterin. This cofactor is absolutely required for all aromatic amino acid hydroxylations, and, recently, nitric oxide production from L-arginine has also been found to be dependent on tetrahydrobiopterin. Phenylalanine hydroxylase catalyzes a coupled reaction in which phenylalanine is converted to tyrosine and in which tetrahydrobiopterin is converted to the unstable carbinolamine, 4a-hydroxytetrahydrobiopterin. The enzyme, carbinolamine dehydratase, catalyzes the dehydration of the carbinolamine to quinonoid dihydropterin. A decreased rate of dehydration of this compound has been hypothesized to be responsible for the production of 7-biopterin found in certain mildly hyperphenylalaninemic individuals. We have now identified nonsense and missense mutations in the 4a-carbinolamine dehydratase gene in a hyperphenylalaninemic child who excretes large amounts of 7-biopterin. This finding is consistent with the role of the carbinolamine dehydratase in the phenylalanine hydroxylation reaction. Together with previously identified inherited disorders in phenylalanine hydroxylase and dihydropteridine reductase, there are now identified mutations in the three enzymes involved in the phenylalanine hydroxylation system. In addition, the genetics of this system may have broader implications, since the product of the dehydratase gene has previously been shown to play an additional role (as dimerization cofactor for hepatocyte nuclear factor-1 alpha) in the regulation of transcription, through interaction with hepatocyte nuclear factor-1 alpha.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Nuclear factor\") AND (\"2-amino-Quinonoid dihydropterin\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-amino-Quinonoid dihydropterin",
+        "Query_ProteinName": "Nuclear factor"
+    }
+]

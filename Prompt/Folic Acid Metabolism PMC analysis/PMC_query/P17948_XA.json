@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Dual Targeting of Aurora Kinases with AMG 900 Exhibits Potent Preclinical Activity Against Acute Myeloid Leukemia with Distinct Post-Mitotic Outcomes.",
+        "Journal Name": "Molecular cancer therapeutics",
+        "PMID": "30266802",
+        "PMC": "PMC6279493",
+        "DOI": "10.1158/1535-7163.MCT-18-0186",
+        "Release Date": "28-09-2018",
+        "Abstract": "Aurora kinase A and B have essential and non-overlapping roles in mitosis, with elevated expression in a subset of human cancers, including acute myeloid leukemia (AML). In this study, pan-aurora kinase inhibitor (AKI) AMG 900 distinguishes itself as an anti-leukemic agent that is more uniformly potent against a panel of AML cell lines than are isoform-selective AKIs and classic AML drugs. AMG 900 inhibited AML cell growth by inducing polyploidization and/or apoptosis. AMG 900 and aurora-B-selective inhibitor AZD1152-hQPA showed comparable cellular effects on AML lines that do not harbor a",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"FLT\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "FLT"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Evaluation of health benefits of sea lamprey (Petromyzon marinus) isolates using in vitro antiinflammatory and antioxidant assays.",
+        "Journal Name": "PloS one",
+        "PMID": "34731213",
+        "PMC": "PMC8565778",
+        "DOI": "10.1371/journal.pone.0259587",
+        "Release Date": "03-11-2021",
+        "Abstract": "Sea lamprey (Petromyzon marinus), a parasitic fish which survives on blood of other fishes, is consumed as a delicacy in many countries. Our earlier studies on sea lamprey compounds that showed potential to deter adult sea lampreys yielded several sterols, glycerides, free fatty acids, amino acids, organic acids and nitrogenous compounds. Therefore, this study was to assess the health-benefits of these compounds including additional isolates from HPLC fractions that kept aside due to lack of activity in sea lamprey deterrent assays. In vitro cyclooxygenase enzymes (COX-1 and -2) and lipid peroxidation (LPO) inhibitory assays, respectively, were used to determine antiinflammatory and antioxidant activities. Among the tested sterols, cholesteryl eicosapentaenoate and cholesteryl arachidonate exhibited IC50 values of 14.6 and 17.7 μg/mL for COX-1 and 17.3 and 20.8 μg/mL for COX-2, respectively. Cholesteryl palmitate and cholesteryl oleate showed moderate COX-1 and COX-2 enzyme inhibition at 25 μg/mL. Amino acids arginine, tyrosine, glutamic acid, tryptophan and asparagine also showed moderate COX-1 and COX-2 inhibition at the same concentration. Among the twelve new isolates from fractions that we did not investigate earlier, a novel uracil derivative petromyzonacil showed COX-1 and COX-2 inhibition at 25 μg/mL by 35 and 15%, respectively. Cholesterol esters tested at 25 μg/mL exhibited LPO inhibition between 38 and 82 percent. Amino acids cysteine, methionine, aspartic acid, threonine, tryptophan, histidine, glutamic acid, phenylalanine and tyrosine at 25 μg/mL showed LPO inhibition between 37 and 58% and petromyzonacil by 32%. These assay results indicate that consumption of sea lamprey offer health-benefits in addition to nutritional benefits.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"COX-2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "COX-2"
+    }
+]

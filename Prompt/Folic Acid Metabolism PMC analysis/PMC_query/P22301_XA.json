@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Acid external and internal environment exchange the",
+        "Journal Name": "Frontiers in immunology",
+        "PMID": "36225935",
+        "PMC": "PMC9549756",
+        "DOI": "10.3389/fimmu.2022.1012078",
+        "Release Date": "26-09-2022",
+        "Abstract": "The water environment plays an important role in animal physiology. In this study, we sought to evaluate the effect of the acid environment on the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"interleukin 10\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "interleukin 10"
+    },
+    {
+        "Title": "Acid external and internal environment exchange the",
+        "Journal Name": "Frontiers in immunology",
+        "PMID": "36225935",
+        "PMC": "PMC9549756",
+        "DOI": "10.3389/fimmu.2022.1012078",
+        "Release Date": "26-09-2022",
+        "Abstract": "The water environment plays an important role in animal physiology. In this study, we sought to evaluate the effect of the acid environment on the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Interleukin-10\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Interleukin-10"
+    },
+    {
+        "Title": "Acid external and internal environment exchange the",
+        "Journal Name": "Frontiers in immunology",
+        "PMID": "36225935",
+        "PMC": "PMC9549756",
+        "DOI": "10.3389/fimmu.2022.1012078",
+        "Release Date": "26-09-2022",
+        "Abstract": "The water environment plays an important role in animal physiology. In this study, we sought to evaluate the effect of the acid environment on the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL-10\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IL-10"
+    },
+    {
+        "Title": "4R-cembranoid protects neuronal cells from oxygen-glucose deprivation by modulating microglial cell activation.",
+        "Journal Name": "Brain research bulletin",
+        "PMID": "34942325",
+        "PMC": "PMC8849140",
+        "DOI": "10.1016/j.brainresbull.2021.12.007",
+        "Release Date": "20-12-2021",
+        "Abstract": "As major immune responsive cells in the central nervous system (CNS), activated microglia can present pro-inflammatory M1 phenotype aggravating the neuronal injury or anti-inflammatory M2 phenotype providing neuroprotection and promoting neuronal survival in neurodegenerative diseases. In this study, we demonstrated that a compound, 4R-cembranoid (4R, 1S, 2E, 4R, 6R,-7E, 11E-2, 7, 11-cembratriene-4, 6-diol cembranoids) promoted M2 phenotype while attenuated M1 phenotype in N9 cells, a microglial cell line. Following Lipopolysaccharides (LPS) or Oxygen-glucose deprivation (OGD) treatment, the N9 cells treated by 1 µM 4R showed an increased Arginase-1 (Arg1, a M2 marker) expression and a reduced inducible nitric oxide synthase (iNOS, M1 marker) expression. In addition, the conditioned medium of 4R-treated post-OGD N9 cells protected neuro2a cells, a neuronal cell line, from OGD-induced injury. The viability of neuro2a cells in OGD condition was increased by 54.5% after treated with the conditioned medium of 4R-treated post-OGD N9 cells. Furthermore, we demonstrated the protective mechanism of 4R was associated with a decreased TNF-α release and an increased IL-10 release from N9 cells. In conclusion, our study demonstrated that the neuroprotective effects of 4R were through the regulation of microglial activation by promoting the protective M2 activation and inhibiting the damaging M1 activation. Therefore, the findings of this study suggest that 4R could be a promising lead structure for the development of drugs for the treatment of ischemic stroke and other neurodegenerative diseases with an inflammatory component involved.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL10\") AND (\"2-AMINOPTERIDINE-4,6-DIOL\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-AMINOPTERIDINE-4,6-DIOL",
+        "Query_ProteinName": "IL10"
+    },
+    {
+        "Title": "Boosting phagocytosis and anti-inflammatory phenotype in microglia mediates neuroprotection by PPARγ agonist MDG548 in Parkinson's disease models.",
+        "Journal Name": "British journal of pharmacology",
+        "PMID": "29570770",
+        "PMC": "PMC6057897",
+        "DOI": "10.1111/bph.14214",
+        "Release Date": "12-07-2018",
+        "Abstract": "Microglial phenotype and phagocytic activity are deregulated in Parkinson's disease (PD). PPARγ agonists are neuroprotective in experimental PD, but their role in regulating microglial phenotype and phagocytosis has been poorly investigated. We addressed it by using the PPARγ agonist MDG548.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL10\") AND (\"2-aminopteridine-4,6(1H,5H)-dione\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-aminopteridine-4,6(1H,5H)-dione",
+        "Query_ProteinName": "IL10"
+    },
+    {
+        "Title": "Acid external and internal environment exchange the",
+        "Journal Name": "Frontiers in immunology",
+        "PMID": "36225935",
+        "PMC": "PMC9549756",
+        "DOI": "10.3389/fimmu.2022.1012078",
+        "Release Date": "26-09-2022",
+        "Abstract": "The water environment plays an important role in animal physiology. In this study, we sought to evaluate the effect of the acid environment on the",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"IL10\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "IL10"
+    }
+]

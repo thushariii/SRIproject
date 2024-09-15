@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "",
+        "Journal Name": "Tissue engineering. Part A",
+        "PMID": "28946792",
+        "PMC": "PMC5729881",
+        "DOI": "10.1089/ten.TEA.2017.0111",
+        "Release Date": "13-11-2017",
+        "Abstract": "A drug delivery coating for synthetic bone grafts has been developed to provide sequential delivery of multiple osteoinductive factors to better mimic aspects of the natural regenerative process. The coating is composed of a biomimetic calcium phosphate (bCaP) layer that is applied to a synthetic bone graft and then covered with a poly-l-Lysine/poly-l-Glutamic acid polyelectrolyte multilayer (PEM) film. Bone morphogenetic protein-2 (BMP-2) was applied before the coating process directly on the synthetic bone graft and then, bCaP-PEM was deposited followed by adsorption of fibroblast growth factor-2 (FGF-2) into the PEM layer. Cells access the FGF-2 immediately, while the bCaP-PEM temporally delays the cell access to BMP-2. In vitro studies with cells derived from mouse calvarial bones demonstrated that Sca-1 and CD-166 positive osteoblast progenitor cells proliferated in response to media dosing with FGF-2. Coated scaffolds with BMP-2 and FGF-2 were implanted in mouse calvarial bone defects and harvested at 1 and 3 weeks. After 1 week in vivo, proliferation of cells, including Sca-1+ progenitors, was observed with low dose FGF-2 and BMP-2 compared to BMP-2 alone, indicating that in vivo delivery of FGF-2 activated a similar population of cells as shown by in vitro testing. At 3 weeks, FGF-2 and BMP-2 delivery increased bone formation more than BMP-2 alone, particularly in the center of the defect, confirming that the proliferation of the Sca-1 positive osteoprogenitors by FGF-2 was associated with increased bone healing. Areas of bone mineralization were positive for double fluorochrome labeling of calcium and alkaline phosphatase staining of osteoblasts, along with increased TRAP+ osteoclasts, demonstrating active bone formation distinct from the bone-like collagen/hydroxyapatite scaffold. In conclusion, the addition of a bCaP layer to PEM delayed access to BMP-2 and allowed the FGF-2 stimulated progenitors to populate the scaffold before differentiating in response to BMP-2, leading to improved bone defect healing.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"fibroblast growth factor 2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "fibroblast growth factor 2"
+    },
+    {
+        "Title": "The integrin-binding defective FGF2 mutants potently suppress FGF2 signalling and angiogenesis.",
+        "Journal Name": "Bioscience reports",
+        "PMID": "28302677",
+        "PMC": "PMC5482197",
+        "DOI": "10.1042/BSR20170173",
+        "Release Date": "10-04-2017",
+        "Abstract": "We recently found that integrin αvβ3 binds to fibroblast growth factor (FGF)-αvβ31 (FGF1), and that the integrin-binding defective FGF1 mutant (Arg-50 to glutamic acid, R50E) is defective in signalling and antagonistic to FGF1 signalling. R50E suppressed angiogenesis and tumour growth, suggesting that R50E has potential as a therapeutic. However, FGF1 is unstable, and we had to express R50E in cancer cells for xenograft study, since injected R50E may rapidly disappear from circulation. We studied if we can develop antagonist of more stable FGF2. FGF2 is widely involved in important biological processes such as stem cell proliferation and angiogenesis. Previous studies found that FGF2 bound to αvβ3 and antagonists to αvβ3 suppressed FGF2-induced angiogenesis. However, it is unclear how FGF2 interacts with integrins. Here, we describe that substituting Lys-119/Arg-120 and Lys-125 residues in the predicted integrin-binding interface of FGF2 to glutamic acid (the K119E/R120E and K125E mutations) effectively reduced integrin binding to FGF2. These FGF2 mutants were defective in signalling functions (ERK1/2 activation and DNA synthesis) in NIH3T3 cells. Notably they suppressed, FGF2 signalling induced by WT FGF2 in endothelial cells, suggesting that the FGF2 mutants are antagonists. The FGF2 mutants effectively suppressed tube formation",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"fibroblast growth factor 2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "fibroblast growth factor 2"
+    },
+    {
+        "Title": "The tyrosine sulfate-rich domains of the LRR proteins fibromodulin and osteoadherin bind motifs of basic clusters in a variety of heparin-binding proteins, including bioactive factors.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "19700767",
+        "PMC": "PMC2781397",
+        "DOI": "10.1074/jbc.M109.047076",
+        "Release Date": "21-08-2009",
+        "Abstract": "The small leucine-rich repeat proteins, fibromodulin and osteoadherin, have N-terminal extensions with a variable number of O-sulfated tyrosine residues. This modification combined with a number of aspartic and glutamic acid residues results in a highly negatively charged domain of less than 30 amino acids. We hypothesized that this domain shares functional properties with heparin regarding binding to proteins and polypeptides containing clusters of basic amino acids. Two other family members, PRELP and chondroadherin, have distinctly different clusters of basic amino acids in their N and C termini, respectively, and PRELP is known to bind to heparin via this domain. Another heparin-binding protein is the cytokine Oncostatin M, with a different cluster of basic amino acids in its C terminus. We used polypeptides representing these basic domains in solid phase assays and demonstrate interactions with the negatively charged N-terminal domain of fibromodulin and full-length osteoadherin. The tyrosine sulfate domains also bound heparin-binding proteins such as basic fibroblast growth factor-2, thrombospondin I, MMP13, the NC4 domain of collagen IX, and interleukin-10. Fibronectin with large heparin-binding domains did not bind, neither did CILP containing a heparin-binding thrombospondin type I motif without clustered basic amino acids. Affinity depends on the number and position of the sulfated tyrosine residues shown by different binding properties of 10-kDa fragments subfractionated by ion-exchange chromatography. These interactions may sequester growth factors, cytokines, and matrix metalloproteinases in the extracellular matrix as well as contribute to its organization.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Basic fibroblast growth factor\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "Basic fibroblast growth factor"
+    },
+    {
+        "Title": "",
+        "Journal Name": "Tissue engineering. Part A",
+        "PMID": "28946792",
+        "PMC": "PMC5729881",
+        "DOI": "10.1089/ten.TEA.2017.0111",
+        "Release Date": "13-11-2017",
+        "Abstract": "A drug delivery coating for synthetic bone grafts has been developed to provide sequential delivery of multiple osteoinductive factors to better mimic aspects of the natural regenerative process. The coating is composed of a biomimetic calcium phosphate (bCaP) layer that is applied to a synthetic bone graft and then covered with a poly-l-Lysine/poly-l-Glutamic acid polyelectrolyte multilayer (PEM) film. Bone morphogenetic protein-2 (BMP-2) was applied before the coating process directly on the synthetic bone graft and then, bCaP-PEM was deposited followed by adsorption of fibroblast growth factor-2 (FGF-2) into the PEM layer. Cells access the FGF-2 immediately, while the bCaP-PEM temporally delays the cell access to BMP-2. In vitro studies with cells derived from mouse calvarial bones demonstrated that Sca-1 and CD-166 positive osteoblast progenitor cells proliferated in response to media dosing with FGF-2. Coated scaffolds with BMP-2 and FGF-2 were implanted in mouse calvarial bone defects and harvested at 1 and 3 weeks. After 1 week in vivo, proliferation of cells, including Sca-1+ progenitors, was observed with low dose FGF-2 and BMP-2 compared to BMP-2 alone, indicating that in vivo delivery of FGF-2 activated a similar population of cells as shown by in vitro testing. At 3 weeks, FGF-2 and BMP-2 delivery increased bone formation more than BMP-2 alone, particularly in the center of the defect, confirming that the proliferation of the Sca-1 positive osteoprogenitors by FGF-2 was associated with increased bone healing. Areas of bone mineralization were positive for double fluorochrome labeling of calcium and alkaline phosphatase staining of osteoblasts, along with increased TRAP+ osteoclasts, demonstrating active bone formation distinct from the bone-like collagen/hydroxyapatite scaffold. In conclusion, the addition of a bCaP layer to PEM delayed access to BMP-2 and allowed the FGF-2 stimulated progenitors to populate the scaffold before differentiating in response to BMP-2, leading to improved bone defect healing.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"FGF2\") AND (\"N-(4-aminobenzene-1-carbonyl)-L-glutamic acid\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "N-(4-aminobenzene-1-carbonyl)-L-glutamic acid",
+        "Query_ProteinName": "FGF2"
+    }
+]

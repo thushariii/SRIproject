@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Selective TBK1/IKKi dual inhibitors with anticancer potency.",
+        "Journal Name": "International journal of cancer",
+        "PMID": "24150799",
+        "PMC": "PMC3947486",
+        "DOI": "10.1002/ijc.28507",
+        "Release Date": "21-10-2013",
+        "Abstract": "Increasing evidence suggests that the noncanonical IKKs play critical roles in tumor genesis and development, leading to the notion that noncanonical IKKs may be good targets for cancer therapy. Here, we demonstrate that although TBK1 is not overexpressed or constitutively activated in some tumor cells, targeting IKKi induces the activation of TBK1. Therefore, simultaneously targeting both kinases is necessary to efficiently suppress tumor cell proliferation. We show that three TBK1/IKKi dual inhibitors, which are based on a structurally rigid 2-amino-4-(3'-cyano-4'-pyrrolidine)phenyl-pyrimidine scaffold, potently inhibit cell viability in human breast, prostate and oral cancer cell lines. Treatment with these TBK1/IKKi dual inhibitors significantly impairs tumor development in xenograft and allograft mouse models. The anticancer function of these inhibitors may be partially due to their suppression of TBK1/IKKi-mediated AKT phosphorylation and VEGF expression. Most importantly, these TBK1/IKKi dual inhibitors have drug-like properties including low molecular weight, low cytochrome P450 inhibition and high metabolic stability. Therefore, our studies provide proof of concept for further drug discovery efforts that may lead to novel strategies and new therapeutics for the treatment of human cancer.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Serine/threonine protein kinase IKBKB\") AND (\"2-Amino-4,6-pteridinediol\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "2-Amino-4,6-pteridinediol",
+        "Query_ProteinName": "Serine/threonine protein kinase IKBKB"
+    },
+    {
+        "Title": "The IκB kinase inhibitor ACHP strongly attenuates TGFβ1-induced myofibroblast formation and collagen synthesis.",
+        "Journal Name": "Journal of cellular and molecular medicine",
+        "PMID": "26337045",
+        "PMC": "PMC4687706",
+        "DOI": "10.1111/jcmm.12661",
+        "Release Date": "04-09-2015",
+        "Abstract": "Excessive accumulation of a collagen-rich extracellular matrix (ECM) by myofibroblasts is a characteristic feature of fibrosis, a pathological state leading to serious organ dysfunction. Transforming growth factor beta1 (TGFβ1) is a strong inducer of myofibroblast formation and subsequent collagen production. Currently, there are no remedies for the treatment of fibrosis. Activation of the nuclear factor kappa B (NF-κB) pathway by phosphorylating IκB with the enzyme IκB kinase (IKK) plays a major role in the induction of fibrosis. ACHP {2-Amino-6-[2-(cyclopropylmethoxy)-6-hydroxyphenyl]-4-(4-piperidinyl)-3 pyridinecarbonitrile}, a selective inhibitor of IKK, prohibits the activation of the NF-κB pathway. It is not known whether ACHP has potential anti-fibrotic properties. Using adult human dermal and lung fibroblasts we have investigated whether ACHP has the ability to inhibit the TGFβ1-induced transition of fibroblasts into myofibroblasts and its excessive synthesis of ECM. The presence of ACHP strongly suppressed the induction of the myofibroblast markers alpha-smooth muscle actin (αSMA) and SM22α, as well as the deposition of the ECM components collagen type I and fibronectin. Furthermore, post-treatment with ACHP partly reversed the expression of αSMA and collagen type I production. Finally, ACHP suppressed the expression of the three collagen-modifying enzymes lysyl hydroxylase (PLOD1, PLOD2 and PLOD3) in dermal fibroblasts, but did not do so in lung fibroblasts. We conclude that the IKK inhibitor ACHP has potent antifibrotic properties, and that the NF-κB pathway plays an important role in myofibroblast biology.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Serine/threonine protein kinase IKBKB\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Serine/threonine protein kinase IKBKB"
+    },
+    {
+        "Title": "IκB kinase β (IKKβ) inhibits p63 isoform γ (TAp63γ) transcriptional activity.",
+        "Journal Name": "The Journal of biological chemistry",
+        "PMID": "23589370",
+        "PMC": "PMC3689961",
+        "DOI": "10.1074/jbc.M113.466540",
+        "Release Date": "15-04-2013",
+        "Abstract": "Previously, we reported that IκB kinase-β(IKKβ) phosphorylates and stabilizes TAp63γ. However, the effect of this phosphorylation on TAp63γ transcriptional activity remains unclear. In this study, we showed that overexpression of IKKβ, but not its kinase dead mutant and IKKα, can surprisingly inhibit TAp63γ transcriptional activity as measured by luciferase assays and real-time PCR analyses of p63 target genes. This inhibition was impaired by ACHP, an IKKβ inhibitor, and enhanced by TNFα that activates IKKβ. Consistently, IKKβ inhibited the binding between TAp63γ and p300, a co-activator of TAp63γ, and consequently counteracted the positive effect of p300 on TAp63γ transcriptional activity. Through phosphorylation site prediction and mass spectrometry, we identified that Ser-4 and Ser-12 of p63 are IKKβ-targeting residues. As expected, IKKβ fails to suppress the transcriptional activity of the S4A/S12A double mutant p63. These results indicate that IKKβ can suppress TAp63γ activity by interfering with the interaction between TAp63γ and p300.",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"Nuclear factor NF-kappa-B inhibitor kinase beta\") AND (\"4,6-Pteridinediol, 2-amino-\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "4,6-Pteridinediol, 2-amino-",
+        "Query_ProteinName": "Nuclear factor NF-kappa-B inhibitor kinase beta"
+    }
+]

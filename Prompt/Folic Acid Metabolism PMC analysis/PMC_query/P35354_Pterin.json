@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Interaction between MyD88, TIRAP and IL1RL1 against Helicobacter pylori infection.",
+        "Journal Name": "Scientific reports",
+        "PMID": "32985578",
+        "PMC": "PMC7522988",
+        "DOI": "10.1038/s41598-020-72974-9",
+        "Release Date": "28-09-2020",
+        "Abstract": "The Toll-interleukin 1 receptor superfamily includes the genes interleukin 1 receptor-like 1 (IL1RL1), Toll like receptors (TLRs), myeloid differentiation primary-response 88 (MyD88), and MyD88 adaptor-like (TIRAP). This study describes the interaction between MyD88, TIRAP and IL1RL1 against Helicobacter pylori infection. Cases and controls were genotyped at the polymorphic sites MyD88 rs6853, TIRAP rs8177374 and IL1RL1 rs11123923. The results show that specific combinations of IL1RL1-TIRAP (AA-CT; P: 2,8 × 10",
+        "Query": "(ENG[Language]) AND (pubmed pmc[Subset]) AND (\"COX-2\") AND (\"Pterine\") NOT (Retracted Publication[pt])",
+        "Query_DrugName": "Pterine",
+        "Query_ProteinName": "COX-2"
+    }
+]
